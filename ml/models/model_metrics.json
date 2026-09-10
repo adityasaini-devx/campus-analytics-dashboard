@@ -1,0 +1,148 @@
+{
+  "timestamp": "2026-09-08T22:33:17.263505",
+  "champion_model": "Logistic Regression",
+  "model_version": "v1.2-enterprise",
+  "training_records": 6740,
+  "test_records": 1686,
+  "class_imbalance": {
+    "total_records": 8426,
+    "at_risk_records": 402,
+    "at_risk_prevalence_pct": 4.77,
+    "test_records": 1686,
+    "test_at_risk_records": 80,
+    "test_at_risk_pct": 4.74
+  },
+  "metrics": {
+    "accuracy": 0.9514,
+    "precision": 0.4933,
+    "recall": 0.925,
+    "f1_score": 0.6435,
+    "roc_auc": 0.9844,
+    "pr_auc": 0.7825,
+    "confusion_matrix": {
+      "tn": 1530,
+      "fp": 76,
+      "fn": 6,
+      "tp": 74
+    }
+  },
+  "baseline_rule_model": {
+    "accuracy": 0.9561,
+    "precision": 0.75,
+    "recall": 0.1125,
+    "f1_score": 0.1957,
+    "roc_auc": 0.929,
+    "pr_auc": 0.4444,
+    "confusion_matrix": {
+      "tn": 1603,
+      "fp": 3,
+      "fn": 71,
+      "tp": 9
+    }
+  },
+  "comparison": {
+    "models": {
+      "Baseline Rule Model": {
+        "accuracy": 0.9561,
+        "recall": 0.1125,
+        "f1_score": 0.1957,
+        "roc_auc": 0.929
+      },
+      "Logistic Regression": {
+        "accuracy": 0.9514,
+        "recall": 0.925,
+        "f1_score": 0.6435,
+        "roc_auc": 0.9844
+      },
+      "Random Forest": {
+        "accuracy": 0.965,
+        "recall": 0.775,
+        "f1_score": 0.6776,
+        "roc_auc": 0.9818
+      },
+      "Gradient Boosting": {
+        "accuracy": 0.9745,
+        "recall": 0.65,
+        "f1_score": 0.7075,
+        "roc_auc": 0.9893
+      }
+    }
+  },
+  "top_feature_importances": [
+    {
+      "feature": "cgpa_change",
+      "importance": 1.9413
+    },
+    {
+      "feature": "current_cgpa",
+      "importance": 1.6167
+    },
+    {
+      "feature": "backlogs",
+      "importance": 1.3646
+    },
+    {
+      "feature": "attendance_gap",
+      "importance": 1.2121
+    },
+    {
+      "feature": "previous_cgpa",
+      "importance": 0.8398
+    },
+    {
+      "feature": "cgpa_trend_improving",
+      "importance": 0.7906
+    },
+    {
+      "feature": "internal_marks",
+      "importance": 0.5767
+    },
+    {
+      "feature": "internal_discrepancy",
+      "importance": 0.5457
+    },
+    {
+      "feature": "multiple_backlogs",
+      "importance": 0.5366
+    },
+    {
+      "feature": "cgpa_trend_stable",
+      "importance": 0.5322
+    },
+    {
+      "feature": "severe_attendance_deficit",
+      "importance": 0.5144
+    },
+    {
+      "feature": "compound_vulnerability",
+      "importance": 0.4668
+    }
+  ],
+  "numerical_features": [
+    "attendance_percentage",
+    "current_cgpa",
+    "previous_cgpa",
+    "backlogs",
+    "internal_marks",
+    "assignment_score",
+    "credits_completed",
+    "event_participation",
+    "skill_score",
+    "cgpa_change",
+    "attendance_gap",
+    "backlog_severity",
+    "engagement_score",
+    "internal_discrepancy",
+    "compound_vulnerability",
+    "academic_decline",
+    "severe_attendance_deficit",
+    "multiple_backlogs",
+    "low_engagement_flag"
+  ],
+  "categorical_features": [
+    "department",
+    "internship_status",
+    "placement_status",
+    "cgpa_trend"
+  ]
+}

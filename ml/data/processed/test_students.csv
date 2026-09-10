@@ -1,0 +1,1687 @@
+student_id,roll_no,department,semester,attendance_percentage,current_cgpa,previous_cgpa,cgpa_trend,backlogs,internal_marks,assignment_score,credits_completed,event_participation,internship_status,skill_score,placement_status,at_risk,risk_probability_ground_truth
+STU-5360,25EE960,EEE,1,77.5,6.95,7.07,stable,0,72.0,72.1,18,59.2,,52.1,Not Eligible,0,0.114
+STU-1205,24CS405,CSE,4,81.1,7.67,8.76,declining,3,70.7,80.3,73,35.1,,86.2,Not Eligible,1,0.913
+STU-7999,25CI899,Civil,2,84.8,6.94,6.89,stable,0,72.0,82.4,44,56.3,,73.6,Not Eligible,0,0.102
+STU-0101,25CS201,CSE,1,96.0,8.0,7.66,improving,0,84.4,92.8,23,45.0,,90.8,Not Eligible,0,0.061
+STU-7298,25ME198,Mechanical,1,85.1,7.82,7.46,improving,0,73.7,78.4,22,61.5,,67.1,Not Eligible,0,0.046
+STU-2548,24IT848,IT,4,83.0,7.78,7.77,stable,0,87.6,78.5,80,98.0,,76.8,Not Eligible,0,0.109
+STU-5247,22EE847,EEE,8,64.7,6.45,6.76,declining,0,67.7,72.7,164,67.0,,45.6,In Process,1,0.524
+STU-1883,23CS183,CSE,5,87.5,8.08,8.2,stable,0,80.7,82.2,105,48.8,Completed,98.0,Eligible,0,0.038
+STU-4982,25EC582,ECE,1,79.4,7.27,6.28,improving,0,74.5,78.2,18,50.0,,68.4,Not Eligible,0,0.063
+STU-1797,23CS997,CSE,6,78.4,8.01,8.11,stable,0,70.9,86.1,126,56.3,Ongoing,73.1,Eligible,0,0.081
+STU-6729,23ME529,Mechanical,6,82.2,6.86,6.92,stable,0,71.2,80.3,124,64.9,Completed,58.8,Eligible,0,0.072
+STU-7317,25ME217,Mechanical,1,81.8,8.24,8.25,stable,0,79.5,72.9,22,65.4,,70.0,Not Eligible,0,0.116
+STU-3524,25EC924,ECE,1,82.3,7.3,8.01,declining,0,80.1,81.3,18,77.5,,60.6,Not Eligible,0,0.302
+STU-5512,22EE212,EEE,8,88.7,6.9,6.32,improving,0,73.7,85.2,166,51.8,,64.2,In Process,0,0.098
+STU-7519,22ME419,Mechanical,8,86.7,6.3,6.46,declining,0,66.9,81.8,164,60.1,,65.6,In Process,0,0.155
+STU-0953,25CS153,CSE,2,77.5,8.88,9.06,declining,0,91.9,81.1,44,71.8,Ongoing,83.7,Not Eligible,0,0.144
+STU-6690,25ME490,Mechanical,1,76.4,6.69,6.09,improving,0,63.8,82.3,18,30.6,,68.1,Not Eligible,0,0.144
+STU-2075,22CS375,CSE,7,79.4,8.85,8.91,stable,2,94.7,86.1,135,45.0,Completed,74.3,Not Eligible,1,0.55
+STU-7945,24CI845,Civil,3,71.8,6.55,6.96,declining,2,58.7,65.2,53,56.0,,65.7,Not Eligible,1,0.645
+STU-4915,24EC515,ECE,4,94.0,7.09,7.79,declining,0,78.5,86.6,80,62.6,,89.5,Not Eligible,0,0.27
+STU-7950,25CI850,Civil,2,90.3,6.71,5.91,improving,0,65.3,93.0,43,46.5,,83.1,Not Eligible,0,0.085
+STU-7568,22ME468,Mechanical,8,67.0,7.02,6.88,stable,0,73.0,62.1,169,98.0,Completed,72.7,In Process,0,0.235
+STU-8327,23CI327,Civil,5,80.5,6.8,7.19,declining,0,69.0,77.0,105,78.0,,59.0,Eligible,0,0.095
+STU-2073,25CS373,CSE,2,79.2,7.1,7.17,stable,0,71.2,82.3,40,58.4,,94.0,Not Eligible,0,0.115
+STU-7343,22ME243,Mechanical,8,78.8,6.03,5.94,stable,0,60.3,70.0,166,94.2,Completed,60.7,Placed,0,0.131
+STU-0975,25CS175,CSE,1,84.7,8.37,9.07,declining,0,75.4,79.2,18,98.0,,69.8,Not Eligible,0,0.254
+STU-3230,23IT630,IT,5,66.6,8.68,8.9,declining,0,87.4,66.3,101,60.0,Completed,98.0,Eligible,0,0.352
+STU-4938,22EC538,ECE,8,80.9,7.89,7.11,improving,0,84.2,75.7,170,9.7,Completed,78.4,Placed,0,0.09
+STU-7466,22ME366,Mechanical,8,79.0,7.26,7.06,improving,1,75.4,77.4,166,64.9,Completed,79.3,In Process,0,0.166
+STU-1092,23CS292,CSE,6,97.8,7.14,7.5,declining,0,67.9,91.2,128,72.3,,86.1,Eligible,0,0.167
+STU-6218,24EE918,EEE,3,97.4,6.6,7.31,declining,0,69.2,93.5,65,50.9,,71.8,Not Eligible,0,0.359
+STU-2214,23IT514,IT,6,77.8,8.19,8.03,improving,0,76.9,62.1,127,57.5,Completed,72.4,Eligible,0,0.109
+STU-2221,24IT521,IT,3,83.8,7.85,7.33,improving,0,81.5,85.2,63,59.3,Ongoing,91.1,Not Eligible,0,0.068
+STU-6456,24ME256,Mechanical,3,75.8,7.88,7.68,improving,0,75.4,78.6,64,54.8,Ongoing,94.7,Not Eligible,0,0.036
+STU-5684,24EE384,EEE,4,88.1,7.37,7.46,stable,0,76.4,81.1,80,81.2,,63.2,Not Eligible,0,0.073
+STU-3836,24EC336,ECE,4,87.1,5.79,5.91,stable,0,62.4,81.0,84,62.6,,46.7,Not Eligible,0,0.29
+STU-8097,22CI997,Civil,8,70.0,8.75,8.57,improving,0,77.8,78.0,168,70.4,,78.3,Placed,0,0.148
+STU-6156,22EE856,EEE,8,95.7,8.69,8.85,declining,0,89.1,87.8,164,42.2,Completed,77.1,Placed,0,0.105
+STU-0467,24CS567,CSE,3,90.8,8.1,8.19,stable,0,79.4,90.6,61,75.9,,57.5,Not Eligible,0,0.091
+STU-1704,24CS904,CSE,4,97.7,7.29,7.89,declining,0,76.8,91.3,84,66.4,,58.4,Not Eligible,0,0.261
+STU-3019,25IT419,IT,1,92.2,8.11,8.57,declining,0,85.6,91.9,23,52.3,,80.1,Not Eligible,0,0.244
+STU-6785,25ME585,Mechanical,1,69.9,7.22,7.29,stable,0,68.1,70.8,22,63.3,,67.8,Not Eligible,0,0.232
+STU-3105,22IT505,IT,8,97.4,8.12,7.97,improving,0,80.7,97.1,170,70.9,Completed,87.1,Placed,0,0.09
+STU-6681,25ME481,Mechanical,2,82.9,7.48,7.82,declining,0,68.9,83.8,44,91.8,,77.5,Not Eligible,0,0.136
+STU-4879,23EC479,ECE,5,71.6,9.22,9.13,stable,0,97.2,69.4,103,34.4,Completed,93.5,Eligible,0,0.115
+STU-1107,24CS307,CSE,4,76.2,8.88,8.68,improving,0,86.4,75.4,84,39.8,,98.0,Not Eligible,0,0.096
+STU-4355,23EC855,ECE,6,84.0,7.67,7.66,stable,0,76.2,82.5,122,26.4,,77.7,Eligible,0,0.135
+STU-6421,25ME221,Mechanical,2,84.1,6.21,6.97,declining,0,55.1,92.7,40,74.4,,59.3,Not Eligible,0,0.368
+STU-5113,22EC713,ECE,7,70.4,7.55,7.56,stable,0,69.9,69.1,145,44.6,,98.0,Placed,0,0.178
+STU-8045,22CI945,Civil,8,86.0,7.47,7.94,declining,0,76.5,72.3,169,44.7,,65.4,In Process,0,0.193
+STU-4240,25EC740,ECE,1,72.6,8.14,7.42,improving,0,87.6,62.0,21,63.1,,72.7,Not Eligible,0,0.042
+STU-2029,25CS329,CSE,2,79.7,8.63,8.79,declining,0,87.1,81.4,44,69.0,,64.1,Not Eligible,0,0.218
+STU-4859,25EC459,ECE,2,77.5,7.8,7.67,stable,0,81.1,64.8,43,41.5,,66.4,Not Eligible,0,0.108
+STU-1176,23CS376,CSE,5,83.9,7.33,7.24,stable,1,78.8,73.9,97,62.9,Ongoing,56.6,In Process,0,0.114
+STU-0415,23CS515,CSE,5,82.5,8.94,7.93,improving,0,88.7,74.7,103,83.7,Ongoing,96.2,Eligible,0,0.095
+STU-2866,24IT266,IT,3,90.3,7.75,7.58,improving,0,71.1,88.9,59,29.5,,68.1,Not Eligible,0,0.116
+STU-1023,22CS223,CSE,8,89.7,8.2,7.23,improving,0,78.3,86.7,168,76.1,Completed,78.8,Placed,0,0.056
+STU-3590,24EC990,ECE,4,97.0,7.84,7.98,stable,0,72.1,92.3,80,77.7,,71.5,Not Eligible,0,0.206
+STU-2908,23IT308,IT,5,80.7,8.63,9.25,declining,0,85.7,73.2,105,56.6,Completed,98.0,Eligible,0,0.194
+STU-0848,22CS948,CSE,8,96.0,7.6,7.65,stable,0,73.4,94.8,164,50.3,Ongoing,78.1,Placed,0,0.167
+STU-2847,24IT247,IT,3,86.3,9.47,9.11,improving,0,91.5,82.0,65,77.6,,79.6,Not Eligible,0,0.136
+STU-7664,22CI564,Civil,8,77.1,8.63,8.18,improving,0,90.3,65.5,168,60.2,,94.8,Placed,0,0.101
+STU-0119,22CS219,CSE,8,72.3,7.49,7.33,improving,0,78.0,72.5,168,69.9,Ongoing,88.6,Placed,0,0.112
+STU-4638,22EC238,ECE,8,60.9,7.59,7.14,improving,1,73.6,62.0,160,79.6,,88.6,In Process,1,0.783
+STU-3128,25IT528,IT,2,93.7,9.3,8.91,improving,0,88.0,95.1,38,81.0,,83.3,Not Eligible,0,0.192
+STU-7072,22ME872,Mechanical,8,75.2,8.41,8.94,declining,0,86.3,85.9,169,58.0,Completed,89.1,Placed,0,0.106
+STU-8073,25CI973,Civil,1,80.0,9.06,9.3,declining,0,99.0,82.3,21,79.3,,86.8,Not Eligible,0,0.157
+STU-5971,22EE671,EEE,7,87.0,7.94,7.9,stable,0,75.3,81.7,143,66.1,Completed,81.5,Placed,0,0.055
+STU-6173,25EE873,EEE,1,82.5,6.64,6.45,improving,0,63.5,84.9,21,47.5,Ongoing,83.0,Not Eligible,0,0.121
+STU-1246,23CS446,CSE,5,70.7,7.76,7.85,stable,0,71.6,57.0,101,25.9,,74.9,Eligible,0,0.063
+STU-8339,22CI339,Civil,8,77.4,7.9,7.95,stable,0,79.3,73.9,170,25.5,Completed,72.6,Placed,0,0.116
+STU-8281,24CI281,Civil,4,90.0,7.22,6.75,improving,0,70.3,92.0,85,67.0,,79.7,Not Eligible,0,0.065
+STU-3031,23IT431,IT,6,83.0,7.51,7.23,improving,0,72.2,84.7,122,73.2,Completed,83.9,Eligible,0,0.1
+STU-2113,25CS413,CSE,2,98.3,8.68,9.1,declining,0,99.0,85.7,38,74.8,,87.0,Not Eligible,0,0.123
+STU-7894,23CI794,Civil,6,73.9,8.2,8.21,stable,0,75.9,66.4,122,46.5,,51.3,Eligible,0,0.081
+STU-8364,23CI364,Civil,6,80.3,7.12,6.93,improving,1,62.6,79.9,118,38.4,Completed,98.0,In Process,0,0.303
+STU-2805,22IT205,IT,8,82.3,8.61,8.62,stable,0,91.0,80.5,164,92.0,Completed,82.3,Placed,0,0.124
+STU-0855,25CS955,CSE,2,82.6,8.53,8.52,stable,0,86.3,93.9,43,40.0,,86.7,Not Eligible,0,0.143
+STU-7373,23ME273,Mechanical,6,62.7,8.56,8.51,stable,0,75.8,59.8,126,63.9,Completed,97.3,Eligible,0,0.436
+STU-6563,22ME363,Mechanical,8,79.5,8.12,7.98,stable,0,81.2,80.9,164,47.5,,63.1,Placed,0,0.129
+STU-2568,23IT868,IT,6,83.0,7.01,6.96,stable,0,61.5,77.5,124,59.5,Completed,98.0,Eligible,0,0.125
+STU-6449,23ME249,Mechanical,6,85.2,7.04,6.97,stable,0,75.3,80.1,124,69.9,,61.1,Eligible,0,0.078
+STU-2275,24IT575,IT,3,83.1,8.04,8.13,stable,0,79.3,77.5,64,61.9,,74.2,Not Eligible,0,0.12
+STU-1805,24CS105,CSE,3,83.1,9.56,9.27,improving,0,90.7,83.5,65,51.0,,98.0,Not Eligible,0,0.064
+STU-5520,24EE220,EEE,3,80.8,7.48,6.83,improving,0,74.0,81.6,61,57.7,,64.6,Not Eligible,0,0.078
+STU-4226,24EC726,ECE,4,78.7,7.36,7.16,improving,3,67.2,75.9,72,47.8,,60.4,Not Eligible,0,0.455
+STU-3992,22EC492,ECE,7,90.3,6.11,5.95,improving,0,61.1,89.4,147,58.7,,57.5,In Process,0,0.094
+STU-7357,22ME257,Mechanical,7,82.3,6.86,7.01,declining,0,60.0,82.4,148,65.5,Ongoing,75.3,In Process,0,0.279
+STU-7649,23CI549,Civil,5,76.7,7.92,8.4,declining,0,75.9,77.3,106,92.8,Completed,79.3,Eligible,0,0.251
+STU-3048,24IT448,IT,3,80.1,9.57,9.77,declining,0,93.5,81.1,59,77.4,,98.0,Not Eligible,0,0.196
+STU-6771,25ME571,Mechanical,2,80.9,6.42,6.25,improving,0,66.0,83.6,42,57.1,,49.9,Not Eligible,0,0.115
+STU-1287,25CS487,CSE,1,85.3,8.66,8.7,stable,0,89.1,78.5,23,48.8,,83.6,Not Eligible,0,0.133
+STU-5012,24EC612,ECE,3,81.6,8.6,9.19,declining,0,85.2,75.1,59,45.3,,82.8,Not Eligible,0,0.125
+STU-4586,24EC186,ECE,4,87.1,6.47,5.61,improving,0,57.5,82.6,85,79.7,,81.6,Not Eligible,0,0.084
+STU-6807,25ME607,Mechanical,2,81.2,6.38,6.73,declining,0,58.4,75.3,42,39.7,,63.6,Not Eligible,0,0.437
+STU-6081,25EE781,EEE,2,68.4,8.85,9.78,declining,0,90.3,77.5,40,56.8,,98.0,Not Eligible,0,0.493
+STU-3531,25EC931,ECE,1,81.7,7.93,8.12,declining,0,71.6,79.1,21,62.0,,83.4,Not Eligible,0,0.107
+STU-4235,24EC735,ECE,4,91.3,8.66,8.34,improving,0,92.1,99.4,82,46.9,,94.8,Not Eligible,0,0.133
+STU-1007,23CS207,CSE,6,73.2,8.63,8.13,improving,0,78.0,70.8,124,55.5,Ongoing,63.5,Eligible,0,0.075
+STU-1170,24CS370,CSE,3,82.7,9.57,9.66,stable,0,94.2,74.6,59,34.7,,78.8,Not Eligible,0,0.093
+STU-4078,23EC578,ECE,5,93.3,5.47,5.37,stable,0,51.5,98.8,103,9.9,,52.2,In Process,0,0.492
+STU-7581,25CI481,Civil,2,87.8,8.11,8.17,stable,0,93.7,86.2,44,73.4,,77.4,Not Eligible,0,0.044
+STU-0798,23CS898,CSE,5,66.8,7.51,7.71,declining,1,72.6,63.6,99,98.0,Ongoing,78.7,In Process,1,0.556
+STU-3447,22IT847,IT,8,99.0,7.66,7.33,improving,0,81.8,84.7,168,62.4,Completed,67.8,Placed,0,0.111
+STU-3860,22EC360,ECE,8,75.9,6.88,6.73,improving,0,62.0,68.5,166,70.5,Completed,64.3,Placed,0,0.065
+STU-6062,22EE762,EEE,8,83.8,8.59,8.13,improving,0,80.4,86.2,168,43.8,Completed,76.4,Placed,0,0.141
+STU-6386,24ME186,Mechanical,4,84.9,6.6,7.1,declining,0,72.9,80.5,82,78.2,,42.9,Not Eligible,0,0.164
+STU-1019,22CS219,CSE,8,87.1,7.26,7.57,declining,0,72.3,83.9,170,60.5,,72.6,Not Eligible,0,0.129
+STU-7401,25ME301,Mechanical,1,76.3,7.69,7.84,declining,0,74.9,62.6,19,71.3,Ongoing,81.4,Not Eligible,0,0.068
+STU-6467,24ME267,Mechanical,4,80.0,5.31,5.45,stable,2,54.9,79.9,77,51.3,,49.0,Not Eligible,1,0.839
+STU-1113,25CS313,CSE,2,86.8,7.68,8.09,declining,0,64.0,75.9,40,44.7,,91.5,Not Eligible,0,0.109
+STU-6193,24EE893,EEE,4,67.6,6.42,6.06,improving,0,63.3,76.2,80,59.6,Ongoing,72.5,Not Eligible,0,0.129
+STU-8302,24CI302,Civil,3,68.9,7.59,7.72,stable,0,70.8,68.0,64,59.9,,75.3,Not Eligible,0,0.291
+STU-3902,23EC402,ECE,5,84.5,7.91,7.94,stable,0,75.7,73.4,105,58.9,Completed,63.9,Eligible,0,0.122
+STU-8197,23CI197,Civil,5,80.7,6.74,6.58,improving,2,69.9,81.9,93,56.6,,68.6,In Process,0,0.31
+STU-7342,22ME242,Mechanical,7,88.7,6.65,7.24,declining,1,73.8,92.3,139,40.3,,40.6,In Process,0,0.423
+STU-2318,23IT618,IT,5,71.0,8.51,7.91,improving,0,92.2,76.9,107,97.2,Ongoing,75.6,Eligible,0,0.137
+STU-1580,23CS780,CSE,5,90.7,8.28,8.08,improving,0,83.3,89.6,107,98.0,,80.2,Eligible,0,0.107
+STU-4162,25EC662,ECE,1,68.6,7.82,7.81,stable,0,71.9,73.0,21,75.1,Ongoing,74.3,Not Eligible,0,0.179
+STU-0682,25CS782,CSE,2,90.8,8.16,7.29,improving,0,83.0,100.0,44,50.9,,67.1,Not Eligible,0,0.074
+STU-7341,25ME241,Mechanical,2,76.4,6.33,5.51,improving,0,54.3,79.3,44,89.4,Ongoing,60.7,Not Eligible,0,0.123
+STU-6638,24ME438,Mechanical,4,75.9,8.54,8.83,declining,0,85.1,75.3,84,89.1,,77.4,Not Eligible,0,0.189
+STU-3311,25IT711,IT,1,78.2,7.7,7.79,stable,0,76.1,81.9,22,35.5,,57.3,Not Eligible,0,0.111
+STU-6967,25ME767,Mechanical,1,76.6,7.88,7.81,stable,0,85.6,81.4,18,42.6,,83.4,Not Eligible,0,0.086
+STU-4126,22EC626,ECE,8,79.0,7.51,7.64,stable,0,67.8,81.4,170,61.6,,73.4,Placed,0,0.111
+STU-2693,22IT993,IT,7,86.0,7.28,7.27,stable,0,67.9,87.9,147,67.3,,64.2,Placed,0,0.075
+STU-4057,23EC557,ECE,5,75.6,8.31,8.87,declining,0,89.7,70.1,101,95.4,,75.0,Eligible,0,0.184
+STU-7879,22CI779,Civil,7,81.5,5.56,5.22,improving,0,51.4,69.5,145,68.5,,53.6,In Process,0,0.36
+STU-7249,23ME149,Mechanical,6,80.4,7.58,7.52,stable,0,71.0,86.0,127,56.5,,80.2,Eligible,0,0.049
+STU-4337,24EC837,ECE,3,88.4,6.86,6.87,stable,0,74.3,81.3,63,74.9,Ongoing,61.8,Not Eligible,0,0.121
+STU-3851,22EC351,ECE,8,88.8,7.99,8.53,declining,0,87.2,78.5,170,71.8,Completed,58.3,Placed,0,0.169
+STU-2382,25IT682,IT,1,70.4,6.44,6.48,stable,0,70.9,73.9,21,26.9,,53.3,Not Eligible,0,0.199
+STU-1637,24CS837,CSE,4,85.5,9.21,9.39,declining,0,88.1,72.6,86,39.1,Ongoing,83.3,Not Eligible,0,0.141
+STU-7376,23ME276,Mechanical,5,67.5,6.36,6.29,stable,0,64.3,66.2,107,73.5,,60.4,In Process,0,0.244
+STU-4760,25EC360,ECE,2,71.9,8.78,7.94,improving,0,85.2,59.0,40,56.2,,94.4,Not Eligible,0,0.128
+STU-1289,25CS489,CSE,1,92.4,8.4,8.36,stable,0,85.4,86.8,18,34.9,,80.1,Not Eligible,0,0.138
+STU-0133,25CS233,CSE,1,74.9,8.39,8.05,improving,0,81.0,83.4,22,68.4,Ongoing,67.0,Not Eligible,0,0.091
+STU-1775,22CS975,CSE,7,84.6,8.52,8.36,improving,0,83.0,93.7,143,40.2,Ongoing,76.8,Placed,0,0.079
+STU-6958,23ME758,Mechanical,6,81.4,6.46,6.69,declining,0,66.4,89.0,126,89.7,Ongoing,55.7,In Process,0,0.148
+STU-2236,23IT536,IT,6,73.7,7.42,7.5,stable,0,68.2,73.8,128,49.4,,65.3,Eligible,0,0.103
+STU-2177,22IT477,IT,7,97.4,8.4,8.01,improving,0,82.7,90.8,148,69.1,Completed,75.5,Placed,0,0.083
+STU-2017,24CS317,CSE,3,86.4,7.15,7.2,stable,0,69.5,73.4,63,58.2,,66.8,Not Eligible,0,0.079
+STU-1864,23CS164,CSE,5,79.1,6.24,6.84,declining,0,58.9,87.4,101,73.2,Ongoing,52.8,In Process,0,0.275
+STU-7223,22ME123,Mechanical,8,70.2,7.86,7.99,stable,0,76.6,73.7,170,36.7,Completed,80.3,Placed,0,0.155
+STU-0371,25CS471,CSE,1,82.2,9.65,9.89,declining,0,88.6,83.0,21,74.7,Ongoing,91.7,Not Eligible,0,0.108
+STU-7562,22ME462,Mechanical,7,79.7,5.89,5.46,improving,0,54.9,82.4,143,66.5,,43.5,In Process,0,0.291
+STU-4829,24EC429,ECE,3,79.1,8.88,8.66,improving,0,97.0,75.5,65,61.7,,81.1,Not Eligible,0,0.108
+STU-7679,23CI579,Civil,6,84.4,8.0,7.97,stable,0,81.7,76.5,127,54.4,,83.2,Eligible,0,0.049
+STU-6222,24EE922,EEE,4,72.6,8.28,8.03,improving,0,86.4,84.0,86,32.1,,62.9,Not Eligible,0,0.084
+STU-6935,22ME735,Mechanical,8,66.2,8.1,9.11,declining,0,80.6,67.7,168,74.6,Completed,78.3,Placed,1,0.7
+STU-0853,25CS953,CSE,2,71.3,6.97,7.32,declining,1,68.4,70.0,38,49.2,,77.3,Not Eligible,0,0.348
+STU-3357,24IT757,IT,3,77.0,9.01,8.63,improving,0,93.6,87.5,61,70.5,,98.0,Not Eligible,0,0.08
+STU-7567,22ME467,Mechanical,8,96.9,6.12,5.71,improving,0,63.0,89.0,170,70.4,,66.4,Placed,0,0.129
+STU-0976,24CS176,CSE,3,76.6,8.51,8.0,improving,0,82.6,79.6,64,69.3,,54.0,Not Eligible,0,0.041
+STU-4545,25EC145,ECE,1,82.4,7.65,8.45,declining,0,82.6,87.0,18,55.6,,85.0,Not Eligible,0,0.395
+STU-2770,25IT170,IT,1,85.0,8.86,9.19,declining,0,90.2,86.5,21,92.9,,90.0,Not Eligible,0,0.136
+STU-1310,22CS510,CSE,7,86.3,7.9,8.08,declining,0,73.1,82.5,149,97.9,Completed,85.3,Placed,0,0.084
+STU-3863,25EC363,ECE,1,91.5,7.88,8.34,declining,0,84.9,85.9,23,44.9,,83.4,Not Eligible,0,0.264
+STU-6993,23ME793,Mechanical,6,78.9,7.46,7.29,improving,3,68.7,71.2,116,51.4,Completed,75.7,In Process,1,0.566
+STU-5119,25EC719,ECE,1,92.7,6.67,7.02,declining,0,68.6,96.6,19,37.0,,63.9,Not Eligible,0,0.113
+STU-3421,22IT821,IT,7,84.0,7.66,6.76,improving,1,74.7,78.0,145,89.2,Ongoing,74.6,In Process,0,0.227
+STU-6538,22ME338,Mechanical,7,67.7,7.15,6.58,improving,0,63.6,73.8,147,50.3,,46.7,In Process,0,0.323
+STU-4865,23EC465,ECE,5,89.6,8.29,7.97,improving,0,77.2,86.3,101,39.9,Ongoing,85.1,Eligible,0,0.086
+STU-0887,23CS987,CSE,6,96.7,7.94,8.2,declining,0,81.1,91.0,128,54.2,Completed,65.9,Eligible,0,0.14
+STU-7709,22CI609,Civil,8,90.6,6.06,5.59,improving,0,51.6,76.4,170,94.9,,72.6,In Process,0,0.223
+STU-1955,22CS255,CSE,8,84.2,8.15,8.05,stable,0,82.5,78.2,164,41.5,Completed,71.2,Placed,0,0.122
+STU-5483,24EE183,EEE,3,73.4,8.93,8.76,improving,0,98.5,72.8,63,46.6,,72.0,Not Eligible,0,0.134
+STU-5405,23EE105,EEE,6,77.6,7.23,7.11,stable,0,72.0,76.3,124,45.0,Completed,65.2,Eligible,0,0.105
+STU-7563,22ME463,Mechanical,7,62.5,6.87,6.88,stable,1,68.0,60.8,145,71.6,Completed,48.5,In Process,0,0.395
+STU-5877,24EE577,EEE,4,80.5,5.96,5.64,improving,0,51.4,88.7,84,98.0,,53.1,Not Eligible,0,0.226
+STU-6530,24ME330,Mechanical,4,68.4,8.34,8.06,improving,1,84.1,58.2,82,57.6,,62.7,Not Eligible,0,0.243
+STU-7471,24ME371,Mechanical,3,73.0,6.77,6.99,declining,0,73.5,74.5,65,60.6,,84.0,Not Eligible,0,0.085
+STU-6255,22EE955,EEE,7,73.5,6.3,6.0,improving,0,73.9,77.2,143,67.2,Completed,63.3,Placed,0,0.093
+STU-2600,24IT900,IT,4,87.0,8.14,7.93,improving,0,72.2,83.3,80,34.1,,93.8,Not Eligible,0,0.079
+STU-7534,25ME434,Mechanical,2,74.0,7.66,7.93,declining,1,84.2,83.8,34,60.6,,62.1,Not Eligible,0,0.353
+STU-1764,24CS964,CSE,4,91.0,7.67,7.33,improving,0,70.5,79.1,85,70.3,,80.1,Not Eligible,0,0.101
+STU-4616,24EC216,ECE,3,81.9,8.47,8.71,declining,0,88.4,86.0,61,54.8,,96.3,Not Eligible,0,0.095
+STU-1644,23CS844,CSE,5,84.1,9.09,9.55,declining,0,88.2,84.3,107,75.1,Completed,73.7,Eligible,0,0.109
+STU-5790,23EE490,EEE,5,83.4,6.86,7.67,declining,0,67.5,80.6,105,52.8,Completed,85.4,Eligible,0,0.3
+STU-3133,25IT533,IT,1,95.2,8.88,9.17,declining,0,92.3,95.7,21,75.1,,78.7,Not Eligible,0,0.148
+STU-5070,25EC670,ECE,1,62.6,7.5,7.09,improving,0,70.3,75.9,23,64.5,,54.9,Not Eligible,0,0.297
+STU-4139,23EC639,ECE,6,85.7,6.97,7.22,declining,0,69.1,81.8,124,42.7,,67.3,Eligible,0,0.133
+STU-4812,24EC412,ECE,3,77.3,9.17,8.29,improving,0,96.7,73.0,59,53.1,,90.1,Not Eligible,0,0.173
+STU-1090,25CS290,CSE,2,80.7,7.87,7.69,improving,0,74.9,83.5,44,71.0,,83.4,Not Eligible,0,0.093
+STU-0846,24CS946,CSE,4,85.7,8.94,8.9,stable,0,95.4,79.5,80,41.6,,98.0,Not Eligible,0,0.059
+STU-4242,24EC742,ECE,4,79.2,6.35,6.28,stable,1,65.2,74.4,78,63.2,,58.7,Not Eligible,0,0.345
+STU-1899,24CS199,CSE,3,98.6,6.56,6.44,stable,0,57.0,95.9,63,63.6,Ongoing,75.3,Not Eligible,0,0.098
+STU-2002,25CS302,CSE,2,82.5,6.35,5.46,improving,2,74.1,76.0,35,53.7,,64.8,Not Eligible,0,0.437
+STU-4144,23EC644,ECE,6,62.6,5.99,5.62,improving,0,69.3,59.8,126,35.2,,53.0,In Process,1,0.55
+STU-1186,22CS386,CSE,8,91.9,6.83,7.09,declining,0,73.3,76.0,166,87.1,Completed,65.9,Placed,0,0.178
+STU-7119,22ME919,Mechanical,8,71.8,6.81,6.39,improving,3,65.2,74.3,157,58.0,,60.4,In Process,1,0.614
+STU-3022,23IT422,IT,5,81.5,7.01,7.12,stable,0,67.5,85.1,101,57.2,Completed,62.0,Eligible,0,0.133
+STU-3668,24EC168,ECE,3,78.7,7.72,8.05,declining,0,75.9,87.3,65,46.5,,87.4,Not Eligible,0,0.162
+STU-4851,22EC451,ECE,7,84.1,8.41,8.4,stable,0,82.6,80.6,148,72.6,,76.3,Placed,0,0.056
+STU-0006,25CS106,CSE,2,71.5,8.02,7.71,improving,0,80.7,74.4,43,86.4,,85.1,Not Eligible,0,0.107
+STU-1326,24CS526,CSE,3,81.0,9.2,9.16,stable,0,99.0,87.4,64,40.2,,79.9,Not Eligible,0,0.084
+STU-3153,24IT553,IT,4,75.6,8.57,8.09,improving,0,86.4,63.0,85,45.8,,68.3,Not Eligible,0,0.107
+STU-4841,22EC441,ECE,8,78.9,6.61,6.81,declining,0,65.7,76.3,169,77.8,Completed,67.2,Placed,0,0.085
+STU-2406,24IT706,IT,4,83.4,7.1,6.55,improving,1,70.8,81.3,76,66.5,,59.4,Not Eligible,0,0.177
+STU-5923,22EE623,EEE,7,79.0,9.04,9.16,stable,0,86.5,82.7,149,91.7,Completed,85.1,Placed,0,0.065
+STU-3844,25EC344,ECE,1,71.7,8.94,8.6,improving,0,93.9,70.4,18,65.2,,94.4,Not Eligible,0,0.145
+STU-6271,23EE971,EEE,5,89.1,6.58,6.52,stable,0,58.5,85.3,101,98.0,,53.2,Eligible,0,0.084
+STU-4208,22EC708,ECE,8,85.0,8.19,8.16,stable,0,82.9,78.2,170,75.4,Completed,85.5,Placed,0,0.08
+STU-5114,25EC714,ECE,1,68.9,7.38,7.48,stable,0,81.6,80.7,19,62.9,,60.2,Not Eligible,0,0.254
+STU-5348,25EE948,EEE,2,81.3,7.17,6.99,improving,1,71.7,73.0,36,68.2,,67.4,Not Eligible,0,0.158
+STU-6078,24EE778,EEE,4,81.4,8.02,8.26,declining,0,82.6,87.0,82,74.9,,93.1,Not Eligible,0,0.128
+STU-7291,24ME191,Mechanical,3,66.5,7.16,7.59,declining,0,68.6,59.3,64,67.7,,78.6,Not Eligible,0,0.265
+STU-7475,22ME375,Mechanical,7,83.4,7.69,7.61,stable,0,84.5,82.6,148,48.2,,83.9,Placed,0,0.093
+STU-1610,23CS810,CSE,5,84.7,9.77,9.57,improving,0,99.0,75.4,105,79.3,Completed,98.0,Eligible,0,0.048
+STU-5248,24EE848,EEE,3,79.6,7.93,7.91,stable,0,75.6,82.0,61,80.0,,80.0,Not Eligible,0,0.086
+STU-1947,24CS247,CSE,4,84.8,9.86,9.37,improving,0,99.0,81.0,82,67.2,,94.2,Not Eligible,0,0.159
+STU-0136,24CS236,CSE,3,97.1,8.22,8.71,declining,0,80.5,93.7,64,86.0,,83.9,Not Eligible,0,0.114
+STU-1715,25CS915,CSE,1,85.7,8.05,7.63,improving,0,74.9,79.1,18,30.2,,72.5,Not Eligible,0,0.098
+STU-0308,24CS408,CSE,3,91.9,8.67,8.3,improving,0,90.0,84.0,61,54.6,,73.2,Not Eligible,0,0.151
+STU-7384,22ME284,Mechanical,7,71.0,6.38,6.55,declining,1,63.6,69.6,141,87.0,,62.6,In Process,0,0.32
+STU-4310,24EC810,ECE,3,85.3,8.26,8.43,declining,0,83.8,97.1,59,31.9,,82.0,Not Eligible,0,0.221
+STU-0056,22CS156,CSE,8,88.6,8.02,7.87,improving,0,80.4,88.0,168,51.6,Completed,85.0,Placed,0,0.066
+STU-0504,22CS604,CSE,7,78.1,8.59,8.37,improving,0,93.4,80.2,145,66.4,Completed,69.1,Placed,0,0.096
+STU-7754,25CI654,Civil,1,70.5,6.55,5.88,improving,0,56.7,80.5,23,62.4,,60.6,Not Eligible,0,0.223
+STU-5143,24EC743,ECE,3,83.4,7.6,7.58,stable,0,66.7,86.1,61,11.7,,66.0,Not Eligible,0,0.201
+STU-5325,22EE925,EEE,8,71.6,8.52,8.22,improving,0,91.4,64.0,169,65.0,,66.1,Placed,0,0.066
+STU-1075,22CS275,CSE,8,99.0,9.17,9.02,improving,0,98.3,85.2,169,69.9,,74.8,Placed,0,0.15
+STU-0553,23CS653,CSE,5,76.9,7.85,7.67,improving,0,78.5,77.9,106,32.0,Completed,75.7,Eligible,0,0.126
+STU-8210,23CI210,Civil,6,70.6,7.59,7.74,declining,0,82.8,77.4,122,59.3,Completed,49.0,Eligible,0,0.15
+STU-6204,25EE904,EEE,1,75.4,7.36,6.48,improving,0,66.3,75.3,18,74.8,,69.3,Not Eligible,0,0.062
+STU-2388,25IT688,IT,1,80.1,7.42,7.41,stable,0,68.2,83.2,18,55.5,,89.6,Not Eligible,0,0.159
+STU-2966,24IT366,IT,4,75.0,8.04,8.19,declining,0,77.5,76.8,86,97.0,,66.7,Not Eligible,0,0.049
+STU-0479,22CS579,CSE,8,68.0,7.82,7.65,improving,1,73.5,70.2,160,69.6,Completed,64.4,Placed,0,0.268
+STU-2779,22IT179,IT,8,80.6,9.1,9.0,stable,0,88.5,79.9,166,50.9,Completed,61.7,Placed,0,0.071
+STU-1072,25CS272,CSE,2,84.3,9.26,8.75,improving,3,91.2,74.0,31,70.5,,69.5,Not Eligible,1,0.693
+STU-5728,22EE428,EEE,8,76.3,6.02,6.04,stable,0,66.6,72.4,164,68.1,Ongoing,69.4,In Process,0,0.111
+STU-2171,25IT471,IT,2,94.5,7.69,8.1,declining,0,77.5,90.9,40,22.7,,80.8,Not Eligible,0,0.187
+STU-0429,24CS529,CSE,3,73.3,7.65,7.13,improving,0,75.8,68.8,65,95.4,,77.8,Not Eligible,0,0.111
+STU-4637,25EC237,ECE,2,75.6,7.23,6.91,improving,0,80.2,76.8,38,72.6,,53.7,Not Eligible,0,0.076
+STU-5920,22EE620,EEE,7,78.3,8.7,8.52,improving,0,88.4,80.5,143,98.0,,81.0,Placed,0,0.061
+STU-2530,25IT830,IT,2,75.7,7.38,7.6,declining,1,77.2,69.9,36,62.1,,57.9,Not Eligible,0,0.165
+STU-6233,22EE933,EEE,8,68.0,8.77,9.26,declining,0,87.8,69.8,169,88.4,Completed,81.8,Placed,0,0.322
+STU-2748,24IT148,IT,4,85.4,8.46,8.19,improving,0,82.3,87.5,86,54.1,,90.0,Not Eligible,0,0.063
+STU-8395,24CI395,Civil,4,83.8,8.45,7.81,improving,0,93.9,96.9,82,45.0,,86.2,Not Eligible,0,0.117
+STU-4613,23EC213,ECE,5,87.1,7.2,7.27,stable,0,63.7,80.7,106,77.3,,51.2,Eligible,0,0.131
+STU-2878,24IT278,IT,3,80.9,6.59,6.51,stable,1,64.1,74.4,55,39.3,,67.8,Not Eligible,0,0.29
+STU-1519,25CS719,CSE,2,79.2,7.27,7.6,declining,0,69.2,75.5,44,34.6,,67.4,Not Eligible,0,0.135
+STU-7756,23CI656,Civil,5,79.5,7.4,7.19,improving,0,78.6,77.8,105,54.8,,72.6,Eligible,0,0.059
+STU-6832,24ME632,Mechanical,4,66.6,7.65,6.96,improving,1,81.4,72.5,76,71.7,,76.6,Not Eligible,0,0.312
+STU-7303,23ME203,Mechanical,6,83.5,7.98,8.2,declining,0,84.9,76.7,124,68.4,,67.7,Eligible,0,0.132
+STU-1498,24CS698,CSE,4,77.1,7.8,8.08,declining,2,81.2,72.0,72,38.1,,76.5,Not Eligible,1,0.501
+STU-4764,25EC364,ECE,2,72.7,7.54,7.87,declining,0,74.8,76.6,44,45.1,,53.5,Not Eligible,0,0.13
+STU-2160,24IT460,IT,3,76.5,7.59,7.0,improving,0,75.9,79.5,65,44.1,,85.3,Not Eligible,0,0.095
+STU-2800,25IT200,IT,2,83.4,8.67,8.4,improving,0,91.0,77.8,40,49.8,,81.0,Not Eligible,0,0.054
+STU-5420,23EE120,EEE,5,74.2,7.17,7.01,improving,0,75.0,75.7,106,63.3,,82.2,Eligible,0,0.075
+STU-6605,24ME405,Mechanical,4,77.0,5.32,4.57,improving,0,58.1,89.4,85,67.2,,48.0,Not Eligible,0,0.402
+STU-7270,25ME170,Mechanical,1,71.1,7.36,8.07,declining,0,75.0,68.0,19,60.9,Ongoing,56.5,Not Eligible,1,0.518
+STU-3455,22IT855,IT,8,87.0,7.55,7.36,improving,0,84.2,91.2,166,58.6,,59.6,Placed,0,0.094
+STU-7280,25ME180,Mechanical,1,83.0,7.13,6.81,improving,1,75.5,82.9,18,38.5,,59.8,Not Eligible,0,0.221
+STU-5551,24EE251,EEE,3,85.0,7.74,7.86,stable,0,69.8,84.6,65,66.9,,66.9,Not Eligible,0,0.154
+STU-6303,24EE103,EEE,3,85.2,8.41,8.71,declining,0,91.9,85.6,61,75.1,,96.1,Not Eligible,0,0.115
+STU-4866,22EC466,ECE,7,94.5,8.73,9.24,declining,0,83.5,92.5,145,67.1,Completed,83.8,Placed,0,0.245
+STU-5818,24EE518,EEE,3,80.0,7.65,7.06,improving,0,72.3,84.3,64,51.6,,78.0,Not Eligible,0,0.102
+STU-6406,23ME206,Mechanical,5,75.6,6.89,7.32,declining,0,71.4,61.7,107,62.7,,73.9,Eligible,0,0.17
+STU-1766,24CS966,CSE,3,84.4,8.05,8.4,declining,0,86.3,90.1,59,88.9,,71.6,Not Eligible,0,0.138
+STU-1567,23CS767,CSE,6,85.1,9.28,8.98,improving,0,87.3,84.0,127,61.5,,98.0,Eligible,0,0.105
+STU-2656,25IT956,IT,2,87.3,7.08,7.14,stable,0,79.3,99.8,40,59.3,,73.1,Not Eligible,0,0.075
+STU-2249,24IT549,IT,3,75.2,7.64,7.59,stable,0,81.4,75.8,61,36.9,,68.9,Not Eligible,0,0.205
+STU-2984,24IT384,IT,3,91.3,8.21,8.3,stable,0,82.1,79.2,65,63.8,,66.8,Not Eligible,0,0.106
+STU-5474,22EE174,EEE,7,75.4,7.13,7.83,declining,1,75.9,81.3,139,88.6,,40.3,Not Eligible,0,0.409
+STU-3336,23IT736,IT,5,91.9,8.31,8.59,declining,0,76.1,84.8,101,55.2,,74.1,Eligible,0,0.116
+STU-6724,22ME524,Mechanical,8,83.2,7.99,8.08,stable,0,79.4,90.1,164,98.0,Completed,94.5,Placed,0,0.047
+STU-2562,25IT862,IT,2,95.1,5.34,5.25,stable,1,58.9,85.7,34,94.1,,75.0,Not Eligible,1,0.514
+STU-8280,23CI280,Civil,5,66.6,6.88,7.01,stable,3,72.2,75.3,95,63.2,,77.6,In Process,1,0.692
+STU-1508,23CS708,CSE,5,89.1,7.53,7.21,improving,0,76.6,84.8,106,45.2,Completed,84.2,Eligible,0,0.067
+STU-1285,24CS485,CSE,3,76.5,8.97,8.54,improving,0,96.1,72.0,61,56.3,,72.4,Not Eligible,0,0.074
+STU-6500,24ME300,Mechanical,3,68.8,8.16,8.5,declining,2,80.9,64.4,51,48.5,,91.0,Not Eligible,0,0.313
+STU-4706,25EC306,ECE,1,79.6,7.84,8.4,declining,0,76.0,74.1,19,44.9,Ongoing,68.4,Not Eligible,0,0.155
+STU-1729,22CS929,CSE,7,77.6,9.06,8.71,improving,0,96.4,80.9,148,68.1,Completed,89.3,Placed,0,0.112
+STU-1977,25CS277,CSE,2,90.3,7.92,7.95,stable,0,81.6,91.7,43,53.0,,85.9,Not Eligible,0,0.094
+STU-5068,23EC668,ECE,5,73.2,8.38,8.6,declining,0,85.6,76.8,105,29.2,,87.7,Eligible,0,0.262
+STU-5504,25EE204,EEE,2,78.2,6.89,7.37,declining,0,80.5,75.2,43,37.5,,43.9,Not Eligible,0,0.263
+STU-1686,22CS886,CSE,7,88.3,7.91,8.05,stable,0,79.0,77.1,147,74.4,Completed,79.0,Placed,0,0.118
+STU-7511,25ME411,Mechanical,1,70.2,7.25,7.46,declining,0,75.1,69.1,18,33.4,,86.3,Not Eligible,0,0.206
+STU-5187,24EC787,ECE,3,85.2,7.3,6.63,improving,0,63.8,82.6,63,83.4,,58.3,Not Eligible,0,0.108
+STU-0981,24CS181,CSE,3,84.4,8.28,8.62,declining,0,85.9,84.5,65,28.6,Ongoing,59.8,Not Eligible,0,0.115
+STU-6045,24EE745,EEE,3,75.2,6.82,7.52,declining,0,72.3,76.1,65,41.1,,67.3,Not Eligible,0,0.177
+STU-4889,24EC489,ECE,4,90.9,6.54,6.47,stable,0,65.1,84.5,84,69.1,,73.3,Not Eligible,0,0.099
+STU-2931,23IT331,IT,5,84.2,7.92,7.88,stable,0,85.6,81.5,101,82.7,Completed,58.5,Eligible,0,0.135
+STU-5438,22EE138,EEE,8,88.0,6.33,6.35,stable,0,59.5,98.3,164,56.9,Ongoing,46.3,In Process,0,0.146
+STU-0392,24CS492,CSE,4,78.7,8.11,7.86,improving,0,79.4,84.8,82,78.7,,98.0,Not Eligible,0,0.101
+STU-5393,22EE993,EEE,8,83.4,8.54,8.28,improving,0,94.7,85.8,168,40.9,,91.5,Placed,0,0.079
+STU-3215,23IT615,IT,5,76.8,7.19,7.37,declining,0,74.8,74.7,106,45.0,Completed,67.4,Eligible,0,0.183
+STU-8008,22CI908,Civil,7,86.1,6.87,7.23,declining,0,68.1,86.7,149,42.5,Completed,62.6,In Process,0,0.191
+STU-3160,22IT560,IT,7,81.0,7.71,6.97,improving,0,72.8,74.9,145,83.9,,72.7,Placed,0,0.075
+STU-1689,23CS889,CSE,5,65.0,7.3,6.31,improving,0,76.5,69.4,106,98.0,,67.1,Eligible,0,0.291
+STU-2380,23IT680,IT,6,99.0,8.14,7.34,improving,0,84.4,87.0,124,98.0,Ongoing,75.8,Eligible,0,0.043
+STU-6098,22EE798,EEE,8,80.6,7.47,7.07,improving,0,70.1,78.2,166,53.0,,53.2,Not Eligible,0,0.04
+STU-5658,22EE358,EEE,8,69.0,8.63,8.21,improving,0,83.0,76.0,164,68.8,Ongoing,89.2,Placed,0,0.207
+STU-3516,23IT916,IT,5,84.6,7.19,6.87,improving,0,78.9,89.4,103,27.1,,82.6,Eligible,0,0.131
+STU-2118,23CS418,CSE,5,87.9,7.47,7.61,stable,0,74.4,78.7,105,47.2,Completed,67.0,Eligible,0,0.129
+STU-2045,22CS345,CSE,7,87.5,9.03,9.31,declining,0,86.4,80.9,143,69.3,Completed,90.7,Placed,0,0.151
+STU-0781,23CS881,CSE,6,74.9,8.01,7.6,improving,1,81.5,72.0,122,60.2,Completed,98.0,In Process,0,0.198
+STU-3265,25IT665,IT,1,85.1,6.72,6.59,stable,0,79.6,93.8,18,65.1,,77.0,Not Eligible,0,0.086
+STU-4363,22EC863,ECE,8,86.5,9.95,9.97,stable,0,99.0,80.6,166,87.1,,93.3,Placed,0,0.059
+STU-1776,24CS976,CSE,3,80.2,9.26,9.69,declining,0,94.7,68.3,65,78.2,,98.0,Not Eligible,0,0.125
+STU-6412,25ME212,Mechanical,2,84.1,8.88,9.14,declining,0,84.7,85.5,44,34.9,,68.9,Not Eligible,0,0.076
+STU-1040,24CS240,CSE,3,85.4,9.34,9.29,stable,0,90.5,74.5,61,68.9,,96.8,Not Eligible,0,0.064
+STU-8009,24CI909,Civil,3,86.4,6.82,6.56,improving,0,65.3,85.4,61,68.7,,51.7,Not Eligible,0,0.17
+STU-0512,24CS612,CSE,4,90.6,7.05,7.17,stable,3,69.9,91.0,72,40.8,,66.4,Not Eligible,0,0.498
+STU-6915,25ME715,Mechanical,2,82.0,5.23,5.17,stable,0,47.1,74.5,42,72.7,,64.5,Not Eligible,1,0.601
+STU-4298,23EC798,ECE,6,63.6,7.19,7.05,stable,0,68.3,69.5,128,96.6,,75.1,Eligible,0,0.294
+STU-5236,25EE836,EEE,1,83.3,7.92,8.29,declining,0,80.7,75.9,21,35.1,,52.3,Not Eligible,0,0.143
+STU-2796,25IT196,IT,2,92.0,7.42,7.05,improving,0,76.5,81.8,40,49.1,,66.7,Not Eligible,0,0.037
+STU-3865,22EC365,ECE,8,82.3,8.04,8.28,declining,0,81.2,61.2,164,83.5,Completed,72.1,Placed,0,0.134
+STU-3656,23EC156,ECE,6,89.0,7.64,7.95,declining,0,79.4,88.4,124,75.9,Completed,76.2,Eligible,0,0.104
+STU-3960,25EC460,ECE,1,65.6,7.7,8.5,declining,0,76.1,55.5,21,36.0,,70.8,Not Eligible,1,0.659
+STU-6559,24ME359,Mechanical,3,72.3,6.85,6.71,stable,0,72.5,72.3,63,49.8,,49.0,Not Eligible,0,0.146
+STU-8012,25CI912,Civil,2,88.2,6.2,6.58,declining,0,62.1,86.2,44,27.8,,64.3,Not Eligible,0,0.27
+STU-7417,25ME317,Mechanical,1,72.4,7.79,7.86,stable,0,84.2,71.5,22,67.3,,71.3,Not Eligible,0,0.11
+STU-3614,24EC114,ECE,3,83.6,8.61,8.97,declining,0,87.9,80.8,59,30.7,,88.7,Not Eligible,0,0.098
+STU-2044,25CS344,CSE,1,79.8,7.93,8.49,declining,0,85.1,92.9,23,33.2,,82.4,Not Eligible,0,0.281
+STU-0203,25CS303,CSE,2,98.1,8.37,8.31,stable,0,82.7,100.0,43,59.6,,80.1,Not Eligible,0,0.112
+STU-3501,24IT901,IT,3,78.0,8.12,8.06,stable,0,87.8,71.6,59,57.2,,79.6,Not Eligible,0,0.086
+STU-7938,24CI838,Civil,3,58.2,7.51,7.03,improving,0,70.8,65.0,65,47.1,,77.2,Not Eligible,1,0.739
+STU-5215,22EE815,EEE,8,70.6,7.14,6.85,improving,0,67.3,72.6,168,58.1,,53.5,In Process,0,0.087
+STU-7158,22ME958,Mechanical,7,68.8,6.9,6.81,stable,0,78.0,82.6,145,70.0,,53.2,In Process,0,0.132
+STU-0343,25CS443,CSE,2,91.9,7.98,8.36,declining,0,76.9,95.3,43,72.8,,64.6,Not Eligible,0,0.148
+STU-2776,25IT176,IT,1,92.1,7.45,7.32,stable,0,71.8,92.6,21,44.5,,71.3,Not Eligible,0,0.077
+STU-5086,25EC686,ECE,1,72.5,6.95,7.24,declining,0,65.8,67.2,19,51.6,,69.7,Not Eligible,0,0.137
+STU-2206,24IT506,IT,3,80.6,8.21,8.15,stable,0,90.4,83.7,65,49.6,,77.5,Not Eligible,0,0.1
+STU-2433,24IT733,IT,4,90.4,7.92,8.27,declining,0,85.6,81.1,82,15.6,,70.7,Not Eligible,0,0.276
+STU-0787,23CS887,CSE,5,84.6,7.02,6.86,improving,0,54.2,81.1,101,38.1,Ongoing,68.5,Eligible,0,0.103
+STU-2998,25IT398,IT,1,77.9,8.08,8.26,declining,0,83.7,73.0,18,78.7,,64.6,Not Eligible,0,0.125
+STU-4697,25EC297,ECE,2,84.5,8.49,7.85,improving,0,72.4,89.0,40,72.6,,86.0,Not Eligible,0,0.075
+STU-3578,24EC978,ECE,4,83.9,8.38,8.12,improving,0,81.4,84.2,85,62.2,,98.0,Not Eligible,0,0.086
+STU-3002,23IT402,IT,6,90.7,7.06,7.26,declining,0,79.6,76.1,126,78.0,,60.9,Eligible,0,0.132
+STU-1761,24CS961,CSE,4,85.2,8.83,8.43,improving,0,91.2,81.9,80,53.8,,97.3,Not Eligible,0,0.113
+STU-5464,23EE164,EEE,5,83.4,6.44,6.14,improving,0,63.1,76.8,107,60.2,,51.5,In Process,0,0.089
+STU-8105,22CI105,Civil,7,76.0,5.69,5.47,improving,0,55.4,66.4,143,60.7,,81.0,Placed,0,0.363
+STU-1044,23CS244,CSE,5,79.2,9.25,9.89,declining,0,91.0,70.8,103,59.5,Ongoing,83.2,Eligible,0,0.315
+STU-0265,22CS365,CSE,7,90.7,6.44,6.59,declining,0,69.0,92.7,143,46.1,,46.6,In Process,0,0.094
+STU-0678,24CS778,CSE,4,89.1,7.82,7.01,improving,0,74.8,99.3,80,82.0,,73.9,Not Eligible,0,0.051
+STU-6789,22ME589,Mechanical,7,77.8,7.97,8.22,declining,0,81.6,75.2,143,75.7,Completed,86.5,In Process,0,0.13
+STU-3049,24IT449,IT,3,76.4,7.42,7.67,declining,0,69.3,75.8,59,27.3,,74.6,Not Eligible,0,0.231
+STU-0741,24CS841,CSE,4,86.4,7.34,7.29,stable,1,76.4,79.0,82,39.3,,58.5,Not Eligible,0,0.113
+STU-2993,22IT393,IT,8,79.7,7.32,7.34,stable,0,74.6,86.3,169,67.3,,83.2,Not Eligible,0,0.1
+STU-0947,25CS147,CSE,2,84.6,7.58,7.8,declining,0,72.8,77.4,38,96.4,,75.5,Not Eligible,0,0.085
+STU-5762,25EE462,EEE,1,66.9,8.24,8.45,declining,0,85.8,68.1,22,46.3,,92.2,Not Eligible,0,0.187
+STU-1223,24CS423,CSE,4,85.9,8.37,8.63,declining,0,87.4,77.7,82,98.0,,96.4,Not Eligible,0,0.099
+STU-3464,25IT864,IT,2,93.1,7.83,7.4,improving,0,78.0,98.9,38,53.0,,64.9,Not Eligible,0,0.044
+STU-1404,23CS604,CSE,6,92.2,7.78,7.32,improving,0,75.1,89.6,127,62.6,Completed,81.7,Eligible,0,0.107
+STU-2981,23IT381,IT,5,89.8,6.2,6.24,stable,1,67.8,91.1,97,40.1,,65.4,In Process,0,0.279
+STU-1897,23CS197,CSE,5,87.3,8.41,8.15,improving,0,87.3,77.3,107,83.3,,82.7,Eligible,0,0.09
+STU-4574,23EC174,ECE,5,70.6,6.54,6.87,declining,0,58.8,77.3,107,40.0,,35.6,Eligible,0,0.161
+STU-6276,22EE976,EEE,7,93.6,7.57,8.44,declining,0,78.1,82.9,149,70.8,Completed,84.8,In Process,0,0.298
+STU-1043,24CS243,CSE,3,95.7,8.65,8.06,improving,0,89.3,100.0,61,29.5,,98.0,Not Eligible,0,0.209
+STU-1967,25CS267,CSE,2,76.6,6.44,6.26,improving,0,58.8,74.2,43,33.1,,57.7,Not Eligible,0,0.124
+STU-5993,24EE693,EEE,3,69.7,7.71,7.16,improving,0,72.9,78.7,64,62.3,,79.4,Not Eligible,0,0.133
+STU-2254,22IT554,IT,7,84.3,6.84,6.36,improving,1,73.1,85.0,145,34.8,Completed,50.2,Placed,0,0.206
+STU-7520,22ME420,Mechanical,8,74.5,8.15,8.23,stable,0,75.1,76.6,168,67.5,,75.0,Placed,0,0.167
+STU-0527,24CS627,CSE,4,94.6,7.97,7.99,stable,0,75.7,85.8,84,63.1,,88.1,Not Eligible,0,0.065
+STU-2454,22IT754,IT,8,78.0,7.7,7.4,improving,0,68.7,77.6,168,42.5,Completed,92.9,Placed,0,0.096
+STU-4874,22EC474,ECE,8,73.0,7.79,7.44,improving,0,74.6,85.5,169,43.6,Completed,50.7,In Process,0,0.086
+STU-1709,23CS909,CSE,5,80.6,7.52,7.15,improving,0,81.9,68.8,105,65.8,Completed,62.9,Eligible,0,0.159
+STU-2507,22IT807,IT,8,84.6,8.48,8.28,improving,0,82.9,84.6,168,64.0,,83.3,Placed,0,0.06
+STU-7031,22ME831,Mechanical,8,72.6,7.94,8.31,declining,2,74.5,70.9,158,80.9,Completed,71.5,Placed,1,0.552
+STU-3473,23IT873,IT,6,99.0,7.73,7.71,stable,0,76.1,93.3,122,55.0,Completed,46.2,Eligible,0,0.099
+STU-0400,23CS500,CSE,6,80.5,7.42,7.35,stable,0,78.8,70.7,128,62.0,,86.4,Eligible,0,0.063
+STU-3823,25EC323,ECE,2,75.1,8.73,8.57,improving,0,91.5,66.8,40,64.6,,98.0,Not Eligible,0,0.06
+STU-6510,24ME310,Mechanical,3,86.2,6.39,6.46,stable,1,64.0,78.0,59,82.2,,75.4,Not Eligible,0,0.225
+STU-1991,22CS291,CSE,7,83.7,8.34,8.62,declining,0,88.2,88.2,143,79.5,Completed,98.0,Placed,0,0.196
+STU-5272,25EE872,EEE,2,84.0,6.46,6.73,declining,0,65.4,89.2,38,59.5,,41.5,Not Eligible,0,0.108
+STU-4391,22EC891,ECE,8,78.4,6.66,6.17,improving,0,72.1,89.2,170,92.3,,67.5,Placed,0,0.092
+STU-1964,24CS264,CSE,3,91.6,8.88,9.01,stable,0,84.0,92.7,63,81.5,,93.3,Not Eligible,0,0.087
+STU-7166,25ME966,Mechanical,2,69.3,7.12,7.0,stable,1,69.7,72.1,38,43.2,,68.7,Not Eligible,0,0.384
+STU-7178,23ME978,Mechanical,6,70.5,8.03,7.42,improving,0,75.1,72.6,124,56.7,Completed,77.2,Eligible,0,0.071
+STU-0540,25CS640,CSE,1,79.3,7.56,7.3,improving,3,79.6,80.2,18,29.9,,57.8,Not Eligible,1,0.521
+STU-7388,25ME288,Mechanical,1,68.0,7.45,7.7,declining,0,67.8,67.8,22,57.6,,52.5,Not Eligible,0,0.235
+STU-3251,22IT651,IT,8,96.1,8.23,7.86,improving,0,79.7,84.9,166,69.0,,97.6,Placed,0,0.097
+STU-6179,23EE879,EEE,6,76.5,8.06,7.46,improving,0,84.6,64.0,122,24.9,,82.2,Eligible,0,0.186
+STU-6626,23ME426,Mechanical,5,67.6,7.32,7.72,declining,0,72.1,66.8,107,53.2,Completed,61.2,Eligible,0,0.251
+STU-2350,24IT650,IT,4,79.1,7.18,7.07,stable,0,75.0,69.5,82,91.0,Ongoing,57.7,Not Eligible,0,0.059
+STU-0949,22CS149,CSE,7,97.8,7.59,7.49,stable,0,75.6,91.8,147,73.2,Completed,85.0,Placed,0,0.075
+STU-3832,25EC332,ECE,2,83.5,8.12,8.42,declining,0,92.2,82.5,43,92.2,,82.8,Not Eligible,0,0.105
+STU-1608,22CS808,CSE,7,85.3,9.12,8.6,improving,0,88.2,85.2,145,15.5,Completed,98.0,Placed,0,0.099
+STU-5797,24EE497,EEE,4,98.3,6.19,5.86,improving,0,64.7,92.7,85,69.7,,64.3,Not Eligible,0,0.124
+STU-3130,22IT530,IT,7,99.0,6.82,6.95,stable,0,70.8,83.9,148,50.8,Completed,70.4,In Process,0,0.131
+STU-2563,24IT863,IT,3,83.1,8.69,8.69,stable,0,90.2,93.9,63,43.1,,76.0,Not Eligible,0,0.093
+STU-4935,24EC535,ECE,3,83.2,8.7,8.37,improving,0,86.6,82.8,65,42.1,Ongoing,73.2,Not Eligible,0,0.061
+STU-3552,22EC952,ECE,7,81.5,8.84,8.89,stable,0,91.9,80.2,147,51.4,Completed,73.8,Placed,0,0.086
+STU-7725,22CI625,Civil,8,92.3,7.72,7.3,improving,0,79.2,86.6,169,36.1,Completed,63.3,Placed,0,0.072
+STU-3529,25EC929,ECE,2,77.0,5.67,5.74,stable,0,58.5,87.7,40,26.6,,44.9,Not Eligible,0,0.334
+STU-0489,22CS589,CSE,8,78.2,7.93,8.08,declining,0,84.2,86.3,164,58.3,Ongoing,85.3,Placed,0,0.185
+STU-7726,24CI626,Civil,4,80.6,6.71,6.21,improving,0,66.1,71.5,85,44.6,,75.3,Not Eligible,0,0.079
+STU-0369,25CS469,CSE,2,81.1,5.55,6.19,declining,0,55.3,88.6,40,40.3,,85.7,Not Eligible,0,0.471
+STU-7408,25ME308,Mechanical,1,51.0,7.51,7.41,stable,0,76.8,49.1,21,56.0,,71.5,Not Eligible,1,0.935
+STU-3147,25IT547,IT,1,71.2,7.16,6.88,improving,0,70.0,74.5,18,31.1,,74.3,Not Eligible,0,0.101
+STU-7202,25ME102,Mechanical,1,78.3,6.88,6.5,improving,2,67.6,78.8,18,37.0,,57.4,Not Eligible,0,0.465
+STU-5285,23EE885,EEE,5,69.2,7.98,8.13,declining,0,80.5,76.1,105,27.3,,67.2,Eligible,0,0.205
+STU-3545,25EC945,ECE,1,82.7,7.93,8.35,declining,0,86.3,72.6,19,47.5,,72.5,Not Eligible,0,0.081
+STU-3388,23IT788,IT,6,78.8,9.38,9.73,declining,0,94.5,76.6,124,61.4,,80.9,Eligible,0,0.169
+STU-1017,25CS217,CSE,2,90.0,8.34,8.81,declining,0,89.1,83.8,42,72.6,,78.3,Not Eligible,0,0.31
+STU-4375,23EC875,ECE,5,77.0,7.37,6.8,improving,0,74.8,66.6,103,49.9,,89.9,Eligible,0,0.067
+STU-0254,24CS354,CSE,3,87.8,8.24,7.75,improving,0,80.5,86.4,65,47.5,,79.9,Not Eligible,0,0.089
+STU-3198,24IT598,IT,4,83.5,7.56,7.5,stable,1,70.6,74.6,82,68.2,,76.7,Not Eligible,0,0.204
+STU-7584,23CI484,Civil,5,78.2,6.95,7.02,stable,0,64.6,72.6,106,51.0,,58.9,Eligible,0,0.109
+STU-5832,23EE532,EEE,5,79.0,7.25,7.31,stable,0,68.2,77.0,107,38.9,,64.0,Eligible,0,0.092
+STU-7658,22CI558,Civil,8,78.7,7.2,7.24,stable,1,69.8,79.5,164,51.0,,95.5,In Process,0,0.18
+STU-5778,25EE478,EEE,2,83.7,8.71,9.21,declining,0,91.2,80.2,38,72.1,,81.0,Not Eligible,0,0.147
+STU-2775,22IT175,IT,8,95.1,7.42,7.75,declining,0,65.1,93.0,164,63.9,Completed,68.2,Placed,0,0.156
+STU-7462,22ME362,Mechanical,8,82.2,8.04,8.06,stable,0,82.7,82.9,170,98.0,,74.0,Placed,0,0.055
+STU-5274,24EE874,EEE,3,73.3,7.7,7.96,declining,2,77.2,71.5,51,69.6,Ongoing,66.8,Not Eligible,0,0.477
+STU-6592,22ME392,Mechanical,7,80.7,7.25,6.94,improving,0,74.0,80.2,143,78.0,Completed,72.2,Placed,0,0.125
+STU-2824,23IT224,IT,5,88.9,8.02,7.82,improving,0,81.1,85.0,101,96.7,,72.3,Eligible,0,0.064
+STU-5713,23EE413,EEE,5,70.0,7.08,7.27,declining,0,69.8,67.1,106,34.9,,49.2,Eligible,0,0.169
+STU-6788,22ME588,Mechanical,7,79.7,6.58,6.1,improving,0,69.3,77.0,148,36.8,,63.4,In Process,0,0.166
+STU-5957,24EE657,EEE,4,77.9,6.33,6.46,stable,0,64.8,67.9,80,67.9,,52.4,Not Eligible,0,0.173
+STU-3143,22IT543,IT,8,78.2,8.77,8.79,stable,0,92.5,80.6,164,64.8,Completed,78.2,Placed,0,0.149
+STU-0097,23CS197,CSE,5,78.0,7.56,7.35,improving,0,75.0,80.0,101,75.5,Completed,79.2,Eligible,0,0.128
+STU-0749,22CS849,CSE,8,87.6,9.54,9.5,stable,0,92.2,93.5,164,48.9,Completed,80.5,Placed,0,0.077
+STU-7979,22CI879,Civil,7,72.7,7.91,7.78,stable,0,78.8,69.3,148,72.8,Completed,89.7,In Process,0,0.177
+STU-6880,22ME680,Mechanical,7,75.7,7.06,7.22,declining,0,69.7,82.3,143,72.7,,63.4,In Process,0,0.054
+STU-7943,23CI843,Civil,5,77.4,7.54,7.54,stable,0,81.0,77.8,105,54.1,,83.8,Eligible,0,0.14
+STU-3141,25IT541,IT,2,80.8,6.23,6.13,stable,0,65.0,70.1,42,69.7,,75.1,Not Eligible,0,0.075
+STU-6631,23ME431,Mechanical,6,85.4,6.53,5.98,improving,0,58.6,77.2,126,57.7,Ongoing,56.8,Eligible,0,0.087
+STU-2420,24IT720,IT,3,97.2,7.3,7.92,declining,0,62.8,97.1,64,83.2,,87.8,Not Eligible,0,0.128
+STU-2064,24CS364,CSE,4,79.4,8.03,7.26,improving,0,77.7,81.1,85,43.4,,65.4,Not Eligible,0,0.062
+STU-5704,24EE404,EEE,4,75.2,6.68,6.63,stable,2,76.6,72.4,76,81.8,,64.5,Not Eligible,0,0.407
+STU-3038,24IT438,IT,4,87.6,7.2,7.66,declining,0,67.0,81.0,86,57.6,,63.7,Not Eligible,0,0.204
+STU-1423,25CS623,CSE,1,80.4,8.32,8.7,declining,0,91.8,78.2,18,56.2,,62.7,Not Eligible,0,0.173
+STU-5198,23EC798,ECE,5,70.1,8.19,7.96,improving,0,88.5,67.7,101,43.8,Completed,73.9,Eligible,0,0.127
+STU-6296,22EE996,EEE,8,66.8,8.24,8.3,stable,0,74.5,60.5,170,70.5,Ongoing,69.0,Placed,0,0.13
+STU-4479,22EC979,ECE,8,82.8,6.9,7.19,declining,0,70.4,82.0,170,84.4,Completed,51.4,In Process,0,0.146
+STU-2919,23IT319,IT,6,82.7,7.28,7.3,stable,1,65.0,85.6,124,98.0,Completed,71.5,In Process,0,0.212
+STU-6632,24ME432,Mechanical,3,68.8,6.69,6.99,declining,1,68.0,76.2,60,27.5,Ongoing,77.7,Not Eligible,1,0.593
+STU-5265,24EE865,EEE,3,80.2,7.16,7.27,stable,0,66.6,80.1,61,65.2,,71.8,Not Eligible,0,0.084
+STU-7265,25ME165,Mechanical,2,82.1,6.62,6.53,stable,0,71.8,64.8,40,61.0,,81.2,Not Eligible,0,0.07
+STU-4254,23EC754,ECE,5,83.5,7.42,6.94,improving,0,70.1,93.4,105,56.2,,65.5,Eligible,0,0.08
+STU-2317,25IT617,IT,1,79.6,8.32,8.06,improving,0,82.8,89.6,18,53.4,,94.4,Not Eligible,0,0.078
+STU-2923,24IT323,IT,3,80.2,8.52,8.59,stable,0,89.3,88.0,63,27.7,,76.2,Not Eligible,0,0.074
+STU-5795,22EE495,EEE,7,71.1,7.01,6.96,stable,0,64.8,71.6,145,43.2,,93.4,In Process,0,0.17
+STU-7971,25CI871,Civil,1,64.3,6.77,6.63,stable,1,66.3,74.6,18,14.4,,62.6,Not Eligible,1,0.61
+STU-2334,22IT634,IT,8,87.1,6.22,6.49,declining,0,58.7,88.9,170,63.2,,70.9,In Process,0,0.2
+STU-6067,23EE767,EEE,6,94.2,7.75,7.6,improving,0,77.5,85.6,128,44.2,Completed,68.2,Eligible,0,0.111
+STU-2180,25IT480,IT,1,86.4,6.97,6.43,improving,2,73.2,83.2,18,78.6,,61.0,Not Eligible,0,0.419
+STU-0004,23CS104,CSE,5,76.3,9.09,8.27,improving,0,86.6,87.1,107,62.5,Completed,58.1,Eligible,0,0.066
+STU-6069,24EE769,EEE,4,68.1,7.09,6.78,improving,0,72.8,71.8,84,36.0,,67.0,Not Eligible,0,0.17
+STU-6327,22ME127,Mechanical,8,81.6,7.92,7.98,stable,0,75.4,78.0,164,39.0,,66.4,Placed,0,0.071
+STU-7271,25ME171,Mechanical,1,81.9,8.56,8.78,declining,0,86.6,81.6,23,69.4,,98.0,Not Eligible,0,0.068
+STU-2791,25IT191,IT,2,63.1,8.19,7.59,improving,0,81.2,54.7,42,58.4,Ongoing,83.8,Not Eligible,0,0.265
+STU-7566,25ME466,Mechanical,1,86.3,6.28,6.12,improving,0,56.5,83.9,21,73.1,,61.0,Not Eligible,0,0.159
+STU-2321,23IT621,IT,6,70.9,8.02,7.85,improving,0,87.4,59.0,128,38.8,Ongoing,97.9,Eligible,0,0.126
+STU-2971,24IT371,IT,4,86.3,9.58,9.69,stable,0,94.2,81.0,80,35.8,Ongoing,74.2,Not Eligible,0,0.127
+STU-2834,25IT234,IT,2,76.5,9.11,9.07,stable,0,91.6,75.4,44,36.2,,98.0,Not Eligible,0,0.076
+STU-0526,24CS626,CSE,4,83.7,7.82,8.22,declining,2,85.9,84.3,76,5.8,Ongoing,80.0,Not Eligible,1,0.669
+STU-1625,25CS825,CSE,2,84.9,7.39,7.88,declining,0,77.2,91.9,42,82.1,Ongoing,65.6,Not Eligible,0,0.098
+STU-2798,23IT198,IT,5,97.8,8.37,9.13,declining,0,71.4,95.5,107,62.3,Completed,65.1,Eligible,0,0.167
+STU-8234,24CI234,Civil,4,93.0,6.73,6.84,stable,0,63.6,91.0,80,98.0,,69.1,Not Eligible,0,0.143
+STU-3296,24IT696,IT,3,93.7,9.06,8.71,improving,0,86.8,93.4,65,44.7,,98.0,Not Eligible,0,0.095
+STU-5457,22EE157,EEE,7,70.8,7.64,7.82,declining,0,71.6,84.6,143,67.0,,83.3,Placed,0,0.219
+STU-2677,24IT977,IT,4,92.2,7.58,7.51,stable,0,79.6,91.5,80,67.9,,74.0,Not Eligible,0,0.07
+STU-6377,25ME177,Mechanical,2,67.1,8.66,8.8,stable,0,88.7,72.8,43,80.9,,90.0,Not Eligible,0,0.28
+STU-8242,23CI242,Civil,5,76.2,7.48,7.38,stable,0,74.5,70.6,107,38.8,,75.0,Eligible,0,0.089
+STU-1197,22CS397,CSE,8,83.7,7.18,6.93,improving,0,79.0,86.5,168,49.0,Ongoing,70.3,Not Eligible,0,0.082
+STU-4118,23EC618,ECE,5,89.4,7.85,7.21,improving,0,83.2,85.4,101,69.2,,82.0,Eligible,0,0.077
+STU-0925,24CS125,CSE,4,92.9,8.44,8.69,declining,0,88.2,88.4,82,79.9,,72.0,Not Eligible,0,0.151
+STU-6719,25ME519,Mechanical,1,78.5,7.93,8.29,declining,0,81.3,81.5,21,41.3,,81.8,Not Eligible,0,0.101
+STU-3665,24EC165,ECE,3,69.0,7.4,7.58,declining,0,77.8,63.1,64,91.5,Ongoing,84.4,Not Eligible,0,0.184
+STU-5941,23EE641,EEE,6,73.7,8.2,8.36,declining,0,78.4,69.1,124,47.8,Completed,92.1,Eligible,0,0.166
+STU-3173,22IT573,IT,7,82.6,8.48,8.4,stable,0,82.8,76.3,145,50.0,Completed,71.4,In Process,0,0.134
+STU-3069,25IT469,IT,1,55.2,8.86,8.81,stable,0,85.8,53.9,23,86.5,,73.2,Not Eligible,1,0.816
+STU-0585,23CS685,CSE,5,85.9,8.21,8.29,stable,0,90.0,79.4,103,80.5,Completed,93.0,Eligible,0,0.103
+STU-2989,23IT389,IT,5,90.3,9.95,10.0,stable,0,99.0,84.5,105,38.7,Completed,93.0,Eligible,0,0.072
+STU-7177,25ME977,Mechanical,1,90.5,8.39,8.28,stable,0,86.9,85.4,22,49.9,,61.5,Not Eligible,0,0.057
+STU-6520,23ME320,Mechanical,6,80.5,7.12,7.07,stable,2,75.8,74.1,120,5.9,Completed,68.4,In Process,0,0.44
+STU-3532,23EC932,ECE,5,78.8,7.8,8.01,declining,0,78.8,74.1,105,98.0,Completed,56.7,Eligible,0,0.111
+STU-5445,23EE145,EEE,5,86.0,8.23,8.05,improving,0,73.8,80.7,105,70.2,Completed,71.1,Eligible,0,0.079
+STU-7849,24CI749,Civil,4,72.0,7.65,8.32,declining,0,80.7,71.8,82,74.6,,79.6,Not Eligible,0,0.256
+STU-4673,25EC273,ECE,1,80.2,7.57,7.16,improving,0,63.1,80.0,18,72.9,,60.4,Not Eligible,0,0.052
+STU-0555,22CS655,CSE,7,67.9,7.06,6.98,stable,0,74.1,72.4,145,44.5,,69.9,In Process,0,0.164
+STU-1645,25CS845,CSE,1,79.7,8.41,7.95,improving,0,82.7,85.4,22,28.3,,66.6,Not Eligible,0,0.104
+STU-0209,25CS309,CSE,1,73.4,9.23,8.98,improving,0,93.7,80.7,22,75.8,,98.0,Not Eligible,0,0.146
+STU-6382,24ME182,Mechanical,3,77.5,7.06,6.81,improving,0,72.0,73.9,61,87.7,Ongoing,66.0,Not Eligible,0,0.051
+STU-5801,22EE501,EEE,8,87.8,7.34,7.07,improving,0,79.7,87.2,168,58.1,,56.7,In Process,0,0.137
+STU-7917,25CI817,Civil,2,77.2,5.9,5.86,stable,0,62.5,77.1,42,83.5,,56.4,Not Eligible,0,0.09
+STU-4283,24EC783,ECE,3,89.1,9.58,9.31,improving,0,97.6,84.3,64,63.4,,89.9,Not Eligible,0,0.115
+STU-2598,24IT898,IT,3,93.9,6.58,6.85,declining,0,66.4,95.6,59,37.1,Ongoing,51.7,Not Eligible,0,0.101
+STU-4654,25EC254,ECE,1,79.5,8.11,8.26,declining,0,78.7,81.5,22,72.9,,79.2,Not Eligible,0,0.062
+STU-1538,23CS738,CSE,6,94.4,7.6,7.11,improving,0,75.2,95.7,124,68.9,Completed,93.1,Eligible,0,0.073
+STU-4306,24EC806,ECE,3,82.7,8.81,9.02,declining,0,92.8,92.2,64,40.8,,70.5,Not Eligible,0,0.097
+STU-7728,22CI628,Civil,7,67.9,6.55,5.94,improving,1,70.5,63.2,143,45.1,,64.6,Placed,0,0.444
+STU-1431,24CS631,CSE,4,81.1,8.07,7.43,improving,0,77.2,79.6,85,59.7,,98.0,Not Eligible,0,0.125
+STU-8245,23CI245,Civil,5,73.5,8.03,8.31,declining,1,82.1,71.9,103,44.3,Ongoing,70.9,In Process,0,0.16
+STU-4955,24EC555,ECE,3,76.6,7.15,7.3,declining,0,72.7,83.1,63,85.3,,83.2,Not Eligible,0,0.078
+STU-2560,23IT860,IT,6,88.4,7.6,7.15,improving,0,74.7,75.9,124,66.6,Completed,68.9,Eligible,0,0.132
+STU-5344,25EE944,EEE,2,73.5,6.79,7.21,declining,1,68.9,69.7,38,72.6,Ongoing,85.8,Not Eligible,0,0.379
+STU-4412,23EC912,ECE,6,90.3,8.51,8.56,stable,0,82.9,83.6,124,76.2,Ongoing,66.0,Eligible,0,0.044
+STU-3433,24IT833,IT,3,88.6,7.93,7.6,improving,0,78.7,79.6,59,39.9,,71.3,Not Eligible,0,0.099
+STU-6633,22ME433,Mechanical,7,80.7,7.48,7.28,improving,0,77.0,85.0,148,63.8,Completed,73.0,In Process,0,0.064
+STU-3663,23EC163,ECE,6,68.2,7.43,7.59,declining,0,72.4,67.9,128,61.1,Completed,43.1,Eligible,0,0.183
+STU-3938,24EC438,ECE,4,72.1,7.26,7.27,stable,0,67.9,59.6,80,72.3,,66.2,Not Eligible,0,0.059
+STU-5047,22EC647,ECE,7,78.8,9.1,9.6,declining,0,88.7,79.4,147,41.4,,87.1,Placed,0,0.168
+STU-7594,22CI494,Civil,8,77.5,7.63,7.71,stable,0,79.6,75.1,166,98.0,,67.4,In Process,0,0.086
+STU-5774,24EE474,EEE,3,84.5,7.25,7.47,declining,0,76.3,88.5,65,60.8,,53.4,Not Eligible,0,0.151
+STU-7470,24ME370,Mechanical,3,75.2,7.1,6.89,improving,0,74.2,88.1,61,62.8,,75.0,Not Eligible,0,0.079
+STU-0850,23CS950,CSE,5,97.9,7.42,7.53,stable,0,73.1,97.2,101,39.0,Completed,80.2,Eligible,0,0.139
+STU-5032,22EC632,ECE,8,79.2,7.84,8.13,declining,0,84.3,71.5,166,68.1,Completed,80.2,Placed,0,0.158
+STU-5825,22EE525,EEE,7,78.7,6.96,7.15,declining,0,73.3,86.4,149,52.3,Ongoing,68.7,Placed,0,0.069
+STU-1898,25CS198,CSE,2,76.0,9.95,10.0,stable,0,94.7,74.3,43,39.2,,98.0,Not Eligible,0,0.088
+STU-3184,24IT584,IT,4,79.9,7.6,7.34,improving,0,62.4,74.2,86,72.9,,90.0,Not Eligible,0,0.059
+STU-1400,23CS600,CSE,6,81.1,7.39,7.25,stable,0,76.9,74.1,126,67.9,Completed,69.8,Eligible,0,0.087
+STU-6972,24ME772,Mechanical,4,82.8,8.25,8.67,declining,0,78.7,79.0,80,26.4,Ongoing,83.2,Not Eligible,0,0.197
+STU-2830,22IT230,IT,8,81.6,7.33,7.59,declining,0,76.4,78.6,169,58.1,,70.9,In Process,0,0.171
+STU-5651,23EE351,EEE,6,85.0,7.98,7.97,stable,0,78.1,87.8,128,51.2,,72.1,Eligible,0,0.08
+STU-1728,22CS928,CSE,8,79.6,8.99,8.72,improving,0,84.6,88.5,169,56.0,,98.0,Placed,0,0.189
+STU-7699,23CI599,Civil,5,67.8,6.22,5.94,improving,1,62.7,63.9,99,36.4,Ongoing,58.7,In Process,1,0.524
+STU-3789,22EC289,ECE,7,78.5,8.51,8.69,declining,0,80.2,83.9,147,56.7,Completed,75.3,Placed,0,0.144
+STU-3452,25IT852,IT,2,90.3,8.0,8.24,declining,0,84.5,81.4,42,74.1,Ongoing,72.0,Not Eligible,0,0.068
+STU-4124,25EC624,ECE,2,82.8,8.72,8.57,improving,0,95.1,83.3,43,47.8,,98.0,Not Eligible,0,0.096
+STU-8057,22CI957,Civil,8,79.3,7.06,6.92,stable,0,67.8,83.0,164,77.8,,65.9,In Process,0,0.062
+STU-1665,22CS865,CSE,8,84.3,8.29,8.29,stable,0,81.8,87.2,170,68.8,Ongoing,87.3,Placed,0,0.043
+STU-0753,23CS853,CSE,5,88.0,8.81,9.38,declining,0,95.9,72.2,106,72.6,Completed,64.7,Eligible,0,0.194
+STU-2620,23IT920,IT,5,88.0,7.79,7.34,improving,0,78.3,82.2,105,89.1,Completed,55.5,Eligible,0,0.06
+STU-1566,24CS766,CSE,4,85.5,8.76,8.68,stable,0,88.1,78.8,85,36.1,,81.1,Not Eligible,0,0.078
+STU-5612,25EE312,EEE,2,84.7,7.84,8.14,declining,0,82.8,72.8,44,66.9,,78.4,Not Eligible,0,0.129
+STU-2270,25IT570,IT,1,91.1,7.67,7.63,stable,0,68.1,93.1,18,71.2,,58.2,Not Eligible,0,0.068
+STU-6052,25EE752,EEE,1,87.5,7.64,7.62,stable,0,76.6,88.0,21,16.2,,90.8,Not Eligible,0,0.13
+STU-5266,23EE866,EEE,5,80.3,7.37,7.75,declining,0,67.5,65.5,101,73.9,Completed,65.8,Eligible,0,0.189
+STU-8333,23CI333,Civil,5,78.2,6.86,7.51,declining,0,70.7,77.1,106,49.7,,41.3,Eligible,0,0.25
+STU-2399,25IT699,IT,1,73.3,7.78,8.01,declining,1,73.4,71.7,19,51.4,,83.2,Not Eligible,0,0.229
+STU-6132,22EE832,EEE,8,95.7,8.62,8.5,stable,0,89.3,94.1,169,39.8,Completed,84.3,Placed,0,0.295
+STU-5456,23EE156,EEE,6,83.6,7.86,8.16,declining,0,73.6,90.8,122,51.9,,95.4,Eligible,0,0.226
+STU-6931,23ME731,Mechanical,5,83.3,5.59,5.56,stable,3,50.6,80.5,93,44.4,,49.7,In Process,1,0.873
+STU-6976,23ME776,Mechanical,5,72.4,6.97,7.17,declining,1,66.2,65.3,102,41.1,Completed,71.2,In Process,0,0.374
+STU-5987,23EE687,EEE,5,75.1,7.07,6.83,improving,1,73.3,79.5,103,83.9,Completed,83.1,In Process,0,0.085
+STU-5389,24EE989,EEE,3,80.8,6.4,6.35,stable,0,63.2,69.4,59,56.0,,52.7,Not Eligible,0,0.091
+STU-4791,23EC391,ECE,6,65.4,8.52,8.31,improving,0,88.0,60.9,127,52.3,Completed,83.8,Eligible,0,0.235
+STU-6532,22ME332,Mechanical,8,79.4,6.56,6.61,stable,0,74.6,73.7,168,39.3,,60.2,In Process,0,0.119
+STU-4019,24EC519,ECE,3,90.0,7.97,7.67,improving,0,81.5,86.3,64,89.5,,64.0,Not Eligible,0,0.1
+STU-0837,22CS937,CSE,8,87.8,7.7,8.44,declining,0,69.8,85.0,169,89.5,Completed,56.9,Placed,0,0.165
+STU-1383,22CS583,CSE,8,83.6,7.3,7.14,improving,0,75.4,74.0,164,73.4,,66.5,Placed,0,0.079
+STU-3196,24IT596,IT,4,86.9,8.41,8.76,declining,0,82.8,79.5,82,89.9,,93.3,Not Eligible,0,0.167
+STU-0796,22CS896,CSE,7,86.2,7.41,7.68,declining,0,75.7,76.2,149,36.6,Completed,66.6,In Process,0,0.132
+STU-0333,25CS433,CSE,1,78.6,7.57,7.2,improving,0,74.9,85.4,18,62.1,,49.5,Not Eligible,0,0.146
+STU-4995,22EC595,ECE,7,80.0,8.02,7.87,improving,0,90.6,64.8,143,82.9,Completed,66.9,Placed,0,0.095
+STU-7851,22CI751,Civil,8,74.3,8.15,7.94,improving,0,86.7,71.5,169,70.8,,71.5,Placed,0,0.07
+STU-1178,25CS378,CSE,1,67.5,7.89,8.18,declining,0,86.2,67.3,22,53.7,,53.0,Not Eligible,0,0.298
+STU-5708,22EE408,EEE,8,72.9,8.01,7.61,improving,0,72.6,65.3,168,20.3,Ongoing,71.4,In Process,0,0.201
+STU-0386,22CS486,CSE,7,80.4,7.77,7.73,stable,0,72.3,77.8,143,36.4,Completed,70.0,Placed,0,0.185
+STU-2392,23IT692,IT,6,85.5,8.06,8.21,declining,0,84.9,72.8,124,54.4,Completed,59.7,Eligible,0,0.077
+STU-2855,22IT255,IT,8,88.1,7.7,7.57,stable,0,81.1,72.4,168,57.5,,65.4,Placed,0,0.142
+STU-5794,24EE494,EEE,4,80.7,6.8,6.46,improving,0,75.6,75.9,85,76.4,,71.7,Not Eligible,0,0.152
+STU-4279,24EC779,ECE,4,79.3,7.31,6.52,improving,0,77.8,74.5,85,19.8,,67.2,Not Eligible,0,0.106
+STU-4549,25EC149,ECE,2,92.3,7.86,7.6,improving,0,78.7,87.9,44,62.6,,69.7,Not Eligible,0,0.068
+STU-0826,22CS926,CSE,8,98.8,9.58,9.61,stable,0,97.5,98.8,169,78.4,Completed,94.5,Placed,0,0.213
+STU-1705,24CS905,CSE,4,90.4,7.14,7.82,declining,0,68.4,91.1,85,62.3,,50.5,Not Eligible,0,0.205
+STU-7085,23ME885,Mechanical,6,84.8,6.24,6.61,declining,4,62.3,85.2,112,51.8,,55.4,In Process,1,0.943
+STU-1301,25CS501,CSE,1,91.9,8.91,8.96,stable,0,85.1,77.8,21,69.9,,81.3,Not Eligible,0,0.156
+STU-6161,22EE861,EEE,7,68.1,6.19,6.0,improving,0,56.4,67.1,147,41.3,,66.6,In Process,0,0.19
+STU-3880,25EC380,ECE,2,86.6,7.07,6.38,improving,0,61.7,85.4,43,54.0,,55.4,Not Eligible,0,0.063
+STU-6144,22EE844,EEE,8,99.0,6.87,6.44,improving,3,69.4,83.1,158,14.8,,86.7,In Process,1,0.732
+STU-8323,23CI323,Civil,6,60.0,8.33,8.35,stable,0,90.6,64.3,127,37.7,,72.8,Eligible,0,0.475
+STU-5951,23EE651,EEE,6,76.4,6.95,6.68,improving,1,79.2,76.8,120,53.2,,55.2,In Process,0,0.238
+STU-0525,22CS625,CSE,7,84.4,7.96,8.05,stable,0,80.8,81.9,148,35.9,Completed,64.8,Placed,0,0.115
+STU-5919,23EE619,EEE,6,81.9,8.06,8.05,stable,0,79.2,91.2,122,81.7,Completed,73.9,Eligible,0,0.122
+STU-5010,25EC610,ECE,2,92.3,7.68,7.64,stable,0,74.8,95.6,38,28.3,,69.9,Not Eligible,0,0.162
+STU-7784,25CI684,Civil,2,79.0,6.67,7.06,declining,0,65.6,73.3,42,53.0,,34.9,Not Eligible,0,0.115
+STU-5282,24EE882,EEE,4,79.4,8.74,9.14,declining,0,90.6,80.3,86,91.4,,86.4,Not Eligible,0,0.289
+STU-4849,24EC449,ECE,4,88.1,7.75,8.11,declining,0,72.7,86.0,86,71.7,,69.0,Not Eligible,0,0.085
+STU-0728,22CS828,CSE,7,99.0,8.08,8.99,declining,0,82.3,95.8,149,86.4,Ongoing,82.3,Placed,0,0.325
+STU-4969,24EC569,ECE,4,88.7,7.62,7.84,declining,0,73.0,79.2,82,41.3,,83.5,Not Eligible,0,0.177
+STU-6923,25ME723,Mechanical,1,75.7,6.4,6.32,stable,0,58.5,65.3,21,69.4,Ongoing,39.7,Not Eligible,0,0.177
+STU-7077,24ME877,Mechanical,3,91.1,7.03,6.45,improving,0,76.8,79.7,61,85.6,,47.7,Not Eligible,0,0.1
+STU-5084,25EC684,ECE,2,81.5,8.63,8.85,declining,0,87.2,82.3,44,77.8,,86.7,Not Eligible,0,0.143
+STU-5259,24EE859,EEE,4,83.1,7.55,7.7,declining,0,72.4,76.2,82,74.7,Ongoing,68.4,Not Eligible,0,0.147
+STU-2114,22CS414,CSE,8,77.2,7.65,7.58,stable,0,79.1,75.4,164,33.8,Completed,93.5,Placed,0,0.082
+STU-0634,23CS734,CSE,5,80.6,9.33,8.84,improving,0,96.9,85.5,105,37.6,Completed,98.0,Eligible,0,0.207
+STU-2246,23IT546,IT,6,88.0,9.61,9.43,improving,0,92.5,84.1,126,96.5,Completed,74.0,Eligible,0,0.099
+STU-5764,25EE464,EEE,1,89.8,4.83,5.02,declining,0,51.2,82.8,22,51.7,,49.5,Not Eligible,1,0.617
+STU-2797,25IT197,IT,1,73.2,7.73,7.23,improving,0,73.8,79.8,18,44.2,,72.8,Not Eligible,0,0.087
+STU-6413,24ME213,Mechanical,3,73.2,8.51,8.75,declining,0,85.6,70.9,65,60.8,,88.5,Not Eligible,0,0.17
+STU-0900,25CS100,CSE,1,83.0,8.57,8.95,declining,0,82.8,79.4,23,73.2,,77.3,Not Eligible,0,0.174
+STU-0836,24CS936,CSE,4,80.2,7.53,7.48,stable,0,73.9,73.0,80,64.1,,65.6,Not Eligible,0,0.03
+STU-7526,24ME426,Mechanical,4,78.0,8.61,8.46,improving,0,92.7,72.5,80,62.2,,92.6,Not Eligible,0,0.115
+STU-4047,23EC547,ECE,5,78.5,7.32,7.35,stable,0,62.0,77.3,106,73.2,,78.6,Eligible,0,0.092
+STU-3245,22IT645,IT,7,74.1,6.28,6.34,stable,0,61.6,75.4,147,91.8,Completed,61.4,In Process,0,0.242
+STU-1106,25CS306,CSE,2,76.3,7.44,7.54,stable,2,75.7,69.8,36,69.3,,69.9,Not Eligible,0,0.39
+STU-6694,22ME494,Mechanical,7,73.5,8.18,8.42,declining,0,81.3,76.5,143,72.5,Completed,70.4,In Process,0,0.103
+STU-5470,23EE170,EEE,6,81.8,8.25,8.0,improving,0,82.8,69.7,124,85.7,Completed,74.3,Eligible,0,0.102
+STU-4446,23EC946,ECE,5,83.9,7.17,7.52,declining,0,62.1,85.2,107,85.6,Completed,83.8,Eligible,0,0.157
+STU-7734,25CI634,Civil,2,85.1,6.83,6.43,improving,0,74.2,84.0,43,81.5,,69.7,Not Eligible,0,0.094
+STU-7593,22CI493,Civil,8,99.0,7.84,8.03,declining,0,84.0,90.1,170,46.6,,74.0,In Process,0,0.084
+STU-0939,25CS139,CSE,1,87.0,8.84,9.27,declining,0,83.6,83.3,22,47.7,,87.9,Not Eligible,0,0.066
+STU-3379,23IT779,IT,6,82.5,7.91,7.92,stable,0,73.9,87.8,128,55.3,,66.5,Eligible,0,0.041
+STU-2974,23IT374,IT,6,88.7,7.73,7.62,stable,0,72.7,85.5,127,64.4,,82.7,Eligible,0,0.071
+STU-0035,22CS135,CSE,8,82.9,8.62,8.24,improving,0,80.6,74.3,164,51.8,Completed,91.4,Placed,0,0.142
+STU-5209,24EE809,EEE,3,83.9,5.64,5.66,stable,0,52.2,87.3,59,47.8,,78.3,Not Eligible,0,0.243
+STU-5241,22EE841,EEE,8,84.3,6.8,6.8,stable,0,70.6,84.2,170,61.9,Completed,72.0,Placed,0,0.082
+STU-6459,22ME259,Mechanical,8,91.1,7.97,7.79,improving,0,85.4,89.8,164,50.5,,67.6,Placed,0,0.054
+STU-7996,23CI896,Civil,5,95.0,7.43,6.95,improving,0,68.2,97.8,107,71.3,,79.2,Eligible,0,0.054
+STU-0267,23CS367,CSE,6,76.8,7.21,6.37,improving,0,71.9,69.7,128,71.9,,62.6,Eligible,0,0.067
+STU-2342,24IT642,IT,3,83.0,7.54,7.81,declining,2,61.9,73.5,56,35.4,,73.2,Not Eligible,0,0.444
+STU-3595,24EC995,ECE,4,86.5,8.37,8.53,declining,0,87.3,81.8,82,59.0,,61.0,Not Eligible,0,0.126
+STU-4568,22EC168,ECE,7,75.8,7.78,7.91,stable,3,87.8,85.9,131,76.8,Completed,56.5,In Process,1,0.673
+STU-6544,22ME344,Mechanical,8,72.8,6.64,6.83,declining,0,59.4,79.0,164,80.6,Completed,56.9,In Process,0,0.114
+STU-6754,24ME554,Mechanical,3,82.9,7.84,7.43,improving,0,77.0,92.7,59,60.9,,93.9,Not Eligible,0,0.111
+STU-8161,25CI161,Civil,2,77.3,6.97,7.18,declining,0,65.5,68.7,40,36.9,,85.8,Not Eligible,0,0.118
+STU-5296,24EE896,EEE,4,65.5,6.75,6.98,declining,0,70.1,72.5,80,93.3,,59.0,Not Eligible,0,0.229
+STU-7108,25ME908,Mechanical,2,74.3,8.08,7.76,improving,0,76.5,79.1,38,33.9,,79.7,Not Eligible,0,0.105
+STU-1687,22CS887,CSE,8,85.3,7.25,7.49,declining,1,73.3,88.1,166,46.6,Completed,67.3,Placed,0,0.189
+STU-1722,25CS922,CSE,1,89.7,7.3,8.01,declining,0,67.5,92.6,18,44.1,,58.3,Not Eligible,0,0.108
+STU-3309,24IT709,IT,4,74.8,7.4,7.55,declining,0,73.2,84.6,80,68.4,,82.0,Not Eligible,0,0.15
+STU-1099,22CS299,CSE,7,75.9,8.06,7.46,improving,0,80.3,76.0,143,91.3,Completed,67.6,Placed,0,0.1
+STU-8072,23CI972,Civil,5,76.9,6.73,6.45,improving,0,67.1,78.5,107,84.4,,61.3,Eligible,0,0.046
+STU-8084,24CI984,Civil,3,89.7,6.02,5.52,improving,1,57.5,88.6,59,84.5,,47.4,Not Eligible,0,0.28
+STU-0869,22CS969,CSE,7,90.5,8.9,9.17,declining,0,98.4,89.5,145,82.2,Completed,71.6,Placed,0,0.088
+STU-0347,23CS447,CSE,5,87.7,7.45,7.08,improving,0,79.1,100.0,103,53.4,Completed,53.7,Eligible,0,0.049
+STU-7548,24ME448,Mechanical,4,84.4,7.26,7.87,declining,0,69.1,79.4,80,50.2,Ongoing,69.5,Not Eligible,0,0.212
+STU-5677,24EE377,EEE,3,85.7,7.41,7.7,declining,0,70.0,84.1,64,52.7,,47.1,Not Eligible,0,0.113
+STU-7197,24ME997,Mechanical,3,83.0,7.12,7.57,declining,0,70.1,74.1,59,63.0,,67.2,Not Eligible,0,0.136
+STU-2248,24IT548,IT,3,90.3,8.7,9.05,declining,0,81.7,88.2,63,52.9,,83.1,Not Eligible,0,0.117
+STU-5988,23EE688,EEE,6,85.3,8.86,8.83,stable,0,81.8,83.6,124,67.5,Completed,57.5,Eligible,0,0.082
+STU-7267,24ME167,Mechanical,3,68.0,8.96,8.56,improving,0,88.4,62.5,65,57.8,,80.2,Not Eligible,0,0.159
+STU-8228,24CI228,Civil,3,76.2,6.92,6.67,improving,0,65.1,67.2,63,41.7,,59.5,Not Eligible,0,0.114
+STU-1676,24CS876,CSE,3,87.7,6.81,8.06,declining,0,58.8,86.7,64,57.1,Ongoing,83.2,Not Eligible,0,0.365
+STU-2802,22IT202,IT,8,77.9,7.47,7.22,improving,0,74.2,74.7,169,87.1,,98.0,In Process,0,0.1
+STU-3422,24IT822,IT,4,94.4,8.79,8.63,improving,0,87.9,97.1,82,59.0,,72.4,Not Eligible,0,0.117
+STU-4954,22EC554,ECE,7,86.2,8.39,8.23,improving,0,82.5,90.1,145,83.3,Ongoing,84.2,Placed,0,0.059
+STU-5372,23EE972,EEE,5,64.6,6.37,6.55,declining,0,54.9,79.8,101,68.0,Completed,82.0,In Process,0,0.467
+STU-7692,23CI592,Civil,5,78.2,7.74,7.84,stable,0,79.8,78.4,106,45.0,Completed,98.0,Eligible,0,0.1
+STU-7087,25ME887,Mechanical,2,83.4,8.75,8.17,improving,0,93.5,79.5,40,51.7,,70.0,Not Eligible,0,0.075
+STU-4548,23EC148,ECE,6,80.6,8.25,7.86,improving,0,82.3,81.0,124,29.9,Completed,97.3,Eligible,0,0.111
+STU-7631,25CI531,Civil,2,83.7,7.12,6.9,improving,0,63.8,83.6,40,75.1,,94.3,Not Eligible,0,0.064
+STU-3161,25IT561,IT,2,74.6,7.53,7.99,declining,0,77.9,76.6,42,44.2,,60.6,Not Eligible,0,0.208
+STU-1281,23CS481,CSE,5,84.9,7.61,7.77,declining,0,82.3,87.1,103,60.8,,60.8,Eligible,0,0.141
+STU-2619,25IT919,IT,2,82.2,9.05,9.05,stable,0,84.9,86.0,42,55.4,,77.8,Not Eligible,0,0.18
+STU-2653,22IT953,IT,8,73.2,8.58,8.29,improving,0,85.5,64.7,169,28.6,Completed,74.2,Placed,0,0.133
+STU-3942,22EC442,ECE,8,74.5,8.55,8.56,stable,0,79.4,77.7,164,77.3,Completed,81.5,Placed,0,0.066
+STU-3125,24IT525,IT,4,81.2,7.87,7.59,improving,0,83.1,76.1,82,18.6,,80.9,Not Eligible,0,0.116
+STU-4170,23EC670,ECE,5,97.1,6.79,6.75,stable,0,76.5,96.0,103,62.0,Ongoing,75.0,Eligible,0,0.129
+STU-1554,22CS754,CSE,8,84.9,8.5,8.18,improving,0,87.7,81.0,170,57.1,Ongoing,79.9,Placed,0,0.085
+STU-4718,23EC318,ECE,6,83.4,7.55,8.06,declining,0,79.6,84.8,128,46.5,Completed,73.8,Eligible,0,0.242
+STU-5112,22EC712,ECE,8,83.7,7.29,7.59,declining,1,63.3,88.6,160,72.5,,69.5,In Process,0,0.295
+STU-1153,23CS353,CSE,6,81.4,8.9,8.84,stable,0,85.5,70.9,128,73.8,,75.1,Eligible,0,0.084
+STU-7242,24ME142,Mechanical,4,78.0,6.51,6.58,stable,1,61.5,81.0,80,54.9,,61.1,Not Eligible,0,0.149
+STU-3330,23IT730,IT,6,78.8,6.13,6.06,stable,0,68.4,76.0,124,52.9,Ongoing,80.9,In Process,0,0.126
+STU-3934,24EC434,ECE,4,86.5,7.56,7.06,improving,1,81.1,79.4,76,43.6,,90.5,Not Eligible,0,0.146
+STU-6432,23ME232,Mechanical,6,83.8,6.48,6.88,declining,2,58.6,85.3,118,51.5,Completed,66.0,In Process,1,0.629
+STU-1179,22CS379,CSE,7,72.5,7.91,7.5,improving,0,69.1,69.7,145,74.1,Completed,89.5,Placed,0,0.109
+STU-4218,24EC718,ECE,3,85.8,9.37,9.2,improving,0,90.9,82.0,63,83.1,,76.7,Not Eligible,0,0.087
+STU-3556,23EC956,ECE,5,73.4,6.63,6.77,stable,0,66.0,75.9,107,29.3,Ongoing,70.2,Eligible,0,0.182
+STU-2741,22IT141,IT,8,83.0,8.02,7.19,improving,0,66.5,81.4,164,56.7,Ongoing,70.9,In Process,0,0.07
+STU-7501,22ME401,Mechanical,8,86.5,6.21,5.8,improving,0,62.2,84.4,164,91.4,Completed,54.5,In Process,0,0.158
+STU-4414,23EC914,ECE,5,67.5,7.02,7.27,declining,0,64.0,71.2,106,40.0,,77.1,Eligible,0,0.191
+STU-2961,25IT361,IT,2,84.4,8.14,8.37,declining,0,85.2,83.9,43,90.4,,98.0,Not Eligible,0,0.15
+STU-0874,24CS974,CSE,4,84.9,7.16,7.58,declining,0,66.6,86.9,80,54.1,Ongoing,77.5,Not Eligible,0,0.141
+STU-0192,22CS292,CSE,8,80.1,7.38,6.82,improving,0,72.8,83.8,169,61.0,,69.6,Not Eligible,0,0.124
+STU-6310,23EE110,EEE,6,81.3,8.63,8.56,stable,0,90.5,91.3,126,38.2,,86.8,Eligible,0,0.124
+STU-2087,25CS387,CSE,1,90.1,8.39,8.99,declining,0,85.9,87.3,23,69.1,,79.3,Not Eligible,0,0.2
+STU-6077,22EE777,EEE,7,82.6,7.04,6.73,improving,0,61.2,73.8,148,61.7,,71.6,Placed,0,0.082
+STU-7862,22CI762,Civil,7,86.1,8.38,8.37,stable,0,89.9,86.6,145,17.3,Ongoing,75.0,Placed,0,0.12
+STU-5886,24EE586,EEE,3,65.1,8.3,8.12,improving,0,80.0,78.4,59,81.1,,61.5,Not Eligible,0,0.367
+STU-2101,22CS401,CSE,8,71.7,8.21,8.71,declining,0,79.8,68.5,169,34.7,,90.6,Placed,0,0.419
+STU-2352,22IT652,IT,7,88.3,9.32,10.0,declining,0,95.0,91.0,148,46.0,Completed,84.3,Placed,0,0.297
+STU-0596,24CS696,CSE,4,91.3,9.4,9.2,improving,0,95.6,86.6,86,16.8,,98.0,Not Eligible,0,0.099
+STU-3945,23EC445,ECE,6,66.6,7.93,8.41,declining,0,83.4,69.7,128,51.4,Completed,75.3,Eligible,0,0.411
+STU-3028,22IT428,IT,7,85.7,7.73,7.71,stable,0,77.7,86.1,143,60.0,Completed,69.4,Placed,0,0.131
+STU-5117,23EC717,ECE,5,84.5,7.82,7.92,stable,0,81.2,79.9,105,72.5,Completed,90.0,Eligible,0,0.145
+STU-0626,24CS726,CSE,3,75.7,7.54,7.03,improving,2,77.6,70.6,55,50.9,,71.4,Not Eligible,0,0.255
+STU-2622,23IT922,IT,6,66.8,8.45,8.72,declining,0,79.9,66.4,127,35.4,Completed,86.4,Eligible,0,0.328
+STU-5061,23EC661,ECE,6,86.6,7.5,7.56,stable,0,79.9,87.8,126,31.6,Completed,54.9,Eligible,0,0.073
+STU-7380,25ME280,Mechanical,1,77.0,8.07,8.07,stable,0,72.4,67.4,21,80.7,,80.8,Not Eligible,0,0.046
+STU-0815,22CS915,CSE,7,85.2,9.03,8.68,improving,0,93.8,83.5,148,56.4,Ongoing,94.8,Placed,0,0.158
+STU-5082,23EC682,ECE,5,77.0,7.62,7.51,stable,1,78.6,78.7,99,43.1,,58.5,In Process,0,0.219
+STU-0884,25CS984,CSE,1,86.7,8.17,8.32,declining,0,82.3,72.5,19,49.6,,83.7,Not Eligible,0,0.092
+STU-4681,24EC281,ECE,4,71.5,6.7,7.03,declining,0,62.6,82.6,80,66.6,,53.6,Not Eligible,0,0.163
+STU-2208,22IT508,IT,8,65.6,6.82,6.89,stable,0,69.6,61.8,164,39.2,Completed,79.8,Placed,0,0.449
+STU-3369,24IT769,IT,3,84.0,7.47,7.68,declining,0,75.3,81.0,63,64.0,,67.5,Not Eligible,0,0.118
+STU-3004,23IT404,IT,5,98.4,6.93,7.18,declining,0,70.7,82.8,101,52.5,,54.6,Eligible,0,0.153
+STU-2033,24CS333,CSE,4,85.9,9.2,9.31,stable,0,91.6,80.4,80,68.8,,91.0,Not Eligible,0,0.085
+STU-8248,24CI248,Civil,4,85.4,8.68,8.64,stable,0,86.2,88.2,86,53.6,,82.6,Not Eligible,0,0.047
+STU-0164,23CS264,CSE,5,86.1,7.28,7.49,declining,0,70.9,93.8,106,44.7,,92.0,Eligible,0,0.1
+STU-7586,22CI486,Civil,7,81.9,7.23,6.5,improving,0,68.4,66.8,147,65.4,,56.8,In Process,0,0.108
+STU-3166,24IT566,IT,4,78.6,8.53,8.65,stable,0,83.5,90.2,85,16.4,,82.4,Not Eligible,0,0.108
+STU-1757,22CS957,CSE,8,83.2,9.81,9.25,improving,0,98.3,79.2,168,54.6,Completed,73.6,Not Eligible,0,0.101
+STU-1001,25CS201,CSE,2,88.6,7.19,6.65,improving,0,74.9,79.0,38,34.0,,74.8,Not Eligible,0,0.115
+STU-7331,23ME231,Mechanical,5,91.9,6.25,5.57,improving,0,62.3,71.1,101,85.1,Completed,74.9,In Process,0,0.153
+STU-3575,25EC975,ECE,2,70.0,8.91,8.77,stable,0,91.2,71.4,38,67.4,,98.0,Not Eligible,0,0.114
+STU-5293,25EE893,EEE,2,67.7,7.25,6.5,improving,0,66.7,72.4,44,98.0,,68.7,Not Eligible,0,0.098
+STU-2942,23IT342,IT,5,81.8,8.45,8.8,declining,0,80.7,86.1,103,62.4,Completed,73.3,Eligible,0,0.101
+STU-3525,23EC925,ECE,5,74.4,7.82,8.26,declining,0,72.6,83.8,106,49.0,Completed,90.3,Eligible,0,0.257
+STU-4115,25EC615,ECE,2,70.7,7.57,6.99,improving,0,61.7,62.9,44,76.4,,83.1,Not Eligible,0,0.19
+STU-0790,22CS890,CSE,8,94.4,8.34,7.88,improving,0,79.9,92.1,164,55.3,Completed,98.0,Placed,0,0.109
+STU-6652,23ME452,Mechanical,5,79.3,7.3,7.59,declining,0,77.3,80.0,107,67.8,,74.0,Eligible,0,0.182
+STU-1393,25CS593,CSE,2,77.1,8.48,8.92,declining,0,91.0,74.7,43,46.4,,81.5,Not Eligible,0,0.17
+STU-2547,23IT847,IT,6,87.3,6.84,6.93,stable,0,68.3,89.0,128,93.2,Completed,63.3,Eligible,0,0.088
+STU-7783,23CI683,Civil,6,89.2,6.6,6.91,declining,0,66.2,82.3,128,49.7,,56.5,Eligible,0,0.094
+STU-5133,24EC733,ECE,3,71.8,9.22,9.06,improving,0,86.2,67.3,65,79.2,,90.4,Not Eligible,0,0.154
+STU-4274,23EC774,ECE,6,77.7,7.71,7.62,stable,0,81.9,68.9,128,76.6,,98.0,Eligible,0,0.066
+STU-3908,23EC408,ECE,6,82.4,7.58,7.57,stable,0,77.8,72.0,128,53.6,,71.8,Eligible,0,0.088
+STU-0789,24CS889,CSE,4,83.1,7.69,7.83,stable,0,71.7,76.8,85,68.3,,56.2,Not Eligible,0,0.098
+STU-7760,24CI660,Civil,4,89.0,6.3,6.49,declining,0,70.1,76.0,82,27.6,,75.4,Not Eligible,0,0.151
+STU-7000,24ME800,Mechanical,3,74.0,7.97,8.16,declining,0,79.0,74.5,65,45.0,,82.7,Not Eligible,0,0.104
+STU-4748,23EC348,ECE,5,78.0,6.21,6.14,stable,0,61.2,72.0,101,34.8,Ongoing,55.0,In Process,0,0.243
+STU-4612,22EC212,ECE,8,86.9,7.92,7.39,improving,0,81.4,90.3,169,64.2,Completed,95.5,Placed,0,0.103
+STU-2293,24IT593,IT,3,92.9,9.33,9.1,improving,0,95.9,86.6,64,47.4,,73.5,Not Eligible,0,0.067
+STU-5758,25EE458,EEE,2,78.6,6.23,6.24,stable,2,60.7,85.6,36,58.2,,38.4,Not Eligible,0,0.459
+STU-3824,25EC324,ECE,1,80.7,8.29,8.21,stable,0,84.4,84.0,21,74.3,,68.2,Not Eligible,0,0.07
+STU-6439,23ME239,Mechanical,6,55.1,7.79,7.8,stable,2,78.3,65.9,119,74.0,Ongoing,68.5,In Process,1,0.941
+STU-6379,24ME179,Mechanical,4,90.0,7.63,7.3,improving,0,74.3,83.7,80,52.0,,71.8,Not Eligible,0,0.055
+STU-7234,23ME134,Mechanical,5,83.8,8.01,7.56,improving,0,77.2,92.1,103,64.3,Ongoing,85.7,Eligible,0,0.062
+STU-4932,22EC532,ECE,8,79.2,7.52,7.58,stable,0,77.8,87.0,166,69.1,,56.6,Placed,0,0.144
+STU-3427,22IT827,IT,8,80.8,7.28,7.28,stable,0,77.1,87.2,169,66.1,Completed,70.7,In Process,0,0.065
+STU-6578,25ME378,Mechanical,2,74.7,7.43,7.6,declining,1,71.0,70.8,40,67.8,,59.1,Not Eligible,0,0.32
+STU-1659,24CS859,CSE,4,92.6,7.81,7.27,improving,0,83.0,87.3,80,27.7,,83.9,Not Eligible,0,0.094
+STU-7447,23ME347,Mechanical,6,65.2,6.78,7.5,declining,0,71.8,65.9,128,72.6,,54.5,Eligible,1,0.661
+STU-5030,24EC630,ECE,3,87.0,8.25,8.36,stable,0,86.0,71.8,63,98.0,,64.1,Not Eligible,0,0.175
+STU-1185,25CS385,CSE,1,74.8,8.37,8.48,stable,0,81.7,71.7,18,98.0,,76.2,Not Eligible,0,0.078
+STU-5467,25EE167,EEE,1,72.7,8.44,8.8,declining,0,87.9,64.8,18,96.7,,85.2,Not Eligible,0,0.2
+STU-5414,24EE114,EEE,3,82.5,6.3,6.66,declining,0,60.2,91.9,63,91.9,,53.3,Not Eligible,0,0.277
+STU-3359,24IT759,IT,3,84.7,8.12,8.27,declining,0,76.5,83.1,59,48.5,,70.4,Not Eligible,0,0.067
+STU-6053,24EE753,EEE,3,75.1,6.94,6.83,stable,0,67.2,75.2,59,50.0,,78.8,Not Eligible,0,0.112
+STU-3763,24EC263,ECE,3,88.3,6.17,6.55,declining,0,51.5,81.2,65,32.2,,56.1,Not Eligible,0,0.24
+STU-3476,24IT876,IT,4,85.2,8.52,8.31,improving,0,76.6,74.9,86,51.6,,72.9,Not Eligible,0,0.08
+STU-6231,23EE931,EEE,5,76.5,8.31,8.17,stable,0,76.8,81.2,105,46.7,,96.2,Eligible,0,0.084
+STU-0193,22CS293,CSE,8,99.0,8.94,9.19,declining,0,92.1,86.7,170,84.3,Ongoing,73.3,Placed,0,0.127
+STU-2884,23IT284,IT,6,92.5,9.95,9.82,stable,0,99.0,70.1,122,82.9,Ongoing,93.0,Eligible,0,0.063
+STU-6191,25EE891,EEE,1,72.8,8.39,8.56,declining,0,90.9,84.7,18,70.8,,91.2,Not Eligible,0,0.139
+STU-5638,23EE338,EEE,6,68.1,8.23,8.04,improving,0,74.2,71.3,126,29.2,,92.2,Eligible,0,0.217
+STU-6901,25ME701,Mechanical,1,77.0,8.58,8.58,stable,0,86.7,72.9,19,90.3,,53.9,Not Eligible,0,0.107
+STU-7236,23ME136,Mechanical,5,88.6,8.06,7.87,improving,0,83.6,90.2,106,81.3,Completed,71.4,Eligible,0,0.096
+STU-1151,23CS351,CSE,6,78.5,8.05,7.96,stable,0,81.9,90.3,127,77.3,Completed,78.3,Eligible,0,0.067
+STU-3244,25IT644,IT,1,96.0,6.95,6.41,improving,0,70.6,74.5,22,55.5,,51.8,Not Eligible,0,0.12
+STU-6867,23ME667,Mechanical,5,94.6,6.9,6.74,improving,0,64.6,98.5,103,54.0,,86.9,Eligible,0,0.131
+STU-7953,24CI853,Civil,3,77.7,8.44,8.2,improving,0,87.3,60.1,64,61.7,,83.9,Not Eligible,0,0.047
+STU-4943,22EC543,ECE,8,84.4,7.66,7.91,declining,0,81.9,91.7,169,59.1,Completed,89.6,Placed,0,0.122
+STU-5742,23EE442,EEE,5,83.6,6.46,6.13,improving,0,70.1,77.1,101,19.2,Ongoing,43.8,In Process,0,0.138
+STU-2760,22IT160,IT,7,91.8,8.41,9.1,declining,0,78.4,94.6,143,50.6,Ongoing,85.1,Placed,0,0.157
+STU-7661,25CI561,Civil,2,59.5,7.52,7.56,stable,2,84.1,55.5,36,69.2,,70.9,Not Eligible,1,0.917
+STU-6659,22ME459,Mechanical,7,74.1,5.59,6.67,declining,2,59.9,69.1,140,61.5,,46.1,In Process,1,0.873
+STU-3131,22IT531,IT,7,88.5,7.35,7.82,declining,0,74.0,80.9,149,75.7,,57.2,Not Eligible,0,0.243
+STU-6516,24ME316,Mechanical,4,73.7,7.42,7.69,declining,0,75.5,68.1,80,51.9,,50.3,Not Eligible,0,0.065
+STU-7717,25CI617,Civil,1,67.6,8.08,8.35,declining,1,74.9,67.7,18,74.7,,71.4,Not Eligible,0,0.347
+STU-0326,23CS426,CSE,6,83.5,6.95,6.64,improving,0,70.5,84.0,127,36.5,,54.9,Eligible,0,0.108
+STU-7958,24CI858,Civil,3,67.4,5.91,5.95,stable,1,66.9,59.7,61,59.5,,39.6,Not Eligible,0,0.465
+STU-6451,23ME251,Mechanical,5,80.4,7.47,8.16,declining,0,70.4,67.1,106,37.0,Completed,97.1,Eligible,0,0.188
+STU-4400,24EC900,ECE,3,88.8,6.0,5.53,improving,0,73.6,88.9,61,48.4,,45.7,Not Eligible,0,0.09
+STU-1234,25CS434,CSE,1,84.7,8.45,8.39,stable,0,87.8,83.4,19,36.5,,81.0,Not Eligible,0,0.082
+STU-1578,23CS778,CSE,6,84.0,9.74,9.87,stable,0,97.3,87.6,124,35.5,Ongoing,93.8,Eligible,0,0.102
+STU-1093,23CS293,CSE,5,86.5,8.45,8.81,declining,0,80.5,100.0,106,45.6,Ongoing,74.1,Eligible,0,0.106
+STU-4198,25EC698,ECE,2,73.6,8.62,8.44,improving,0,99.0,77.6,38,40.8,,81.9,Not Eligible,0,0.088
+STU-2419,25IT719,IT,2,96.1,6.82,6.82,stable,0,71.2,87.4,38,59.6,,45.9,Not Eligible,0,0.028
+STU-8299,24CI299,Civil,4,73.2,7.59,7.28,improving,0,73.4,79.4,86,51.3,,69.7,Not Eligible,0,0.133
+STU-0285,23CS385,CSE,5,89.8,8.38,7.92,improving,0,91.4,82.9,101,95.4,Ongoing,91.3,Eligible,0,0.076
+STU-1522,22CS722,CSE,8,82.8,7.69,7.39,improving,0,73.8,96.5,169,35.0,Ongoing,75.1,Placed,0,0.081
+STU-2876,23IT276,IT,6,90.6,7.49,8.83,declining,0,75.4,84.8,127,63.6,,84.6,Eligible,0,0.355
+STU-4770,23EC370,ECE,6,80.5,6.76,6.88,stable,0,73.9,77.6,122,67.6,Ongoing,60.8,Eligible,0,0.186
+STU-7374,24ME274,Mechanical,4,70.9,7.37,7.39,stable,0,68.4,83.5,85,36.1,,67.7,Not Eligible,0,0.114
+STU-1149,22CS349,CSE,7,98.9,8.04,8.11,stable,0,79.9,100.0,143,62.7,Completed,68.8,Placed,0,0.104
+STU-0431,25CS531,CSE,2,99.0,7.69,7.73,stable,0,74.1,91.0,44,66.3,,90.6,Not Eligible,0,0.148
+STU-3302,25IT702,IT,1,84.8,8.68,9.21,declining,0,83.0,72.1,18,5.0,,68.3,Not Eligible,0,0.309
+STU-5933,22EE633,EEE,7,79.2,7.46,7.12,improving,0,75.8,72.9,145,64.7,Completed,97.3,Placed,0,0.118
+STU-1002,23CS202,CSE,5,68.6,8.88,9.0,stable,4,98.2,67.0,89,73.7,Completed,95.7,In Process,1,0.86
+STU-4392,22EC892,ECE,8,84.6,7.91,7.96,stable,0,76.8,87.8,169,90.1,Ongoing,74.5,Placed,0,0.102
+STU-6863,25ME663,Mechanical,2,70.8,6.02,6.68,declining,0,58.6,70.7,44,20.0,,55.8,Not Eligible,1,0.674
+STU-2901,25IT301,IT,1,88.4,8.81,8.44,improving,0,90.2,83.7,21,74.1,,64.9,Not Eligible,0,0.06
+STU-6399,23ME199,Mechanical,6,81.1,6.21,5.74,improving,0,65.3,82.3,126,31.4,Completed,66.1,In Process,0,0.142
+STU-5668,23EE368,EEE,5,83.5,6.66,7.22,declining,0,64.6,83.5,101,44.6,,48.0,Eligible,0,0.15
+STU-3194,24IT594,IT,4,85.4,8.3,7.96,improving,0,82.9,76.8,85,60.5,,90.2,Not Eligible,0,0.09
+STU-2259,23IT559,IT,5,84.7,8.4,8.81,declining,0,82.3,92.3,101,16.9,Completed,79.6,Eligible,0,0.161
+STU-1095,25CS295,CSE,2,77.9,9.61,10.0,declining,0,99.0,71.3,42,73.3,,98.0,Not Eligible,0,0.138
+STU-2780,24IT180,IT,3,77.8,7.9,7.17,improving,0,74.2,79.1,59,77.7,,76.6,Not Eligible,0,0.106
+STU-6489,25ME289,Mechanical,2,79.0,7.7,8.03,declining,0,74.5,80.2,38,56.2,,41.2,Not Eligible,0,0.077
+STU-5335,24EE935,EEE,3,73.3,7.69,7.43,improving,2,74.4,68.1,56,75.3,,76.5,Not Eligible,0,0.269
+STU-4404,23EC904,ECE,6,91.9,7.73,7.43,improving,0,74.5,94.6,124,92.4,,73.0,Eligible,0,0.096
+STU-0985,23CS185,CSE,6,86.9,9.66,9.53,stable,0,92.9,82.4,126,83.1,,98.0,Eligible,0,0.11
+STU-5458,22EE158,EEE,7,88.7,8.05,8.18,stable,0,76.4,86.3,148,81.8,Completed,97.5,Placed,0,0.084
+STU-3598,22EC998,ECE,8,81.7,7.11,7.84,declining,0,67.6,81.5,168,54.4,Ongoing,89.0,In Process,0,0.255
+STU-1727,24CS927,CSE,4,90.8,8.3,8.5,declining,0,81.2,88.1,84,76.3,,81.7,Not Eligible,0,0.101
+STU-3403,23IT803,IT,6,69.7,8.46,8.47,stable,0,98.3,77.4,127,27.5,Completed,85.3,Eligible,0,0.244
+STU-6727,24ME527,Mechanical,4,82.1,6.74,6.64,stable,0,68.5,80.4,80,64.4,,69.1,Not Eligible,0,0.065
+STU-0579,24CS679,CSE,4,92.8,7.09,7.0,stable,0,65.2,91.2,84,78.7,,94.8,Not Eligible,0,0.115
+STU-6617,22ME417,Mechanical,7,83.6,7.34,7.02,improving,0,72.9,83.1,143,95.3,,98.0,In Process,0,0.052
+STU-4246,25EC746,ECE,2,82.3,7.41,7.07,improving,0,73.9,82.0,42,58.5,,94.4,Not Eligible,0,0.115
+STU-4996,25EC596,ECE,1,65.3,9.35,9.79,declining,0,91.8,70.5,19,76.6,,69.4,Not Eligible,0,0.376
+STU-3594,22EC994,ECE,7,81.2,7.66,7.29,improving,2,82.8,84.9,140,45.5,,81.1,Not Eligible,1,0.524
+STU-7503,24ME403,Mechanical,3,88.5,5.98,5.48,improving,2,58.6,90.8,57,40.5,,52.4,Not Eligible,0,0.474
+STU-4668,23EC268,ECE,6,99.0,7.22,6.87,improving,0,74.2,92.5,126,71.6,,53.5,Eligible,0,0.098
+STU-5354,22EE954,EEE,7,71.6,9.09,9.09,stable,0,93.4,85.4,143,56.2,,75.1,In Process,0,0.138
+STU-3850,25EC350,ECE,1,78.9,6.43,5.88,improving,0,63.2,75.0,22,55.4,,69.8,Not Eligible,0,0.059
+STU-5406,23EE106,EEE,6,84.7,6.79,6.45,improving,0,62.6,86.5,124,75.0,,64.0,Eligible,0,0.048
+STU-5972,24EE672,EEE,3,84.1,6.35,6.58,declining,1,65.4,90.6,59,98.0,Ongoing,62.8,Not Eligible,0,0.279
+STU-1445,22CS645,CSE,7,83.8,7.52,7.15,improving,0,73.2,77.1,145,76.0,Completed,67.8,Placed,0,0.063
+STU-5277,22EE877,EEE,7,73.5,6.6,6.45,improving,0,70.7,70.3,145,11.2,Completed,63.2,In Process,0,0.174
+STU-7214,23ME114,Mechanical,5,82.0,8.62,8.42,improving,0,81.0,77.8,106,56.6,Completed,85.2,Eligible,0,0.115
+STU-1611,22CS811,CSE,8,72.0,7.37,7.33,stable,1,81.5,70.5,160,77.6,Completed,68.8,Placed,0,0.215
+STU-4207,25EC707,ECE,2,89.2,8.11,8.54,declining,0,73.0,93.7,43,37.5,,67.5,Not Eligible,0,0.138
+STU-6816,23ME616,Mechanical,5,81.7,6.24,6.43,declining,1,54.1,80.3,101,98.0,Completed,39.7,In Process,0,0.437
+STU-4853,24EC453,ECE,3,83.8,8.35,8.2,improving,0,83.9,85.5,61,98.0,,75.7,Not Eligible,0,0.124
+STU-1309,24CS509,CSE,3,87.9,9.16,8.87,improving,0,91.0,80.4,65,60.6,,91.5,Not Eligible,0,0.06
+STU-3453,25IT853,IT,1,98.3,8.21,7.67,improving,0,84.0,94.1,19,73.2,,98.0,Not Eligible,0,0.085
+STU-5314,23EE914,EEE,6,69.5,6.27,6.39,stable,0,63.4,73.8,128,49.3,,43.6,In Process,0,0.094
+STU-4911,22EC511,ECE,8,79.7,6.19,6.57,declining,0,59.3,77.5,169,82.4,Completed,67.9,In Process,0,0.412
+STU-6049,23EE749,EEE,6,95.0,7.5,7.38,stable,0,69.0,80.3,122,67.8,Completed,64.5,Eligible,0,0.071
+STU-5053,25EC653,ECE,1,98.1,8.92,9.05,stable,0,85.5,91.4,18,59.7,,86.7,Not Eligible,0,0.089
+STU-4986,24EC586,ECE,3,88.3,8.45,8.64,declining,0,91.6,84.2,59,61.7,,89.4,Not Eligible,0,0.118
+STU-0686,23CS786,CSE,5,86.9,8.48,8.37,stable,0,94.2,83.6,105,59.0,Ongoing,85.2,Eligible,0,0.086
+STU-4614,25EC214,ECE,1,91.6,9.19,8.9,improving,0,94.3,90.5,21,39.4,,94.0,Not Eligible,0,0.154
+STU-8128,25CI128,Civil,2,79.4,6.34,5.99,improving,1,52.9,77.8,34,60.5,,46.7,Not Eligible,0,0.365
+STU-6847,25ME647,Mechanical,2,75.0,7.53,7.36,improving,0,75.4,74.7,42,42.7,,81.5,Not Eligible,0,0.132
+STU-8111,24CI111,Civil,3,73.7,7.37,6.85,improving,0,71.5,73.1,59,58.1,,80.3,Not Eligible,0,0.114
+STU-6186,24EE886,EEE,4,99.0,7.39,7.15,improving,0,74.3,95.3,86,57.4,,57.6,Not Eligible,0,0.068
+STU-5196,25EC796,ECE,1,85.1,9.91,9.75,improving,0,99.0,79.7,23,51.9,,97.5,Not Eligible,0,0.108
+STU-3954,22EC454,ECE,8,84.1,7.19,7.3,stable,0,66.3,77.2,164,54.3,,47.2,In Process,0,0.131
+STU-5497,24EE197,EEE,4,88.2,7.08,6.89,improving,0,71.4,87.9,80,8.9,,87.4,Not Eligible,0,0.128
+STU-7770,22CI670,Civil,7,85.4,7.85,7.88,stable,0,70.5,79.2,149,37.5,,72.8,In Process,0,0.147
+STU-6744,22ME544,Mechanical,8,75.3,7.68,7.77,stable,0,73.3,67.6,170,64.3,Ongoing,60.7,Placed,0,0.051
+STU-7262,22ME162,Mechanical,8,74.1,8.86,9.53,declining,0,81.4,67.0,169,33.9,,85.0,Placed,0,0.335
+STU-5510,24EE210,EEE,3,84.5,8.57,8.43,stable,0,92.1,73.0,65,98.0,,90.1,Not Eligible,0,0.077
+STU-5770,22EE470,EEE,7,90.8,7.93,8.28,declining,0,82.8,100.0,148,96.1,Completed,74.9,Placed,0,0.072
+STU-3982,24EC482,ECE,3,76.6,7.79,7.46,improving,0,81.7,75.1,65,81.9,,52.3,Not Eligible,0,0.073
+STU-4339,25EC839,ECE,2,83.2,8.4,8.25,improving,0,74.7,88.3,42,62.5,,64.0,Not Eligible,0,0.075
+STU-3066,23IT466,IT,6,95.7,8.39,8.46,stable,0,86.2,98.7,126,77.8,Completed,78.9,Eligible,0,0.081
+STU-5619,24EE319,EEE,4,67.0,8.14,8.35,declining,0,84.6,65.4,80,30.7,,78.2,Not Eligible,0,0.214
+STU-4236,23EC736,ECE,6,69.0,6.31,5.73,improving,0,60.8,74.0,124,57.1,Completed,50.5,In Process,0,0.161
+STU-3783,22EC283,ECE,7,82.3,8.22,8.02,improving,0,84.2,85.1,145,57.6,Completed,80.1,Placed,0,0.132
+STU-3257,24IT657,IT,4,85.3,8.49,8.06,improving,0,79.6,89.7,80,74.4,,81.1,Not Eligible,0,0.114
+STU-2512,22IT812,IT,7,76.7,9.23,8.96,improving,0,88.4,85.4,149,73.7,Completed,71.1,Placed,0,0.129
+STU-7440,25ME340,Mechanical,1,69.7,8.11,8.44,declining,0,85.7,83.3,23,63.9,,90.8,Not Eligible,0,0.232
+STU-8194,24CI194,Civil,4,74.0,7.82,8.46,declining,0,82.3,81.1,85,98.0,,78.2,Not Eligible,0,0.191
+STU-5176,24EC776,ECE,3,76.9,6.63,6.33,improving,0,72.1,78.0,64,56.3,,79.0,Not Eligible,0,0.064
+STU-1250,23CS450,CSE,5,93.4,8.76,8.48,improving,0,96.8,97.7,106,24.0,,88.2,Eligible,0,0.121
+STU-8085,24CI985,Civil,4,61.3,7.14,6.75,improving,1,64.0,65.9,78,44.7,,68.2,Not Eligible,1,0.744
+STU-8219,22CI219,Civil,7,76.6,7.21,7.08,stable,0,77.4,79.8,147,38.8,,88.1,Not Eligible,0,0.157
+STU-0523,22CS623,CSE,8,85.9,9.84,10.0,declining,0,99.0,84.0,168,31.2,,70.2,Placed,0,0.195
+STU-7137,25ME937,Mechanical,2,75.4,8.15,8.22,stable,0,93.1,78.3,43,78.1,,72.0,Not Eligible,0,0.113
+STU-6509,22ME309,Mechanical,8,75.4,7.03,6.92,stable,0,60.7,81.7,166,78.8,,66.6,Placed,0,0.063
+STU-3354,22IT754,IT,7,74.7,8.79,8.45,improving,0,94.4,75.0,149,64.4,Completed,60.0,Placed,0,0.112
+STU-6198,22EE898,EEE,7,88.4,6.33,6.61,declining,1,60.3,84.9,144,37.7,,94.2,Placed,0,0.307
+STU-7180,25ME980,Mechanical,1,72.2,8.35,8.08,improving,0,81.3,80.6,22,81.6,,78.0,Not Eligible,0,0.102
+STU-3470,24IT870,IT,3,88.4,6.04,6.31,declining,1,61.2,79.6,60,75.0,,71.0,Not Eligible,0,0.476
+STU-1341,25CS541,CSE,2,88.5,8.34,8.67,declining,0,91.2,87.5,44,56.4,,67.5,Not Eligible,0,0.204
+STU-7452,22ME352,Mechanical,7,71.1,7.45,7.71,declining,1,76.7,77.9,139,81.7,,73.4,Not Eligible,0,0.286
+STU-3286,23IT686,IT,5,91.3,8.53,8.59,stable,0,83.8,80.5,101,77.8,Completed,75.3,Eligible,0,0.098
+STU-5601,24EE301,EEE,3,95.2,7.99,8.43,declining,0,82.3,100.0,59,51.5,,83.4,Not Eligible,0,0.159
+STU-5340,22EE940,EEE,8,55.8,8.19,8.25,stable,0,84.3,59.7,168,78.9,,62.4,In Process,1,0.881
+STU-3592,22EC992,ECE,7,82.3,7.99,7.54,improving,0,81.6,84.5,147,57.7,,71.3,Placed,0,0.138
+STU-0236,23CS336,CSE,6,73.0,8.13,8.04,stable,0,83.8,63.5,124,98.0,Ongoing,59.7,Eligible,0,0.125
+STU-2023,22CS323,CSE,8,74.4,9.13,9.06,stable,0,90.1,79.6,164,39.5,Ongoing,89.4,Placed,0,0.146
+STU-8312,22CI312,Civil,7,71.6,7.26,7.4,stable,0,71.9,68.9,148,61.7,,76.3,In Process,0,0.145
+STU-0130,24CS230,CSE,4,81.8,6.88,6.94,stable,0,70.2,80.7,85,73.9,,69.0,Not Eligible,0,0.07
+STU-7853,22CI753,Civil,7,75.2,7.85,8.03,declining,0,84.5,84.4,143,83.6,,68.4,Placed,0,0.087
+STU-5936,23EE636,EEE,5,77.2,7.03,7.28,declining,0,71.8,78.3,107,86.5,,80.9,Eligible,0,0.131
+STU-4382,24EC882,ECE,4,91.4,9.51,9.71,declining,0,90.4,85.5,86,60.2,,88.6,Not Eligible,0,0.126
+STU-0978,25CS178,CSE,1,84.8,8.38,7.94,improving,0,85.5,75.8,19,65.7,,75.7,Not Eligible,0,0.048
+STU-7771,23CI671,Civil,5,99.0,5.89,4.84,improving,0,65.7,95.7,101,43.5,,45.7,In Process,0,0.095
+STU-7029,25ME829,Mechanical,1,61.9,6.12,6.6,declining,0,53.1,60.9,22,67.4,Ongoing,54.6,Not Eligible,1,0.669
+STU-5755,22EE455,EEE,8,81.1,7.52,8.08,declining,0,81.9,84.3,164,50.6,Completed,68.4,Placed,0,0.162
+STU-5066,25EC666,ECE,2,84.4,8.81,8.96,declining,0,92.5,88.3,44,59.3,,63.6,Not Eligible,0,0.119
+STU-0068,22CS168,CSE,7,82.8,8.64,8.79,declining,0,87.0,88.3,148,83.8,Completed,96.7,Placed,0,0.105
+STU-3941,23EC441,ECE,5,88.4,6.3,5.94,improving,2,64.4,89.4,99,67.2,,47.7,In Process,0,0.372
+STU-6635,24ME435,Mechanical,4,85.4,9.48,9.76,declining,0,97.8,79.0,85,34.4,,87.9,Not Eligible,0,0.106
+STU-6150,23EE850,EEE,5,62.9,7.42,7.39,stable,0,73.2,76.3,105,29.6,,55.7,Eligible,0,0.434
+STU-5460,22EE160,EEE,8,81.0,9.05,8.65,improving,0,96.8,79.8,164,90.1,Completed,96.9,Placed,0,0.06
+STU-3612,25EC112,ECE,2,87.6,6.97,6.99,stable,0,74.3,93.4,38,96.3,,62.8,Not Eligible,0,0.071
+STU-0774,24CS874,CSE,4,84.7,7.84,7.9,stable,0,81.1,81.0,80,39.2,,98.0,Not Eligible,0,0.123
+STU-4740,24EC340,ECE,3,92.5,7.7,7.88,declining,0,79.1,85.7,65,29.4,Ongoing,85.6,Not Eligible,0,0.166
+STU-6245,25EE945,EEE,1,76.5,6.76,6.57,improving,0,66.4,76.6,18,63.4,,64.1,Not Eligible,0,0.08
+STU-6924,24ME724,Mechanical,3,81.3,7.9,7.94,stable,0,79.8,79.5,59,69.9,,81.7,Not Eligible,0,0.137
+STU-3414,22IT814,IT,7,85.7,7.56,7.66,stable,0,81.9,85.8,143,71.5,,71.6,Placed,0,0.096
+STU-3264,24IT664,IT,4,73.0,7.99,8.12,stable,0,81.1,68.5,82,76.1,,80.5,Not Eligible,0,0.116
+STU-5368,25EE968,EEE,2,82.4,7.02,6.66,improving,0,62.7,83.8,43,79.2,Ongoing,58.0,Not Eligible,0,0.096
+STU-8163,25CI163,Civil,2,78.1,7.09,7.2,stable,0,76.7,64.4,43,65.1,,70.8,Not Eligible,0,0.096
+STU-2537,22IT837,IT,8,70.3,8.26,7.97,improving,0,85.4,74.6,164,93.8,Completed,70.0,Placed,0,0.085
+STU-4292,22EC792,ECE,8,88.3,7.14,7.02,stable,0,70.1,80.2,168,56.5,Completed,77.0,Placed,0,0.06
+STU-2490,25IT790,IT,2,79.4,6.78,6.88,stable,0,73.7,83.5,40,5.0,Ongoing,57.5,Not Eligible,0,0.199
+STU-3566,22EC966,ECE,7,94.0,7.11,6.92,improving,0,77.4,83.9,143,71.5,,71.2,Not Eligible,0,0.074
+STU-5870,23EE570,EEE,5,85.7,8.39,8.65,declining,0,87.6,74.0,101,69.2,Completed,74.7,Eligible,0,0.056
+STU-3730,24EC230,ECE,4,72.1,7.19,7.26,stable,1,75.9,70.2,78,71.1,,83.5,Not Eligible,0,0.282
+STU-6238,23EE938,EEE,6,87.6,7.53,7.47,stable,0,76.8,75.6,127,35.3,,78.9,Eligible,0,0.104
+STU-1111,22CS311,CSE,7,80.5,8.09,8.05,stable,0,78.5,81.2,143,58.1,Completed,77.8,Not Eligible,0,0.117
+STU-6106,25EE806,EEE,2,81.1,7.39,6.97,improving,0,74.5,75.6,43,48.3,,70.3,Not Eligible,0,0.072
+STU-6548,22ME348,Mechanical,8,72.4,6.3,6.62,declining,0,69.0,75.2,168,87.8,,61.5,In Process,0,0.295
+STU-5804,25EE504,EEE,2,78.2,7.54,7.4,stable,0,75.3,76.3,40,85.9,,95.7,Not Eligible,0,0.074
+STU-0819,25CS919,CSE,1,85.1,8.38,9.02,declining,0,78.2,82.9,22,70.7,Ongoing,52.7,Not Eligible,0,0.221
+STU-7715,25CI615,Civil,2,81.1,7.34,7.62,declining,0,81.1,78.9,40,67.3,,82.8,Not Eligible,0,0.209
+STU-5028,22EC628,ECE,8,85.2,7.29,7.25,stable,0,71.2,75.8,166,17.8,,79.2,Not Eligible,0,0.14
+STU-8230,24CI230,Civil,4,75.7,7.52,8.17,declining,0,70.5,76.1,84,79.2,,64.4,Not Eligible,0,0.188
+STU-3676,25EC176,ECE,1,81.5,7.01,7.59,declining,2,67.6,83.6,18,74.3,,62.3,Not Eligible,1,0.547
+STU-4356,23EC856,ECE,6,78.5,8.03,7.73,improving,0,78.9,81.0,122,69.4,Completed,78.9,Eligible,0,0.112
+STU-1249,22CS449,CSE,8,91.4,6.83,6.78,stable,0,57.5,92.9,168,93.9,,76.8,Not Eligible,0,0.099
+STU-4606,23EC206,ECE,5,70.8,6.5,6.52,stable,0,67.3,72.1,103,49.3,,96.0,Eligible,0,0.17
+STU-5515,24EE215,EEE,3,75.3,7.2,7.07,stable,1,78.2,72.0,61,61.1,,69.3,Not Eligible,0,0.181
+STU-3724,23EC224,ECE,5,89.3,7.97,7.48,improving,0,77.1,86.6,101,43.4,,61.7,Eligible,0,0.072
+STU-0971,23CS171,CSE,6,74.9,9.31,9.68,declining,0,99.0,76.3,124,61.9,Completed,91.3,Eligible,0,0.193
+STU-2016,24CS316,CSE,4,96.4,8.86,8.48,improving,0,83.8,98.2,84,72.4,,77.1,Not Eligible,0,0.077
+STU-4878,22EC478,ECE,8,90.3,7.23,6.88,improving,0,64.7,84.6,166,83.1,,58.7,In Process,0,0.035
+STU-8227,24CI227,Civil,3,96.7,5.93,6.08,declining,0,66.3,94.6,64,98.0,,51.4,Not Eligible,0,0.192
+STU-4097,24EC597,ECE,3,92.0,7.15,7.59,declining,0,65.3,87.7,61,98.0,,96.1,Not Eligible,0,0.135
+STU-0642,24CS742,CSE,3,82.4,9.31,9.62,declining,0,97.6,80.0,64,87.4,,98.0,Not Eligible,0,0.159
+STU-4657,25EC257,ECE,1,76.3,7.58,7.36,improving,0,71.5,81.2,23,71.2,,83.0,Not Eligible,0,0.146
+STU-0515,25CS615,CSE,1,85.0,8.96,9.01,stable,0,90.7,79.8,22,48.1,,86.0,Not Eligible,0,0.086
+STU-0157,23CS257,CSE,6,99.0,9.49,9.51,stable,0,98.0,98.1,127,81.9,,77.4,Eligible,0,0.098
+STU-5915,23EE615,EEE,6,74.6,7.72,8.21,declining,0,73.6,81.9,128,70.3,Completed,60.6,Eligible,0,0.39
+STU-0877,23CS977,CSE,6,88.5,8.59,8.85,declining,0,87.9,82.5,128,93.4,Ongoing,97.3,Eligible,0,0.197
+STU-3055,24IT455,IT,4,86.3,8.04,7.93,stable,0,67.9,82.5,86,81.9,Ongoing,72.7,Not Eligible,0,0.08
+STU-2768,25IT168,IT,2,79.1,7.62,7.73,stable,0,67.2,80.3,38,77.4,,94.5,Not Eligible,0,0.106
+STU-2197,24IT497,IT,4,84.1,7.87,7.44,improving,0,79.1,78.5,82,34.5,,98.0,Not Eligible,0,0.084
+STU-0228,24CS328,CSE,4,91.0,7.62,8.11,declining,0,77.0,89.0,86,48.8,,80.3,Not Eligible,0,0.118
+STU-2682,22IT982,IT,8,74.4,7.16,7.09,stable,0,76.3,73.8,164,52.4,,70.7,Placed,0,0.084
+STU-3498,22IT898,IT,7,89.9,7.9,8.17,declining,0,78.4,85.2,145,56.9,Completed,68.2,Placed,0,0.141
+STU-2217,25IT517,IT,1,86.6,7.8,7.47,improving,0,74.9,92.3,22,45.1,,81.7,Not Eligible,0,0.081
+STU-3887,25EC387,ECE,1,73.5,7.73,8.16,declining,0,91.8,76.2,18,61.0,,42.5,Not Eligible,0,0.212
+STU-8185,25CI185,Civil,1,79.1,7.48,7.09,improving,0,74.5,81.0,19,71.2,,71.4,Not Eligible,0,0.071
+STU-5916,25EE616,EEE,2,75.9,8.66,8.89,declining,0,83.9,77.3,43,48.5,,77.5,Not Eligible,0,0.103
+STU-5024,23EC624,ECE,6,79.1,7.23,7.5,declining,0,68.5,70.6,126,52.8,,94.7,Eligible,0,0.224
+STU-0845,25CS945,CSE,2,91.3,8.61,8.14,improving,0,80.8,89.6,42,55.4,,87.6,Not Eligible,0,0.053
+STU-7589,24CI489,Civil,4,82.0,6.97,6.65,improving,0,76.6,83.6,85,18.9,,70.8,Not Eligible,0,0.171
+STU-4531,24EC131,ECE,3,82.0,7.21,7.17,stable,0,68.8,73.8,64,46.7,,61.6,Not Eligible,0,0.091
+STU-7719,24CI619,Civil,3,76.9,6.7,6.82,stable,0,60.3,76.7,64,61.7,,72.0,Not Eligible,0,0.123
+STU-4800,25EC400,ECE,1,91.7,7.83,7.95,stable,0,74.5,80.1,23,48.5,,68.7,Not Eligible,0,0.087
+STU-4538,22EC138,ECE,7,68.0,6.72,6.74,stable,0,70.0,68.0,145,52.7,Ongoing,56.5,In Process,0,0.068
+STU-6541,22ME341,Mechanical,7,95.9,8.04,8.13,stable,2,75.0,94.8,137,32.3,Completed,79.2,In Process,0,0.487
+STU-4976,23EC576,ECE,5,93.4,8.76,9.05,declining,0,85.4,88.0,101,70.2,Completed,67.7,Eligible,0,0.116
+STU-5379,23EE979,EEE,5,88.8,7.59,7.51,stable,0,82.8,87.3,107,45.6,,75.0,Eligible,0,0.085
+STU-3360,23IT760,IT,6,73.9,7.63,7.32,improving,0,73.9,77.5,128,66.0,,67.2,Eligible,0,0.058
+STU-1181,22CS381,CSE,8,95.9,9.74,9.08,improving,0,99.0,81.7,170,30.0,Ongoing,93.9,Placed,0,0.122
+STU-1089,22CS289,CSE,8,89.8,5.97,5.53,improving,0,50.1,85.1,168,71.6,,55.6,In Process,0,0.289
+STU-3392,24IT792,IT,3,88.4,8.8,8.47,improving,0,95.4,85.4,65,33.3,,71.0,Not Eligible,0,0.049
+STU-6893,25ME693,Mechanical,2,75.6,7.46,8.39,declining,0,75.4,72.6,44,48.6,,68.9,Not Eligible,0,0.234
+STU-7320,25ME220,Mechanical,2,80.3,7.01,6.72,improving,0,63.5,69.6,38,95.7,,78.4,Not Eligible,0,0.13
+STU-7672,22CI572,Civil,7,83.9,8.15,7.54,improving,0,86.6,87.0,145,86.1,Ongoing,98.0,In Process,0,0.09
+STU-2902,24IT302,IT,4,73.5,7.55,7.3,improving,0,69.1,71.5,80,42.5,Ongoing,83.3,Not Eligible,0,0.048
+STU-3111,23IT511,IT,5,77.5,8.26,7.45,improving,0,83.6,79.8,107,85.9,Completed,59.3,Eligible,0,0.052
+STU-7228,25ME128,Mechanical,2,78.3,8.81,8.84,stable,0,91.7,82.7,42,45.1,Ongoing,98.0,Not Eligible,0,0.058
+STU-6726,25ME526,Mechanical,2,77.1,6.59,6.65,stable,0,67.0,75.3,44,62.4,,76.1,Not Eligible,0,0.188
+STU-8091,22CI991,Civil,8,91.8,5.26,4.62,improving,0,52.7,93.9,169,90.3,,46.1,Not Eligible,0,0.285
+STU-4739,23EC339,ECE,6,89.9,8.81,8.8,stable,0,84.5,88.6,128,35.6,Completed,72.6,Eligible,0,0.155
+STU-5809,25EE509,EEE,2,78.8,7.68,7.85,declining,0,80.1,81.5,40,40.6,,89.1,Not Eligible,0,0.148
+STU-5562,24EE262,EEE,4,90.5,7.01,7.29,declining,2,70.4,86.2,72,37.0,,79.5,Not Eligible,1,0.54
+STU-0423,25CS523,CSE,1,87.3,8.0,8.66,declining,0,83.9,90.4,18,49.7,,72.1,Not Eligible,0,0.141
+STU-5557,24EE257,EEE,3,74.2,7.48,7.45,stable,0,80.5,75.9,63,53.0,,88.8,Not Eligible,0,0.06
+STU-1801,22CS101,CSE,8,88.0,9.05,8.06,improving,0,92.1,86.6,170,67.1,Completed,70.3,Placed,0,0.079
+STU-3382,25IT782,IT,1,82.0,8.66,9.07,declining,0,84.7,85.5,22,60.0,,82.0,Not Eligible,0,0.13
+STU-1886,24CS186,CSE,4,81.8,9.35,9.01,improving,0,96.5,83.2,85,32.0,,72.6,Not Eligible,0,0.119
+STU-3191,23IT591,IT,5,76.8,9.06,9.4,declining,0,86.8,71.9,105,60.7,Ongoing,62.9,Eligible,0,0.105
+STU-0055,23CS155,CSE,5,80.3,9.06,8.83,improving,0,86.3,88.8,103,63.7,,98.0,Eligible,0,0.072
+STU-5029,22EC629,ECE,7,86.8,7.68,7.81,stable,0,69.6,83.2,147,67.1,,69.2,Placed,0,0.11
+STU-3834,25EC334,ECE,1,87.9,8.25,8.25,stable,0,86.3,84.2,22,41.4,Ongoing,77.4,Not Eligible,0,0.063
+STU-1673,22CS873,CSE,7,81.9,7.19,7.28,stable,0,70.5,77.9,145,52.1,,62.7,In Process,0,0.12
+STU-2028,22CS328,CSE,8,94.4,9.16,8.87,improving,0,96.4,90.1,164,54.3,Completed,94.2,Placed,0,0.039
+STU-7313,25ME213,Mechanical,2,81.0,7.13,6.2,improving,1,68.6,86.7,36,60.4,,65.6,Not Eligible,0,0.12
+STU-7757,24CI657,Civil,3,69.4,6.77,6.56,improving,0,73.8,68.7,59,38.1,,73.7,Not Eligible,0,0.2
+STU-3611,25EC111,ECE,1,79.0,7.42,7.27,improving,2,82.0,80.2,18,58.6,,78.4,Not Eligible,0,0.393
+STU-7257,23ME157,Mechanical,5,92.7,7.97,7.61,improving,0,81.7,88.6,105,61.7,Completed,55.1,Eligible,0,0.077
+STU-4250,23EC750,ECE,6,75.3,8.36,8.52,declining,0,85.5,63.7,124,51.9,Completed,72.1,Eligible,0,0.117
+STU-3226,23IT626,IT,6,83.2,8.5,8.75,declining,0,89.0,74.2,127,42.6,Completed,75.3,Eligible,0,0.116
+STU-5451,23EE151,EEE,5,77.9,8.45,8.04,improving,0,81.6,79.6,107,39.8,Ongoing,92.5,Eligible,0,0.07
+STU-4179,24EC679,ECE,4,92.2,9.58,9.38,improving,0,96.4,97.1,84,77.2,Ongoing,90.6,Not Eligible,0,0.131
+STU-6371,22ME171,Mechanical,8,75.4,8.31,8.6,declining,3,87.0,81.1,156,57.5,,85.6,Not Eligible,0,0.481
+STU-5634,22EE334,EEE,8,82.5,6.21,5.81,improving,0,61.4,86.4,166,68.2,,56.5,Not Eligible,0,0.098
+STU-3920,23EC420,ECE,5,91.2,5.34,5.1,improving,1,61.3,80.3,97,80.4,,72.1,In Process,1,0.575
+STU-6725,23ME525,Mechanical,6,83.1,5.78,6.29,declining,1,55.2,77.0,118,80.9,Completed,54.0,In Process,1,0.559
+STU-3210,25IT610,IT,1,72.5,7.65,7.62,stable,2,70.6,92.7,18,72.3,,56.6,Not Eligible,0,0.427
+STU-5220,22EE820,EEE,7,81.2,6.47,6.77,declining,0,66.8,84.7,147,59.5,,49.7,In Process,0,0.155
+STU-4275,24EC775,ECE,3,77.3,7.66,7.53,stable,0,81.9,79.1,64,50.8,,89.9,Not Eligible,0,0.088
+STU-1888,25CS188,CSE,2,85.0,7.2,7.06,stable,0,74.4,81.0,42,52.7,,76.8,Not Eligible,0,0.081
+STU-0578,22CS678,CSE,8,85.7,8.88,8.95,stable,0,91.9,88.1,169,26.3,Completed,89.7,Not Eligible,0,0.079
+STU-3378,24IT778,IT,4,97.6,8.51,8.47,stable,0,81.0,94.8,82,57.8,,84.9,Not Eligible,0,0.025
+STU-3526,25EC926,ECE,2,63.7,7.49,7.39,stable,0,70.7,69.7,43,81.2,,65.7,Not Eligible,0,0.345
+STU-6453,22ME253,Mechanical,8,70.3,8.05,8.45,declining,0,80.9,69.2,169,71.8,,97.0,Placed,0,0.097
+STU-6291,23EE991,EEE,6,76.8,8.02,8.06,stable,0,82.6,79.2,126,55.4,Completed,86.5,Eligible,0,0.097
+STU-4991,22EC591,ECE,8,86.9,8.46,8.7,declining,0,79.9,75.8,164,58.9,Ongoing,84.8,Placed,0,0.09
+STU-6068,24EE768,EEE,3,79.1,6.71,6.7,stable,2,75.0,71.1,56,47.7,,53.4,Not Eligible,1,0.552
+STU-1317,23CS517,CSE,5,84.3,6.96,6.55,improving,1,62.4,84.0,101,14.9,,69.7,In Process,0,0.288
+STU-4724,22EC324,ECE,8,90.1,7.49,7.25,improving,0,69.0,79.2,169,76.2,,46.1,Not Eligible,0,0.161
+STU-7091,23ME891,Mechanical,6,79.2,8.71,8.66,stable,0,84.4,69.7,126,57.4,,98.0,Eligible,0,0.093
+STU-8306,25CI306,Civil,2,60.6,7.08,7.29,declining,0,67.5,55.9,42,27.4,,48.6,Not Eligible,1,0.619
+STU-2132,25CS432,CSE,1,86.0,7.37,7.0,improving,0,70.5,81.4,21,62.0,,61.0,Not Eligible,0,0.057
+STU-8240,22CI240,Civil,7,65.1,8.23,7.94,improving,0,81.3,69.2,145,71.4,,64.6,Placed,0,0.357
+STU-6359,22ME159,Mechanical,8,75.6,8.53,8.94,declining,0,93.9,94.6,164,50.2,Completed,86.3,Not Eligible,0,0.219
+STU-6992,25ME792,Mechanical,2,84.1,7.21,7.38,declining,0,77.6,77.3,40,62.1,,64.1,Not Eligible,0,0.065
+STU-3512,24IT912,IT,3,97.4,7.38,7.13,improving,0,69.7,94.1,65,98.0,,90.0,Not Eligible,0,0.06
+STU-5740,24EE440,EEE,4,67.0,7.33,7.5,declining,0,72.9,70.4,84,70.4,,90.5,Not Eligible,0,0.306
+STU-5945,24EE645,EEE,4,69.9,6.43,6.45,stable,0,69.8,74.3,80,78.1,,66.6,Not Eligible,0,0.145
+STU-3714,24EC214,ECE,4,79.8,8.59,8.56,stable,0,84.4,73.1,82,50.7,,79.2,Not Eligible,0,0.068
+STU-7919,24CI819,Civil,4,75.5,7.47,7.56,stable,0,70.3,78.0,82,58.2,,89.6,Not Eligible,0,0.174
+STU-4017,22EC517,ECE,8,71.9,8.67,8.61,stable,0,78.2,69.5,169,90.3,Completed,98.0,Placed,0,0.148
+STU-3347,25IT747,IT,2,85.2,8.55,8.77,declining,0,87.4,77.5,42,70.1,,83.0,Not Eligible,0,0.06
+STU-1908,24CS208,CSE,3,79.6,9.14,9.23,stable,0,89.6,81.8,65,86.4,,90.6,Not Eligible,0,0.072
+STU-5956,24EE656,EEE,4,75.9,7.32,7.12,improving,0,77.2,71.0,84,84.6,Ongoing,77.1,Not Eligible,0,0.066
+STU-6869,23ME669,Mechanical,5,93.3,6.8,7.17,declining,0,66.4,97.6,105,69.3,Completed,51.9,Eligible,0,0.172
+STU-5364,24EE964,EEE,3,98.2,7.37,7.47,stable,0,69.1,90.0,63,34.6,,67.5,Not Eligible,0,0.068
+STU-3857,22EC357,ECE,8,82.5,8.81,8.55,improving,0,82.4,79.6,169,46.1,Completed,81.1,Placed,0,0.118
+STU-5535,24EE235,EEE,4,72.2,6.3,5.46,improving,0,55.6,65.6,84,55.0,,53.9,Not Eligible,0,0.208
+STU-3146,24IT546,IT,4,85.5,8.1,8.21,stable,0,83.7,79.5,86,98.0,,82.3,Not Eligible,0,0.066
+STU-4754,23EC354,ECE,5,84.3,8.33,7.89,improving,0,94.0,87.3,107,37.5,Completed,74.4,Eligible,0,0.14
+STU-1331,23CS531,CSE,5,82.4,8.02,7.67,improving,0,82.2,82.0,107,40.0,Completed,91.7,Eligible,0,0.073
+STU-7642,23CI542,Civil,5,77.1,5.65,5.94,declining,1,62.4,75.3,102,75.6,,43.7,In Process,1,0.661
+STU-8380,23CI380,Civil,6,91.8,6.51,6.72,declining,0,56.7,81.7,127,62.0,Completed,69.5,Eligible,0,0.187
+STU-2814,22IT214,IT,8,80.7,9.67,9.0,improving,0,98.6,84.2,168,56.8,Completed,84.1,Placed,0,0.086
+STU-7043,25ME843,Mechanical,2,82.4,7.59,8.02,declining,0,82.8,91.0,44,47.0,,77.6,Not Eligible,0,0.076
+STU-8391,22CI391,Civil,7,78.6,7.15,7.02,stable,0,69.6,66.4,145,55.3,Ongoing,82.2,In Process,0,0.051
+STU-5798,24EE498,EEE,4,96.3,7.3,7.42,stable,0,77.7,81.1,86,27.0,,78.7,Not Eligible,0,0.098
+STU-8134,23CI134,Civil,5,86.0,6.28,6.06,improving,0,68.5,84.7,101,59.4,,63.5,In Process,0,0.172
+STU-7800,23CI700,Civil,6,80.9,6.87,6.68,improving,0,70.5,79.8,128,60.6,,66.1,Eligible,0,0.07
+STU-1531,24CS731,CSE,3,80.4,7.1,7.18,stable,0,61.0,68.8,61,52.8,,88.0,Not Eligible,0,0.123
+STU-6523,25ME323,Mechanical,1,92.9,9.39,9.74,declining,0,91.1,87.0,23,68.0,,74.5,Not Eligible,0,0.122
+STU-2115,23CS415,CSE,6,88.7,8.97,9.31,declining,0,84.4,86.4,124,74.0,Completed,79.8,Eligible,0,0.168
+STU-5063,25EC663,ECE,1,82.6,7.25,7.15,stable,0,76.2,76.6,21,65.8,,60.9,Not Eligible,0,0.094
+STU-3587,23EC987,ECE,5,79.1,7.06,7.18,stable,1,81.4,80.8,102,77.2,Ongoing,58.8,In Process,0,0.286
+STU-1346,24CS546,CSE,4,89.0,7.39,6.87,improving,0,85.0,90.4,80,68.7,,85.0,Not Eligible,0,0.067
+STU-6152,23EE852,EEE,5,77.8,7.6,7.69,stable,1,67.5,73.9,102,50.1,Completed,71.7,In Process,0,0.191
+STU-5149,22EC749,ECE,7,62.7,8.06,7.83,improving,0,76.7,74.7,143,52.5,Ongoing,92.2,Placed,0,0.334
+STU-4329,24EC829,ECE,3,75.5,8.03,8.71,declining,0,81.6,77.6,59,95.7,,50.3,Not Eligible,0,0.309
+STU-4006,25EC506,ECE,2,86.4,8.93,8.95,stable,0,89.5,88.7,44,21.1,,73.5,Not Eligible,0,0.256
+STU-4738,24EC338,ECE,4,84.2,7.03,6.8,improving,0,71.4,88.6,85,98.0,,77.5,Not Eligible,0,0.118
+STU-3370,23IT770,IT,5,76.7,8.0,7.77,improving,0,77.6,70.0,101,61.6,,91.6,Eligible,0,0.033
+STU-7850,23CI750,Civil,6,77.9,6.46,6.93,declining,0,72.3,86.5,128,46.8,,65.6,In Process,0,0.159
+STU-4130,25EC630,ECE,1,88.5,7.45,6.97,improving,0,75.4,83.0,22,51.4,,68.3,Not Eligible,0,0.107
+STU-2199,23IT499,IT,5,79.0,7.88,8.2,declining,0,70.5,74.0,105,36.8,Completed,80.9,Eligible,0,0.217
+STU-6933,24ME733,Mechanical,4,91.9,6.63,6.95,declining,0,72.8,85.1,86,46.1,,62.8,Not Eligible,0,0.126
+STU-8324,25CI324,Civil,1,65.3,7.74,7.53,improving,0,72.9,62.2,22,37.3,Ongoing,88.4,Not Eligible,0,0.228
+STU-2092,22CS392,CSE,8,77.8,8.27,8.21,stable,0,81.7,85.5,169,70.5,,85.8,Placed,0,0.081
+STU-7144,22ME944,Mechanical,7,76.8,7.35,7.19,improving,0,60.1,83.7,143,68.2,Completed,62.6,In Process,0,0.066
+STU-3643,23EC143,ECE,6,87.4,6.64,6.08,improving,0,64.9,82.1,126,76.7,,77.4,Eligible,0,0.065
+STU-3035,23IT435,IT,6,65.2,8.98,9.43,declining,0,82.9,73.6,122,73.3,Completed,98.0,Eligible,1,0.627
+STU-7449,24ME349,Mechanical,4,79.6,6.62,6.99,declining,0,64.4,72.2,86,64.1,,65.4,Not Eligible,0,0.123
+STU-5710,25EE410,EEE,2,68.1,6.2,6.11,stable,0,58.5,74.4,43,56.9,Ongoing,80.9,Not Eligible,0,0.201
+STU-7492,24ME392,Mechanical,3,83.0,8.93,9.21,declining,0,92.5,78.4,61,48.6,,98.0,Not Eligible,0,0.225
+STU-5330,23EE930,EEE,6,82.3,6.89,7.12,declining,0,71.8,72.0,127,31.6,,89.3,Eligible,0,0.125
+STU-1533,23CS733,CSE,6,88.5,8.88,8.99,stable,0,84.8,82.1,126,83.3,Ongoing,83.0,Eligible,0,0.085
+STU-3009,25IT409,IT,1,77.0,8.64,8.79,declining,0,90.4,74.1,18,98.0,,58.9,Not Eligible,0,0.087
+STU-2005,24CS305,CSE,3,87.0,7.81,8.46,declining,0,79.1,91.1,63,80.0,,69.8,Not Eligible,0,0.205
+STU-6602,23ME402,Mechanical,5,72.6,7.01,6.98,stable,1,69.9,79.3,103,64.7,,75.8,In Process,0,0.27
+STU-6588,22ME388,Mechanical,8,75.8,6.98,6.94,stable,1,71.5,76.6,160,87.4,,77.4,Placed,0,0.238
+STU-2628,22IT928,IT,8,72.2,7.26,7.47,declining,0,78.1,63.6,164,98.0,,78.8,In Process,0,0.158
+STU-7189,25ME989,Mechanical,1,60.9,8.51,7.74,improving,0,83.7,63.1,19,46.0,,50.2,Not Eligible,1,0.673
+STU-7304,24ME204,Mechanical,4,70.2,7.43,7.42,stable,0,77.3,69.9,85,82.7,,53.7,Not Eligible,0,0.068
+STU-5422,23EE122,EEE,5,94.5,7.06,6.82,improving,0,72.3,98.6,105,43.4,,84.0,Eligible,0,0.142
+STU-0167,24CS267,CSE,3,85.0,7.93,8.29,declining,0,89.1,77.0,63,72.2,,80.2,Not Eligible,0,0.229
+STU-2260,24IT560,IT,3,75.7,7.68,7.83,declining,0,74.2,75.8,64,41.0,,69.7,Not Eligible,0,0.151
+STU-3409,24IT809,IT,3,90.3,7.6,7.32,improving,0,75.4,76.7,61,76.3,,62.7,Not Eligible,0,0.086
+STU-4088,24EC588,ECE,4,85.6,6.45,6.6,declining,0,55.1,73.7,80,30.5,Ongoing,57.2,Not Eligible,0,0.115
+STU-5495,24EE195,EEE,3,69.2,8.26,7.98,improving,0,74.9,65.9,61,43.0,,58.8,Not Eligible,0,0.071
+STU-7981,24CI881,Civil,3,86.0,6.94,7.2,declining,0,72.9,89.4,63,54.0,,47.4,Not Eligible,0,0.089
+STU-0500,22CS600,CSE,8,72.1,7.6,7.67,stable,0,77.2,78.7,164,98.0,Completed,64.4,Placed,0,0.09
+STU-4223,23EC723,ECE,5,69.9,8.46,8.41,stable,0,80.8,77.5,106,62.0,Completed,73.7,Eligible,0,0.092
+STU-4166,22EC666,ECE,8,82.8,6.63,6.48,improving,0,73.2,78.5,166,98.0,,74.4,In Process,0,0.09
+STU-1398,25CS598,CSE,2,79.8,7.45,6.93,improving,0,69.8,74.6,42,77.7,,91.8,Not Eligible,0,0.092
+STU-6117,24EE817,EEE,3,73.6,7.22,6.99,improving,2,69.9,68.6,56,50.3,,96.5,Not Eligible,0,0.381
+STU-7607,25CI507,Civil,2,77.1,6.17,6.2,stable,0,63.9,78.6,40,97.9,,63.5,Not Eligible,0,0.144
+STU-4691,22EC291,ECE,7,79.4,8.07,8.41,declining,0,72.8,79.5,147,65.5,,90.5,Placed,0,0.138
+STU-3093,23IT493,IT,6,73.5,6.66,6.5,improving,1,69.5,79.7,124,48.5,Completed,48.1,In Process,0,0.419
+STU-1945,22CS245,CSE,7,87.4,7.42,7.84,declining,1,74.5,69.9,141,65.2,,84.7,Not Eligible,0,0.319
+STU-7840,24CI740,Civil,3,82.5,7.12,7.14,stable,0,69.4,84.9,64,22.8,,67.0,Not Eligible,0,0.132
+STU-6980,25ME780,Mechanical,1,73.5,7.76,7.83,stable,2,76.6,60.4,18,70.5,,80.4,Not Eligible,1,0.536
+STU-0616,22CS716,CSE,8,84.1,7.71,7.26,improving,0,82.3,69.3,169,77.6,Completed,52.8,Placed,0,0.139
+STU-2492,23IT792,IT,5,84.1,8.2,8.44,declining,0,71.7,75.4,107,37.9,Completed,76.0,Eligible,0,0.218
+STU-0735,24CS835,CSE,3,86.0,6.55,6.43,stable,0,69.0,72.5,59,71.0,,48.2,Not Eligible,0,0.166
+STU-3807,25EC307,ECE,1,70.2,8.18,7.63,improving,1,77.4,59.8,19,79.8,,71.7,Not Eligible,0,0.341
+STU-1614,24CS814,CSE,3,93.8,8.67,8.04,improving,0,98.3,79.2,59,72.4,,96.8,Not Eligible,0,0.087
+STU-0247,24CS347,CSE,4,71.3,9.12,9.68,declining,0,89.7,75.2,80,56.4,Ongoing,87.5,Not Eligible,0,0.17
+STU-1388,25CS588,CSE,2,87.6,8.31,8.18,stable,0,84.3,86.7,43,90.5,,73.9,Not Eligible,0,0.077
+STU-0204,22CS304,CSE,8,87.6,8.34,7.97,improving,0,80.6,84.8,170,43.8,,94.3,Placed,0,0.078
+STU-3801,25EC301,ECE,1,87.9,7.09,7.13,stable,0,59.5,96.1,19,79.8,,78.6,Not Eligible,0,0.067
+STU-0395,24CS495,CSE,3,87.8,8.82,8.32,improving,0,91.3,90.1,59,54.1,,75.5,Not Eligible,0,0.054
+STU-8300,22CI300,Civil,7,84.4,8.35,8.56,declining,0,76.4,93.8,147,67.0,,79.4,Placed,0,0.096
+STU-3182,25IT582,IT,1,75.9,6.85,6.66,improving,0,72.6,86.2,23,73.2,,60.6,Not Eligible,0,0.183
+STU-2484,22IT784,IT,7,82.0,6.93,6.26,improving,0,71.0,78.1,147,46.8,,69.3,Placed,0,0.085
+STU-1837,25CS137,CSE,1,85.8,8.54,8.6,stable,0,89.2,71.8,18,62.3,Ongoing,87.4,Not Eligible,0,0.043
+STU-0707,24CS807,CSE,3,71.6,6.83,7.08,declining,1,75.0,74.0,60,98.0,Ongoing,71.3,Not Eligible,0,0.2
+STU-2502,24IT802,IT,4,99.0,6.85,6.66,improving,0,72.6,100.0,85,54.7,,90.8,Not Eligible,0,0.097
+STU-4782,22EC382,ECE,8,70.2,6.8,7.77,declining,0,68.2,71.5,170,44.5,,39.8,Not Eligible,0,0.489
+STU-4590,24EC190,ECE,4,81.3,6.88,6.78,stable,0,63.2,82.3,80,39.5,,77.3,Not Eligible,0,0.09
+STU-4038,25EC538,ECE,2,93.9,7.34,6.95,improving,0,75.8,99.8,44,36.4,,76.9,Not Eligible,0,0.106
+STU-6323,22ME123,Mechanical,7,72.2,5.49,5.58,stable,3,53.5,63.8,131,74.0,,57.6,In Process,1,0.877
+STU-6952,25ME752,Mechanical,2,69.1,6.52,6.17,improving,0,70.0,69.2,43,67.9,,51.5,Not Eligible,0,0.174
+STU-0478,23CS578,CSE,5,75.7,8.62,8.47,improving,0,78.3,67.9,101,45.0,Completed,93.9,Eligible,0,0.057
+STU-5639,24EE339,EEE,4,75.6,6.73,5.9,improving,0,69.5,65.6,82,77.6,,71.7,Not Eligible,0,0.085
+STU-2958,25IT358,IT,2,92.4,7.79,7.22,improving,0,78.1,93.3,38,42.3,,58.2,Not Eligible,0,0.101
+STU-2425,23IT725,IT,5,73.0,7.44,7.29,improving,0,76.6,70.9,105,64.2,Completed,83.0,Eligible,0,0.107
+STU-5860,25EE560,EEE,2,67.3,7.76,7.32,improving,0,69.3,72.3,40,46.6,,60.0,Not Eligible,0,0.216
+STU-6600,23ME400,Mechanical,6,84.1,5.99,5.82,improving,0,66.0,79.1,124,88.5,,60.6,In Process,0,0.088
+STU-0240,25CS340,CSE,2,92.4,7.81,7.86,stable,0,70.4,83.9,38,49.2,,82.0,Not Eligible,0,0.138
+STU-5048,22EC648,ECE,7,74.4,7.22,6.77,improving,0,66.0,80.0,149,49.2,,82.6,Placed,0,0.052
+STU-2806,24IT206,IT,3,70.1,6.41,6.24,improving,0,74.4,79.9,63,56.5,,63.8,Not Eligible,0,0.229
+STU-6092,22EE792,EEE,8,71.0,9.25,9.68,declining,0,90.9,66.5,170,33.6,Ongoing,73.5,In Process,0,0.228
+STU-6810,24ME610,Mechanical,3,67.3,7.7,7.4,improving,1,78.8,73.3,55,56.0,,72.8,Not Eligible,0,0.469
+STU-1335,22CS535,CSE,8,88.2,9.41,9.97,declining,0,94.9,89.4,170,52.0,Completed,98.0,Placed,0,0.245
+STU-3704,24EC204,ECE,3,85.7,4.94,4.96,stable,1,44.5,82.9,57,42.3,,46.4,Not Eligible,1,0.828
+STU-1872,25CS172,CSE,2,90.5,9.88,9.23,improving,0,95.1,72.2,38,52.9,,98.0,Not Eligible,0,0.102
+STU-5169,23EC769,ECE,6,96.5,7.13,7.14,stable,0,69.5,93.3,127,53.3,Completed,72.7,Eligible,0,0.056
+STU-0005,25CS105,CSE,2,73.2,9.24,9.66,declining,0,86.6,61.7,38,59.5,Ongoing,98.0,Not Eligible,0,0.149
+STU-6898,25ME698,Mechanical,2,76.9,7.74,7.79,stable,0,79.1,85.4,38,22.1,,75.3,Not Eligible,0,0.137
+STU-2043,23CS343,CSE,5,74.5,8.91,8.84,stable,0,84.4,81.6,103,49.4,Completed,93.6,Eligible,0,0.059
+STU-2841,22IT241,IT,7,75.3,7.52,7.66,stable,0,76.7,76.8,148,47.2,Completed,82.2,Placed,0,0.119
+STU-0017,24CS117,CSE,3,77.6,7.79,8.0,declining,0,79.9,82.6,63,54.5,,78.1,Not Eligible,0,0.066
+STU-4069,22EC569,ECE,7,76.0,6.93,6.61,improving,0,74.2,69.8,149,82.5,,85.4,Placed,0,0.075
+STU-2037,25CS337,CSE,1,75.6,9.16,9.34,declining,0,89.0,70.6,22,62.3,,85.0,Not Eligible,0,0.06
+STU-1349,22CS549,CSE,8,92.0,8.59,8.12,improving,0,76.9,79.9,170,54.2,Completed,85.0,Placed,0,0.045
+STU-2448,25IT748,IT,1,82.2,8.96,9.53,declining,0,89.0,84.2,21,35.4,,75.3,Not Eligible,0,0.202
+STU-2074,22CS374,CSE,7,81.4,6.15,5.75,improving,0,66.3,73.2,148,52.2,Completed,54.3,Not Eligible,0,0.077
+STU-8410,22CI410,Civil,8,93.9,6.33,5.83,improving,0,64.3,97.4,168,65.3,Completed,55.4,Not Eligible,0,0.09
+STU-2859,22IT259,IT,7,80.8,7.39,7.1,improving,0,79.7,74.7,149,83.0,Completed,70.2,In Process,0,0.083
+STU-1216,25CS416,CSE,2,90.6,8.51,8.21,improving,0,80.5,94.3,44,5.0,,77.7,Not Eligible,0,0.278
+STU-4317,22EC817,ECE,8,70.4,6.47,6.41,stable,0,58.9,70.0,168,50.3,,80.5,Not Eligible,0,0.157
+STU-8139,25CI139,Civil,1,65.1,7.07,7.07,stable,0,72.1,68.1,19,48.1,,68.9,Not Eligible,0,0.289
+STU-5177,25EC777,ECE,2,84.2,7.58,7.73,declining,0,77.9,83.3,43,81.4,,68.2,Not Eligible,0,0.055
+STU-8330,25CI330,Civil,1,88.6,8.53,8.33,improving,0,83.6,76.8,22,84.8,,74.5,Not Eligible,0,0.144
+STU-5416,24EE116,EEE,4,75.0,7.54,7.64,stable,0,70.1,86.2,82,52.9,,62.4,Not Eligible,0,0.109
+STU-0539,24CS639,CSE,4,88.5,8.28,8.88,declining,0,87.8,80.5,84,75.2,,70.1,Not Eligible,0,0.248
+STU-1675,22CS875,CSE,7,97.0,8.9,8.77,stable,0,89.2,92.5,143,61.2,Completed,76.9,Placed,0,0.107
+STU-7824,24CI724,Civil,3,78.1,7.67,7.24,improving,0,79.4,87.3,61,67.7,,83.0,Not Eligible,0,0.102
+STU-7752,22CI652,Civil,7,74.0,7.57,7.35,improving,0,75.7,73.0,149,37.6,,71.4,Placed,0,0.085
+STU-8368,23CI368,Civil,5,85.9,7.64,7.59,stable,0,80.4,80.7,105,50.1,Completed,74.4,Eligible,0,0.089
+STU-0694,25CS794,CSE,2,84.6,7.79,7.59,improving,0,87.5,88.9,38,98.0,,91.9,Not Eligible,0,0.089
+STU-8079,24CI979,Civil,3,72.7,8.33,8.21,stable,0,84.9,72.1,59,72.1,,94.6,Not Eligible,0,0.109
+STU-1902,25CS202,CSE,1,78.5,8.22,8.21,stable,0,86.1,69.6,18,98.0,,79.3,Not Eligible,0,0.057
+STU-2107,22CS407,CSE,7,83.4,7.43,7.89,declining,0,70.9,80.9,147,64.0,,59.3,Not Eligible,0,0.155
+STU-0654,23CS754,CSE,6,96.9,8.87,8.74,stable,0,99.0,90.8,124,67.1,Ongoing,76.1,Eligible,0,0.053
+STU-7464,25ME364,Mechanical,2,89.3,8.18,8.59,declining,0,89.9,90.1,43,57.6,,95.5,Not Eligible,0,0.144
+STU-7665,24CI565,Civil,4,75.0,5.96,5.81,improving,0,64.9,75.0,85,63.3,,45.9,Not Eligible,0,0.194
+STU-2207,24IT507,IT,4,68.3,8.0,8.3,declining,1,74.0,66.4,78,66.1,,80.0,Not Eligible,0,0.325
+STU-1200,25CS400,CSE,2,84.2,7.68,7.46,improving,0,70.6,84.3,42,40.1,,87.6,Not Eligible,0,0.089
+STU-6119,25EE819,EEE,1,65.6,8.34,9.01,declining,0,86.5,77.4,23,74.8,,60.1,Not Eligible,0,0.402
+STU-4529,22EC129,ECE,8,77.3,6.82,6.61,improving,0,58.2,68.4,166,66.7,,52.4,In Process,0,0.1
+STU-5662,25EE362,EEE,1,86.4,8.91,8.54,improving,0,87.5,85.9,19,73.3,,84.9,Not Eligible,0,0.15
+STU-3104,23IT504,IT,6,95.6,8.04,8.09,stable,0,81.1,92.2,124,19.2,Completed,71.8,Eligible,0,0.198
+STU-3541,24EC941,ECE,3,82.2,8.21,8.03,improving,0,90.4,89.7,64,92.2,,87.8,Not Eligible,0,0.07
+STU-3079,25IT479,IT,1,79.0,8.73,8.84,stable,0,84.8,81.8,21,68.0,,79.5,Not Eligible,0,0.121
+STU-5738,24EE438,EEE,3,62.5,8.44,8.64,declining,0,82.8,65.4,59,35.8,,88.9,Not Eligible,1,0.532
+STU-3033,23IT433,IT,5,80.8,8.49,8.76,declining,0,90.3,82.3,101,35.1,Ongoing,77.4,Eligible,0,0.119
+STU-7527,22ME427,Mechanical,7,76.5,7.3,7.38,stable,0,75.1,72.8,147,76.4,Ongoing,39.3,Not Eligible,0,0.11
+STU-6083,25EE783,EEE,2,82.3,7.51,7.52,stable,0,78.3,84.8,43,38.7,,88.4,Not Eligible,0,0.131
+STU-5394,24EE994,EEE,4,66.7,7.26,6.63,improving,0,72.9,70.9,84,32.6,,70.4,Not Eligible,0,0.234
+STU-0364,23CS464,CSE,5,85.3,7.07,7.23,declining,0,67.1,82.6,107,41.0,Completed,54.5,Eligible,0,0.098
+STU-1516,25CS716,CSE,1,94.7,8.64,8.43,improving,0,86.1,97.4,18,49.7,,84.4,Not Eligible,0,0.096
+STU-7895,23CI795,Civil,6,78.5,7.67,7.58,stable,2,83.2,75.6,118,35.5,Completed,72.5,In Process,0,0.454
+STU-6447,23ME247,Mechanical,6,84.9,6.91,6.73,improving,0,73.1,65.4,127,55.7,,58.0,Eligible,0,0.025
+STU-0163,23CS263,CSE,5,93.8,7.94,7.82,stable,0,79.3,96.8,106,69.9,Completed,70.8,Eligible,0,0.068
+STU-2100,24CS400,CSE,4,92.9,6.45,5.71,improving,0,68.2,99.4,85,43.3,,81.0,Not Eligible,0,0.134
+STU-5547,25EE247,EEE,2,73.4,8.36,8.21,improving,0,77.6,79.4,40,34.9,,92.3,Not Eligible,0,0.138
+STU-3293,22IT693,IT,8,91.9,7.95,7.49,improving,0,72.6,95.7,166,69.2,Completed,58.2,Placed,0,0.077
+STU-2688,24IT988,IT,3,89.7,7.37,6.94,improving,0,74.0,83.2,61,91.4,,67.5,Not Eligible,0,0.076
+STU-0979,24CS179,CSE,4,65.6,9.56,9.15,improving,0,92.5,62.6,84,71.6,Ongoing,98.0,Not Eligible,0,0.351
+STU-2134,23CS434,CSE,5,87.9,9.23,9.31,stable,0,88.2,78.4,105,43.8,Completed,90.8,Eligible,0,0.083
+STU-6168,23EE868,EEE,6,87.7,8.06,7.71,improving,0,82.9,78.5,122,81.9,Ongoing,70.9,Eligible,0,0.029
+STU-1343,22CS543,CSE,7,78.9,8.4,8.39,stable,0,81.0,75.4,143,45.7,Ongoing,82.9,Placed,0,0.072
+STU-8388,22CI388,Civil,7,83.6,9.12,8.96,improving,0,92.9,74.2,148,68.1,Completed,63.0,Placed,0,0.078
+STU-6473,25ME273,Mechanical,1,76.3,8.34,8.22,stable,0,86.8,87.8,22,56.5,,77.7,Not Eligible,0,0.104
+STU-6148,25EE848,EEE,1,84.9,7.51,7.46,stable,0,74.5,76.9,19,82.1,,60.1,Not Eligible,0,0.09
+STU-6864,25ME664,Mechanical,1,70.3,8.35,8.17,improving,1,81.6,55.4,19,47.5,,79.2,Not Eligible,0,0.221
+STU-3528,24EC928,ECE,4,81.4,7.17,7.25,stable,0,72.3,78.4,86,57.3,,74.2,Not Eligible,0,0.055
+STU-4677,24EC277,ECE,3,75.9,6.78,7.27,declining,0,60.6,68.9,61,64.9,,57.7,Not Eligible,0,0.162
+STU-6177,23EE877,EEE,5,74.3,7.9,7.43,improving,0,78.7,65.7,103,82.5,Completed,69.4,Eligible,0,0.083
+STU-0795,25CS895,CSE,1,79.6,7.34,6.71,improving,0,68.7,76.1,18,68.5,,63.2,Not Eligible,0,0.043
+STU-7821,23CI721,Civil,5,77.5,8.49,8.12,improving,0,89.1,75.1,106,80.5,,85.0,Eligible,0,0.116
+STU-2811,22IT211,IT,8,81.9,7.87,7.74,stable,0,64.3,87.9,168,69.2,Completed,72.7,Placed,0,0.11
+STU-3073,25IT473,IT,2,80.7,8.31,7.68,improving,0,85.9,88.3,38,75.8,,76.9,Not Eligible,0,0.127
+STU-2845,25IT245,IT,2,78.8,8.56,8.78,declining,0,79.0,82.6,43,79.9,,88.5,Not Eligible,0,0.107
+STU-1593,25CS793,CSE,1,73.7,8.31,8.79,declining,0,76.1,80.3,22,61.2,,59.4,Not Eligible,0,0.168
+STU-8415,25CI415,Civil,2,78.9,5.88,6.19,declining,0,54.5,88.4,44,61.3,Ongoing,73.9,Not Eligible,0,0.261
+STU-0291,25CS391,CSE,1,91.6,8.44,8.9,declining,0,86.7,89.7,19,43.2,,56.9,Not Eligible,0,0.247
+STU-1283,23CS483,CSE,5,87.3,6.73,7.08,declining,0,67.5,99.4,101,43.9,,43.8,Eligible,0,0.077
+STU-2083,24CS383,CSE,4,77.9,7.81,7.02,improving,0,74.6,71.3,84,48.7,,63.9,Not Eligible,0,0.076
+STU-1191,25CS391,CSE,1,82.8,7.62,7.57,stable,0,76.5,84.3,18,37.4,Ongoing,63.4,Not Eligible,0,0.083
+STU-7645,24CI545,Civil,3,86.4,6.38,5.99,improving,0,66.7,73.8,61,41.8,,61.1,Not Eligible,0,0.08
+STU-5949,23EE649,EEE,6,89.6,7.04,7.88,declining,0,71.1,78.6,122,56.9,,64.1,Eligible,0,0.217
+STU-1314,22CS514,CSE,7,85.3,8.35,8.82,declining,1,87.2,86.1,141,53.2,Completed,69.9,Placed,0,0.473
+STU-4882,22EC482,ECE,7,85.4,8.11,8.13,stable,0,87.7,76.1,147,78.4,Completed,66.7,Placed,0,0.157
+STU-5338,25EE938,EEE,1,68.6,5.3,4.98,improving,1,59.4,60.6,19,70.7,,57.8,Not Eligible,1,0.694
+STU-8222,23CI222,Civil,6,86.6,6.07,6.67,declining,0,60.3,97.2,126,25.6,Completed,67.8,In Process,0,0.281
+STU-2183,25IT483,IT,1,96.5,7.47,7.16,improving,0,66.9,99.1,19,28.1,,83.6,Not Eligible,0,0.098
+STU-0664,25CS764,CSE,2,90.0,7.18,6.54,improving,0,77.6,91.8,40,59.4,,45.9,Not Eligible,0,0.055
+STU-4803,24EC403,ECE,4,78.0,7.36,7.56,declining,0,78.0,75.9,84,43.7,,67.6,Not Eligible,0,0.097
+STU-0205,23CS305,CSE,5,77.5,8.01,8.14,stable,0,77.9,71.4,106,56.3,,81.1,Eligible,0,0.088
+STU-5994,23EE694,EEE,5,82.5,8.22,8.01,improving,0,78.6,84.8,105,71.3,Completed,86.7,Eligible,0,0.072
+STU-5475,24EE175,EEE,4,61.2,8.11,8.0,stable,0,74.5,64.0,84,69.8,,69.9,Not Eligible,1,0.568
+STU-2712,23IT112,IT,6,71.1,9.32,9.67,declining,0,96.9,67.6,127,69.4,,81.3,Eligible,0,0.12
+STU-5734,25EE434,EEE,1,81.2,7.26,7.29,stable,0,76.3,72.0,19,78.4,,69.0,Not Eligible,0,0.119
+STU-3854,25EC354,ECE,2,74.6,6.75,6.75,stable,2,58.8,70.3,32,69.0,,44.5,Not Eligible,0,0.288
+STU-4281,22EC781,ECE,7,89.5,7.46,7.3,improving,0,76.3,97.6,148,19.2,,69.7,Placed,0,0.096
+STU-4104,24EC604,ECE,4,88.2,7.14,7.38,declining,0,65.9,94.5,84,60.0,,49.7,Not Eligible,0,0.112
+STU-6908,25ME708,Mechanical,2,78.1,7.51,7.51,stable,0,72.8,80.9,38,23.5,,50.7,Not Eligible,0,0.148
+STU-6217,24EE917,EEE,3,84.7,6.6,7.03,declining,0,63.5,96.3,64,79.1,,76.7,Not Eligible,0,0.143
+STU-4190,24EC690,ECE,4,84.6,6.19,6.07,stable,0,64.0,79.9,84,78.8,,69.7,Not Eligible,0,0.111
+STU-2356,22IT656,IT,7,99.0,7.78,7.79,stable,0,79.2,94.0,148,76.3,Ongoing,66.9,Placed,0,0.085
+STU-1721,25CS921,CSE,2,88.7,7.88,7.31,improving,0,80.1,88.5,42,35.5,,64.7,Not Eligible,0,0.085
+STU-4440,23EC940,ECE,6,85.5,6.35,6.37,stable,0,62.2,82.7,124,52.9,,57.8,In Process,0,0.232
+STU-1187,23CS387,CSE,6,87.0,9.38,9.5,stable,0,99.0,85.8,124,52.3,Completed,93.9,Eligible,0,0.107
+STU-1869,25CS169,CSE,2,80.6,7.63,7.64,stable,0,84.6,87.3,44,62.1,,57.0,Not Eligible,0,0.086
+STU-7069,25ME869,Mechanical,2,87.5,5.92,5.72,improving,0,55.4,91.1,40,40.8,,59.6,Not Eligible,0,0.197
+STU-5925,22EE625,EEE,7,61.1,7.21,7.21,stable,0,70.0,72.4,149,75.0,,92.7,Placed,1,0.524
+STU-5179,23EC779,ECE,6,79.2,7.46,7.11,improving,0,74.2,73.7,126,81.6,Completed,73.0,Eligible,0,0.083
+STU-2123,22CS423,CSE,8,89.9,6.36,6.25,stable,0,74.3,91.5,169,74.2,Completed,67.0,In Process,0,0.168
+STU-6920,24ME720,Mechanical,4,73.3,7.45,7.47,stable,1,76.1,79.2,82,71.0,,64.6,Not Eligible,0,0.228
+STU-0117,22CS217,CSE,7,92.9,7.59,7.68,stable,0,70.5,88.6,147,24.9,Completed,60.9,Placed,0,0.179
+STU-3831,22EC331,ECE,7,92.4,7.83,7.37,improving,0,76.4,92.6,143,84.1,,62.2,Placed,0,0.037
+STU-8335,25CI335,Civil,2,88.7,7.13,7.89,declining,0,70.4,88.2,44,74.5,,69.2,Not Eligible,0,0.384
+STU-5709,24EE409,EEE,4,78.7,7.83,8.04,declining,0,71.5,69.2,85,62.5,Ongoing,71.0,Not Eligible,0,0.115
+STU-5984,23EE684,EEE,5,89.0,6.89,7.31,declining,0,72.7,85.9,103,74.6,Ongoing,65.6,Eligible,0,0.106
+STU-2941,25IT341,IT,1,93.0,8.14,8.09,stable,0,85.8,83.2,23,68.4,,82.0,Not Eligible,0,0.112
+STU-0351,24CS451,CSE,4,87.8,8.12,8.45,declining,0,76.1,90.1,84,88.1,,81.0,Not Eligible,0,0.131
+STU-4220,23EC720,ECE,6,86.7,6.84,6.59,improving,0,61.8,77.0,124,91.0,,46.6,Eligible,0,0.093
+STU-2549,23IT849,IT,6,84.0,7.33,7.46,stable,0,84.2,83.9,128,90.3,,70.6,Eligible,0,0.071
+STU-3499,22IT899,IT,8,74.0,8.29,7.72,improving,0,84.5,81.5,170,35.2,,74.0,Placed,0,0.108
+STU-7056,24ME856,Mechanical,3,83.9,7.0,7.23,declining,0,76.0,82.1,63,77.0,,72.1,Not Eligible,0,0.258
+STU-8328,22CI328,Civil,7,75.7,7.74,8.04,declining,0,66.1,72.8,147,48.3,Ongoing,75.6,Placed,0,0.146
+STU-7263,25ME163,Mechanical,2,71.9,8.28,7.75,improving,0,84.0,72.7,42,32.8,,79.1,Not Eligible,0,0.105
+STU-4460,22EC960,ECE,8,78.5,7.24,7.12,stable,3,80.4,81.3,157,78.4,,83.3,In Process,0,0.497
+STU-5437,24EE137,EEE,3,83.4,6.54,6.91,declining,0,73.1,84.4,64,66.7,Ongoing,67.8,Not Eligible,0,0.09
+STU-2216,25IT516,IT,2,93.1,8.05,8.05,stable,0,80.6,89.0,44,32.0,,98.0,Not Eligible,0,0.12
+STU-2099,22CS399,CSE,7,88.3,7.53,7.61,stable,0,75.7,89.4,147,30.2,Ongoing,65.5,Placed,0,0.212
+STU-2618,24IT918,IT,3,81.5,7.58,7.23,improving,0,80.2,93.4,63,55.3,Ongoing,63.2,Not Eligible,0,0.057
+STU-4262,24EC762,ECE,4,89.5,7.11,6.74,improving,0,76.4,82.1,86,79.1,,72.3,Not Eligible,0,0.085
+STU-3402,23IT802,IT,5,73.2,7.14,7.03,stable,0,76.4,74.9,105,57.3,Completed,83.5,Eligible,0,0.106
+STU-3931,22EC431,ECE,7,77.5,7.86,7.66,improving,0,80.1,71.5,145,96.3,,59.6,Placed,0,0.042
+STU-3342,23IT742,IT,6,83.4,8.57,8.9,declining,0,81.7,69.0,128,63.8,Completed,78.1,Eligible,0,0.112
+STU-7730,24CI630,Civil,4,91.3,7.61,7.93,declining,0,74.8,93.9,82,38.5,,87.5,Not Eligible,0,0.227
+STU-1910,25CS210,CSE,2,67.5,8.16,7.61,improving,0,82.8,67.2,44,60.2,,79.3,Not Eligible,0,0.233
+STU-1803,24CS103,CSE,3,85.5,8.14,8.02,stable,0,81.7,89.8,59,54.1,Ongoing,80.1,Not Eligible,0,0.142
+STU-5850,23EE550,EEE,5,79.6,7.69,7.59,stable,0,82.4,73.1,107,50.5,,64.9,Eligible,0,0.113
+STU-8265,24CI265,Civil,4,80.6,7.79,7.06,improving,0,74.6,76.3,80,84.9,,78.3,Not Eligible,0,0.062
+STU-0066,23CS166,CSE,5,78.1,7.9,8.08,declining,0,84.9,75.6,101,42.5,Completed,93.0,Eligible,0,0.125
+STU-6672,25ME472,Mechanical,1,78.2,6.26,6.28,stable,0,66.3,82.0,23,57.2,,26.9,Not Eligible,0,0.158
+STU-5703,25EE403,EEE,1,96.5,8.54,7.83,improving,0,81.8,93.0,18,71.7,,71.5,Not Eligible,0,0.062
+STU-2678,23IT978,IT,6,85.7,7.48,6.86,improving,0,76.1,85.7,127,98.0,Completed,81.5,Eligible,0,0.145
+STU-6342,22ME142,Mechanical,7,90.2,7.26,7.0,improving,0,76.5,80.9,149,80.0,,85.5,In Process,0,0.111
+STU-3326,22IT726,IT,8,75.4,8.43,8.2,improving,0,81.7,76.0,170,44.8,Completed,76.7,Placed,0,0.07
+STU-5556,22EE256,EEE,8,87.9,5.01,4.56,improving,0,45.7,91.5,166,56.1,Completed,39.5,In Process,1,0.587
+STU-2852,24IT252,IT,4,90.4,7.3,7.13,improving,0,76.4,76.4,86,40.7,,68.3,Not Eligible,0,0.076
+STU-0732,22CS832,CSE,7,90.9,7.33,7.37,stable,0,74.6,84.0,145,55.6,Completed,64.4,Placed,0,0.088
+STU-8351,23CI351,Civil,5,78.8,4.93,5.33,declining,0,54.1,84.5,105,73.8,Ongoing,51.4,In Process,1,0.66
+STU-8150,25CI150,Civil,1,81.0,7.63,7.94,declining,4,83.9,87.7,18,54.2,,68.1,Not Eligible,1,0.765
+STU-1353,24CS553,CSE,4,90.7,9.04,8.7,improving,0,98.3,91.8,82,82.4,,82.4,Not Eligible,0,0.094
+STU-7281,24ME181,Mechanical,4,75.2,7.17,7.23,stable,0,73.0,81.3,82,45.7,,62.5,Not Eligible,0,0.107
+STU-3811,25EC311,ECE,1,80.8,7.77,7.44,improving,0,81.8,87.6,21,65.1,,86.1,Not Eligible,0,0.075
+STU-5426,23EE126,EEE,6,78.2,6.88,6.82,stable,0,67.4,77.1,127,71.6,Completed,41.3,Eligible,0,0.074
+STU-5231,23EE831,EEE,5,99.0,7.98,6.9,improving,0,79.9,98.2,101,41.8,Completed,84.0,Eligible,0,0.055
+STU-0128,22CS228,CSE,7,71.4,8.77,7.89,improving,0,87.1,74.0,143,83.0,,95.9,Placed,0,0.114
+STU-1879,24CS179,CSE,3,73.8,9.9,9.82,stable,0,99.0,80.0,65,32.8,,92.6,Not Eligible,0,0.098
+STU-7403,25ME303,Mechanical,1,95.0,6.5,6.3,improving,0,59.4,82.9,19,42.2,Ongoing,63.0,Not Eligible,0,0.14
+STU-5328,22EE928,EEE,7,82.5,7.81,7.73,stable,0,73.9,84.8,149,52.8,Ongoing,89.4,In Process,0,0.126
+STU-0552,22CS652,CSE,7,71.6,8.42,8.87,declining,0,84.6,66.3,147,98.0,,83.8,Placed,0,0.206
+STU-4397,23EC897,ECE,5,94.6,7.6,7.45,improving,0,69.5,84.6,106,84.3,Completed,78.6,Eligible,0,0.091
+STU-6396,24ME196,Mechanical,3,90.2,7.37,7.6,declining,0,86.0,94.8,63,34.1,,67.7,Not Eligible,0,0.175
+STU-0665,25CS765,CSE,1,94.3,8.49,8.9,declining,0,86.5,90.5,23,63.8,,73.2,Not Eligible,0,0.197
+STU-7044,25ME844,Mechanical,2,84.6,6.94,7.62,declining,0,67.9,82.6,42,86.2,,66.3,Not Eligible,0,0.164
+STU-3732,25EC232,ECE,2,84.4,7.73,8.04,declining,0,75.8,84.1,44,96.4,,67.1,Not Eligible,0,0.124
+STU-7662,25CI562,Civil,1,83.4,8.14,7.91,improving,0,83.9,98.7,19,41.5,,69.5,Not Eligible,0,0.073
+STU-5930,23EE630,EEE,5,79.5,7.06,7.19,stable,0,74.3,74.9,106,79.8,Completed,57.0,Eligible,0,0.13
+STU-3424,22IT824,IT,8,79.6,6.83,6.99,declining,0,73.6,67.6,169,58.2,,58.0,Not Eligible,0,0.131
+STU-1364,23CS564,CSE,5,75.3,8.59,8.16,improving,0,86.9,72.6,103,22.8,Completed,92.5,Eligible,0,0.073
+STU-2088,23CS388,CSE,6,72.3,8.26,8.56,declining,0,89.0,72.6,122,80.2,Completed,97.0,Eligible,0,0.155
+STU-0229,22CS329,CSE,8,79.0,8.1,7.5,improving,0,83.1,66.2,166,52.3,Ongoing,48.5,Placed,0,0.075
+STU-0968,24CS168,CSE,3,87.8,9.32,9.44,stable,0,89.6,88.1,61,74.0,,86.9,Not Eligible,0,0.09
+STU-6051,22EE751,EEE,8,84.3,6.56,6.42,stable,0,65.0,95.1,168,41.5,,59.4,In Process,0,0.094
+STU-4064,24EC564,ECE,4,73.0,8.31,8.88,declining,0,85.6,69.8,86,52.5,Ongoing,78.9,Not Eligible,0,0.099
+STU-7325,25ME225,Mechanical,2,74.6,8.41,8.14,improving,0,90.1,73.8,42,35.2,Ongoing,82.5,Not Eligible,0,0.133
+STU-2311,25IT611,IT,1,84.5,9.68,9.63,stable,0,94.8,90.6,23,90.0,,98.0,Not Eligible,0,0.152
+STU-4916,24EC516,ECE,4,82.7,8.25,7.47,improving,0,75.4,84.7,86,72.7,,74.6,Not Eligible,0,0.059
+STU-2089,22CS389,CSE,7,72.5,7.27,8.33,declining,0,68.6,67.3,147,17.9,,69.8,Placed,1,0.565
+STU-6775,24ME575,Mechanical,3,71.7,5.94,5.36,improving,1,68.8,71.8,55,54.6,,89.1,Not Eligible,0,0.404
+STU-4542,23EC142,ECE,5,67.1,7.8,8.14,declining,0,82.3,84.2,105,55.6,,79.1,Eligible,0,0.274
+STU-1749,22CS949,CSE,7,81.6,8.49,8.1,improving,0,78.9,82.8,147,75.2,,98.0,Placed,0,0.19
+STU-0382,23CS482,CSE,6,87.1,7.69,7.83,stable,0,73.5,86.0,128,54.6,,45.1,Eligible,0,0.069
+STU-4021,24EC521,ECE,3,84.5,7.19,7.41,declining,4,75.9,80.2,43,37.5,,74.5,Not Eligible,1,0.897
+STU-3520,22IT920,IT,7,76.3,9.64,9.24,improving,0,93.7,77.0,149,51.8,Completed,95.5,Placed,0,0.06
+STU-3040,23IT440,IT,5,88.7,9.72,9.37,improving,0,99.0,86.4,105,77.3,Completed,92.4,Eligible,0,0.148
+STU-6515,23ME315,Mechanical,5,90.0,7.6,7.35,improving,0,84.6,85.8,101,25.4,,60.9,Eligible,0,0.122
+STU-5685,24EE385,EEE,4,84.6,5.91,6.31,declining,0,60.8,77.7,84,74.2,,66.4,Not Eligible,0,0.276
+STU-4931,22EC531,ECE,8,76.1,7.91,8.04,stable,0,78.7,76.7,170,78.5,Completed,68.2,Placed,0,0.062
+STU-7389,25ME289,Mechanical,1,72.1,7.08,7.5,declining,0,67.1,72.4,18,47.3,,82.0,Not Eligible,0,0.243
+STU-2631,22IT931,IT,8,94.5,8.45,8.19,improving,0,85.7,89.7,164,65.4,Completed,79.4,Placed,0,0.104
+STU-4111,25EC611,ECE,1,87.1,6.94,6.7,improving,0,76.6,92.2,22,36.6,,64.7,Not Eligible,0,0.056
+STU-4505,25EC105,ECE,1,85.0,9.19,9.02,improving,0,89.2,85.6,23,19.6,,97.6,Not Eligible,0,0.153
+STU-6555,23ME355,Mechanical,5,86.7,7.54,6.9,improving,0,72.2,92.8,105,37.0,Completed,58.2,Eligible,0,0.111
+STU-4083,22EC583,ECE,8,83.3,7.98,8.15,declining,0,83.2,87.7,168,63.1,,68.1,Placed,0,0.159
+STU-5412,22EE112,EEE,7,84.3,8.48,8.56,stable,0,80.8,81.4,148,47.9,Ongoing,81.9,In Process,0,0.124
+STU-3976,23EC476,ECE,6,81.2,6.96,6.77,improving,0,82.5,79.5,128,69.9,,66.6,Eligible,0,0.099
+STU-4595,23EC195,ECE,6,76.4,9.11,8.53,improving,0,95.2,80.0,126,58.4,,98.0,Eligible,0,0.12
+STU-1720,25CS920,CSE,2,72.1,7.25,7.33,stable,0,67.5,75.7,40,59.0,,82.2,Not Eligible,0,0.112
+STU-0894,24CS994,CSE,4,80.6,9.9,10.0,stable,0,99.0,68.2,82,68.4,,82.1,Not Eligible,0,0.198
+STU-4480,22EC980,ECE,7,82.1,7.79,7.32,improving,0,77.6,87.9,149,86.9,Completed,83.5,Placed,0,0.072
+STU-7646,24CI546,Civil,3,79.1,7.28,7.9,declining,0,69.6,67.6,61,57.6,,60.6,Not Eligible,0,0.186
+STU-5826,22EE526,EEE,8,77.0,8.6,8.21,improving,0,87.3,78.6,166,50.2,,81.2,Placed,0,0.146
+STU-7300,24ME200,Mechanical,4,96.9,7.19,6.95,improving,0,72.1,100.0,86,51.0,,74.1,Not Eligible,0,0.106
+STU-1679,25CS879,CSE,2,83.2,9.31,8.74,improving,0,88.3,74.2,44,57.2,,96.0,Not Eligible,0,0.116
+STU-7334,22ME234,Mechanical,8,71.4,7.61,7.89,declining,0,82.2,68.5,170,59.1,Ongoing,60.8,Placed,0,0.158
+STU-0997,22CS197,CSE,8,83.7,8.55,8.43,stable,0,81.1,80.8,170,14.3,Completed,66.0,Placed,0,0.121
+STU-4076,25EC576,ECE,2,84.5,8.12,8.57,declining,0,77.1,82.6,44,46.7,,86.8,Not Eligible,0,0.222
+STU-5613,24EE313,EEE,3,74.6,7.72,7.38,improving,0,86.5,78.4,65,39.2,,80.6,Not Eligible,0,0.133
+STU-7659,25CI559,Civil,1,85.8,7.47,7.22,improving,0,78.4,81.7,23,48.2,,60.9,Not Eligible,0,0.113
+STU-6086,22EE786,EEE,8,77.7,5.83,5.76,stable,0,46.2,69.3,168,81.4,Ongoing,50.9,Placed,0,0.303
+STU-2661,23IT961,IT,6,95.3,7.41,7.41,stable,0,78.2,97.6,124,88.1,,61.1,Eligible,0,0.081
+STU-1049,22CS249,CSE,7,94.2,8.33,8.73,declining,0,82.1,95.6,143,98.0,,86.8,In Process,0,0.131
+STU-1172,22CS372,CSE,8,93.8,8.07,8.08,stable,0,83.4,88.3,164,64.5,Completed,79.1,Placed,0,0.076
+STU-0391,22CS491,CSE,8,99.0,8.12,8.26,stable,0,77.5,95.9,164,44.8,Completed,83.5,Placed,0,0.103
+STU-3586,24EC986,ECE,3,76.1,9.12,8.67,improving,0,91.2,84.2,65,47.1,,86.1,Not Eligible,0,0.104
+STU-2108,22CS408,CSE,8,93.3,8.82,8.45,improving,0,86.1,86.6,166,22.1,Completed,85.3,Placed,0,0.128
+STU-2757,25IT157,IT,2,73.8,7.79,7.81,stable,0,73.4,86.2,44,40.7,Ongoing,90.1,Not Eligible,0,0.072
+STU-7818,22CI718,Civil,8,89.7,6.15,6.15,stable,0,57.3,90.5,164,41.9,Completed,52.9,In Process,0,0.242
+STU-3372,23IT772,IT,5,79.7,6.98,7.08,stable,3,64.6,85.7,93,63.2,Completed,55.7,In Process,1,0.596
+STU-6234,25EE934,EEE,2,76.7,6.82,6.74,stable,1,62.2,79.4,40,71.6,,73.7,Not Eligible,0,0.148
+STU-2948,24IT348,IT,3,71.4,7.03,6.79,improving,0,69.2,79.0,59,54.3,,61.3,Not Eligible,0,0.143
+STU-0149,25CS249,CSE,1,81.2,6.59,6.58,stable,0,57.7,80.3,18,73.4,,77.1,Not Eligible,0,0.084
+STU-8204,22CI204,Civil,7,67.0,7.45,7.5,stable,0,80.7,61.5,145,91.0,,78.1,Placed,0,0.321
+STU-0657,24CS757,CSE,3,94.0,8.32,7.76,improving,0,88.9,82.3,64,28.1,,96.2,Not Eligible,0,0.127
+STU-3661,23EC161,ECE,6,85.7,7.59,7.53,stable,0,74.1,75.0,126,68.3,,68.8,Eligible,0,0.081
+STU-3886,25EC386,ECE,1,71.1,7.52,7.1,improving,0,74.9,73.2,19,69.0,,98.0,Not Eligible,0,0.092
+STU-5202,25EE802,EEE,2,83.4,8.3,8.24,stable,0,71.7,76.6,43,62.5,,65.4,Not Eligible,0,0.087
+STU-7749,22CI649,Civil,8,79.9,6.77,7.03,declining,0,67.7,76.5,164,49.6,Completed,79.6,Placed,0,0.109
+STU-5620,22EE320,EEE,7,71.5,7.88,8.41,declining,0,79.7,72.0,143,72.6,Completed,76.5,Placed,0,0.337
+STU-6384,23ME184,Mechanical,6,86.0,7.87,8.25,declining,0,72.8,90.6,122,28.4,Completed,68.9,Eligible,0,0.236
+STU-5914,25EE614,EEE,1,91.3,7.15,7.2,stable,0,69.3,94.7,22,84.0,,58.0,Not Eligible,0,0.13
+STU-3542,22EC942,ECE,8,78.4,7.65,7.46,improving,0,78.4,80.4,164,48.0,Ongoing,64.9,Placed,0,0.099
+STU-2540,25IT840,IT,2,81.2,9.49,9.38,stable,0,86.2,83.3,43,68.6,,80.8,Not Eligible,0,0.127
+STU-3083,25IT483,IT,2,73.4,8.04,7.46,improving,0,78.5,78.5,38,77.5,,77.8,Not Eligible,0,0.124
+STU-2041,22CS341,CSE,7,69.0,7.63,7.94,declining,0,74.0,70.0,148,97.1,Completed,55.3,Placed,0,0.284
+STU-3214,22IT614,IT,7,89.0,8.03,8.43,declining,0,81.9,100.0,148,76.4,Completed,70.0,Not Eligible,0,0.172
+STU-6840,24ME640,Mechanical,3,86.6,7.79,7.76,stable,0,83.9,79.4,65,83.9,,71.5,Not Eligible,0,0.101
+STU-3968,25EC468,ECE,1,91.1,8.47,8.46,stable,0,75.7,81.1,23,61.2,,96.3,Not Eligible,0,0.067
+STU-2742,22IT142,IT,7,80.1,6.8,6.85,stable,0,70.4,78.1,143,91.7,,65.0,In Process,0,0.136
+STU-6005,24EE705,EEE,4,89.6,7.58,7.75,declining,0,79.5,93.8,84,44.2,,87.3,Not Eligible,0,0.068
+STU-3279,25IT679,IT,2,78.0,8.22,8.3,stable,0,89.1,74.8,40,46.4,,74.9,Not Eligible,0,0.155
+STU-0902,25CS102,CSE,1,95.0,8.12,8.7,declining,0,82.0,93.5,18,71.1,,87.5,Not Eligible,0,0.147
+STU-5902,25EE602,EEE,1,68.5,6.63,6.59,stable,0,63.0,71.3,18,33.4,,60.7,Not Eligible,0,0.111
+STU-3760,22EC260,ECE,7,97.7,8.49,7.9,improving,0,86.4,98.8,149,54.3,,89.8,Not Eligible,0,0.084
+STU-3687,23EC187,ECE,5,87.3,6.35,6.22,stable,0,62.5,87.5,101,38.4,Completed,69.3,In Process,0,0.081
+STU-1855,22CS155,CSE,8,83.2,9.16,9.08,stable,0,93.9,77.6,169,57.6,Completed,98.0,Placed,0,0.071
+STU-5558,23EE258,EEE,6,75.5,6.64,6.78,stable,0,65.6,76.5,128,46.5,,54.1,Eligible,0,0.213
+STU-8235,25CI235,Civil,1,92.6,6.23,6.25,stable,0,61.8,84.0,19,81.0,,38.2,Not Eligible,0,0.12
+STU-7495,24ME395,Mechanical,4,81.8,6.76,6.63,stable,0,63.9,86.1,85,63.8,,64.3,Not Eligible,0,0.078
+STU-6199,24EE899,EEE,4,85.4,6.38,6.92,declining,0,62.4,82.4,84,58.5,,64.2,Not Eligible,0,0.085
+STU-5766,24EE466,EEE,3,89.0,8.6,8.26,improving,0,83.6,91.5,64,89.5,,82.4,Not Eligible,0,0.111
+STU-0538,25CS638,CSE,2,86.2,6.96,7.75,declining,0,63.5,72.6,38,44.9,,51.3,Not Eligible,0,0.269
+STU-0621,25CS721,CSE,2,86.7,8.7,8.7,stable,0,86.7,85.2,44,84.2,,70.9,Not Eligible,0,0.064
+STU-6860,23ME660,Mechanical,6,78.6,5.38,4.9,improving,1,44.8,71.7,118,72.5,,48.0,In Process,1,0.547
+STU-7400,24ME300,Mechanical,3,71.9,6.92,7.23,declining,0,68.6,73.5,59,98.0,,58.0,Not Eligible,0,0.233
+STU-6227,23EE927,EEE,5,83.6,7.4,6.9,improving,0,62.2,82.7,103,33.2,Completed,72.4,Eligible,0,0.118
+STU-3554,22EC954,ECE,8,75.2,7.72,7.96,declining,0,83.5,69.9,170,56.3,Ongoing,78.7,Placed,0,0.108
+STU-1941,25CS241,CSE,1,89.4,7.29,7.46,declining,0,71.7,95.2,19,45.2,,74.6,Not Eligible,0,0.094
+STU-3142,23IT542,IT,6,91.0,7.55,7.72,declining,0,75.8,82.7,127,42.1,Completed,70.9,Eligible,0,0.085
+STU-5121,22EC721,ECE,8,82.2,7.72,7.93,declining,0,73.9,80.6,170,54.5,Ongoing,82.6,Placed,0,0.151
+STU-2212,25IT512,IT,2,70.7,8.14,8.03,stable,0,82.9,83.7,40,73.9,,98.0,Not Eligible,0,0.226
+STU-4428,25EC928,ECE,1,80.7,8.38,8.25,stable,0,82.4,77.7,23,54.9,Ongoing,76.7,Not Eligible,0,0.05
+STU-0761,25CS861,CSE,2,76.4,8.59,8.2,improving,0,88.9,84.0,43,72.1,,72.1,Not Eligible,0,0.07
+STU-2886,24IT286,IT,4,85.5,7.94,8.1,declining,0,85.8,75.5,82,82.9,Ongoing,79.1,Not Eligible,0,0.122
+STU-3030,24IT430,IT,3,81.2,6.8,6.68,stable,0,60.4,79.9,59,60.3,,56.0,Not Eligible,0,0.082
+STU-4496,22EC996,ECE,8,85.3,7.41,7.55,stable,0,64.7,84.1,168,61.5,Completed,88.3,In Process,0,0.068
+STU-7239,25ME139,Mechanical,2,82.8,7.89,7.97,stable,0,79.3,83.2,40,98.0,Ongoing,70.6,Not Eligible,0,0.071
+STU-6190,24EE890,EEE,3,70.1,8.82,8.86,stable,0,87.0,76.5,65,42.9,,69.9,Not Eligible,0,0.142
+STU-4709,23EC309,ECE,5,99.0,7.36,7.02,improving,0,72.2,91.5,107,72.0,,63.5,Eligible,0,0.062
+STU-0918,22CS118,CSE,8,87.5,8.08,8.64,declining,0,76.2,88.2,170,30.9,Completed,71.6,In Process,0,0.234
+STU-3134,24IT534,IT,4,62.2,7.8,7.31,improving,0,76.8,61.6,85,59.9,,83.2,Not Eligible,0,0.429
+STU-1347,24CS547,CSE,3,93.1,7.77,7.04,improving,0,79.3,89.9,59,93.1,,68.5,Not Eligible,0,0.057
+STU-7924,24CI824,Civil,3,82.6,8.46,8.35,stable,0,84.7,77.1,63,97.6,,74.0,Not Eligible,0,0.05
+STU-6070,24EE770,EEE,4,77.7,7.44,7.8,declining,0,76.4,76.0,85,36.1,,89.5,Not Eligible,0,0.16
+STU-1933,23CS233,CSE,5,85.7,9.17,9.54,declining,0,94.9,73.5,101,17.3,Ongoing,86.5,Eligible,0,0.125
+STU-2851,22IT251,IT,7,79.6,8.55,8.56,stable,0,93.2,75.6,145,48.8,,98.0,Placed,0,0.09
+STU-7941,25CI841,Civil,2,80.8,6.11,5.49,improving,2,51.4,75.0,35,83.6,Ongoing,63.5,Not Eligible,1,0.684
+STU-6665,24ME465,Mechanical,3,76.0,7.51,6.71,improving,0,83.5,79.0,64,91.8,,58.3,Not Eligible,0,0.083
+STU-0923,22CS123,CSE,8,90.5,8.36,8.53,declining,0,82.5,77.6,168,58.3,Completed,98.0,Placed,0,0.117
+STU-5104,25EC704,ECE,1,64.1,9.09,8.81,improving,0,84.8,74.5,23,19.9,,98.0,Not Eligible,0,0.397
+STU-2812,24IT212,IT,4,91.0,8.75,9.11,declining,0,79.8,83.9,85,72.2,,73.0,Not Eligible,0,0.138
+STU-3682,25EC182,ECE,2,74.2,6.47,6.11,improving,0,65.2,79.6,38,67.7,,45.3,Not Eligible,0,0.082
+STU-3363,24IT763,IT,4,76.5,6.62,5.73,improving,0,67.4,75.1,85,71.3,,64.4,Not Eligible,0,0.086
+STU-7080,25ME880,Mechanical,1,85.9,7.82,8.06,declining,0,75.0,77.1,23,46.5,,94.0,Not Eligible,0,0.205
+STU-2047,25CS347,CSE,1,72.4,7.34,7.33,stable,0,80.5,67.5,19,58.0,,91.2,Not Eligible,0,0.16
+STU-0200,22CS300,CSE,7,84.8,7.55,7.91,declining,1,81.5,81.6,145,51.9,Completed,71.7,In Process,0,0.226
+STU-7807,22CI707,Civil,7,69.6,7.52,7.28,improving,0,68.7,68.8,147,22.8,Completed,87.1,Placed,0,0.141
+STU-0146,25CS246,CSE,1,94.7,8.07,7.92,improving,0,81.7,81.6,22,49.4,,73.9,Not Eligible,0,0.063
+STU-0690,25CS790,CSE,2,71.5,9.05,9.73,declining,0,80.2,67.0,42,44.6,,96.6,Not Eligible,0,0.325
+STU-7926,24CI826,Civil,4,87.9,7.6,7.68,stable,0,78.0,96.2,84,70.8,,77.8,Not Eligible,0,0.11
+STU-8292,24CI292,Civil,4,71.6,7.7,7.84,stable,0,76.0,75.7,82,47.1,,73.8,Not Eligible,0,0.097
+STU-5921,23EE621,EEE,5,78.3,7.96,7.87,stable,0,76.1,74.9,101,43.6,Ongoing,87.6,Eligible,0,0.131
+STU-5744,25EE444,EEE,1,72.5,7.74,7.76,stable,0,85.4,70.5,21,83.4,,65.5,Not Eligible,0,0.13
+STU-5165,24EC765,ECE,3,63.2,6.7,7.14,declining,0,61.5,65.2,64,36.4,,70.4,Not Eligible,1,0.532
+STU-1671,24CS871,CSE,3,87.0,8.12,8.39,declining,0,91.2,85.1,64,51.8,,70.7,Not Eligible,0,0.168
+STU-6115,23EE815,EEE,5,81.9,7.12,7.21,stable,0,68.3,75.9,101,23.3,,76.5,Eligible,0,0.132
+STU-4648,24EC248,ECE,4,96.8,8.03,8.28,declining,0,75.6,95.7,86,63.2,,77.3,Not Eligible,0,0.173
+STU-1724,25CS924,CSE,1,72.3,7.5,7.75,declining,0,73.8,81.7,19,45.6,,57.7,Not Eligible,0,0.251
+STU-4322,24EC822,ECE,4,87.8,7.36,7.27,stable,0,73.8,79.5,86,54.5,,69.7,Not Eligible,0,0.079
+STU-7340,23ME240,Mechanical,6,79.4,6.89,7.19,declining,0,69.8,85.7,127,51.7,,88.8,Eligible,0,0.121
+STU-2626,24IT926,IT,4,81.0,8.56,8.41,improving,0,90.8,71.2,80,35.7,,58.7,Not Eligible,0,0.101
+STU-7191,24ME991,Mechanical,4,89.8,6.9,6.8,stable,2,67.3,88.2,77,94.3,,76.6,Not Eligible,0,0.376
+STU-6241,22EE941,EEE,8,70.3,6.52,6.45,stable,1,60.2,71.9,162,16.4,,63.2,Not Eligible,0,0.249
+STU-6460,23ME260,Mechanical,6,75.7,7.16,7.26,stable,0,64.8,66.7,122,32.9,Completed,62.5,Eligible,0,0.102
+STU-3448,25IT848,IT,1,87.9,8.79,8.99,declining,0,98.0,84.5,19,40.6,,82.3,Not Eligible,0,0.096
+STU-7011,24ME811,Mechanical,4,72.5,8.12,8.35,declining,0,79.3,61.9,85,17.3,,96.6,Not Eligible,0,0.358
+STU-5383,23EE983,EEE,5,84.8,7.36,7.8,declining,0,71.0,89.1,106,68.7,,81.2,Eligible,0,0.135
+STU-7352,22ME252,Mechanical,7,68.0,8.84,9.36,declining,0,78.8,64.3,145,59.7,,98.0,In Process,0,0.349
+STU-7482,25ME382,Mechanical,2,93.9,6.61,6.53,stable,0,54.6,84.8,43,57.1,,78.3,Not Eligible,0,0.106
+STU-7573,23CI473,Civil,5,71.8,7.02,6.82,improving,0,71.4,73.3,103,79.6,,68.8,Eligible,0,0.083
+STU-7404,22ME304,Mechanical,8,87.1,7.52,7.48,stable,0,72.4,80.3,164,71.6,,57.1,Not Eligible,0,0.146
+STU-3570,22EC970,ECE,7,69.1,7.03,7.0,stable,0,68.7,71.3,147,68.7,,78.9,In Process,0,0.079
+STU-3231,22IT631,IT,8,80.8,8.8,8.67,stable,0,90.1,82.9,164,22.1,Completed,81.1,Placed,0,0.11
+STU-1893,22CS193,CSE,7,74.2,7.18,7.07,stable,0,63.2,75.8,143,86.3,Completed,66.8,In Process,0,0.084
+STU-6505,22ME305,Mechanical,7,69.2,7.11,7.1,stable,0,70.5,70.8,147,47.1,,60.3,In Process,0,0.113
+STU-3784,24EC284,ECE,3,96.6,7.27,7.38,stable,0,79.0,85.3,65,35.4,,54.8,Not Eligible,0,0.148
+STU-4268,23EC768,ECE,5,78.8,6.76,6.36,improving,0,74.4,62.7,106,67.7,Ongoing,64.9,Eligible,0,0.052
+STU-8093,24CI993,Civil,3,70.9,7.12,6.92,improving,0,69.7,69.6,59,71.2,,74.2,Not Eligible,0,0.111
+STU-8083,23CI983,Civil,5,75.6,8.28,7.46,improving,0,85.6,73.9,103,57.3,Completed,91.4,Eligible,0,0.064
+STU-1569,23CS769,CSE,5,83.0,8.36,8.55,declining,0,75.4,79.4,105,72.2,Completed,98.0,Eligible,0,0.107
+STU-4674,23EC274,ECE,5,69.5,9.95,9.47,improving,0,99.0,67.1,105,84.5,Ongoing,98.0,Eligible,0,0.111
+STU-4476,25EC976,ECE,1,62.6,8.92,8.51,improving,0,82.9,61.9,21,67.9,,83.9,Not Eligible,0,0.477
+STU-6790,22ME590,Mechanical,7,90.0,6.81,6.97,declining,0,63.3,85.7,145,63.8,,67.8,Not Eligible,0,0.15
+STU-5698,23EE398,EEE,6,76.5,7.69,7.35,improving,1,84.4,69.1,118,82.3,Completed,84.9,In Process,0,0.277
+STU-7446,22ME346,Mechanical,7,69.1,8.24,8.11,stable,0,78.3,77.5,148,20.0,Completed,72.4,In Process,0,0.298
+STU-6361,25ME161,Mechanical,2,77.2,6.94,6.26,improving,1,68.8,75.4,34,48.6,,68.5,Not Eligible,0,0.192
+STU-2261,24IT561,IT,4,89.2,7.69,7.64,stable,0,79.1,83.1,85,52.9,,68.7,Not Eligible,0,0.104
+STU-5582,23EE282,EEE,6,85.8,8.28,7.8,improving,0,87.1,84.2,126,64.6,Completed,79.4,Eligible,0,0.1
+STU-7789,22CI689,Civil,8,91.3,6.1,5.4,improving,1,57.7,100.0,164,33.5,,68.2,Placed,0,0.36
+STU-0258,23CS358,CSE,6,86.2,8.55,8.17,improving,0,92.2,80.4,124,92.5,,73.6,Eligible,0,0.053
+STU-7886,22CI786,Civil,7,79.9,7.42,7.59,declining,1,65.5,82.8,141,51.0,,62.5,In Process,0,0.144
+STU-1861,22CS161,CSE,7,92.9,7.44,7.87,declining,0,70.6,85.3,143,98.0,Ongoing,70.4,Placed,0,0.2
+STU-7510,23ME410,Mechanical,6,90.7,8.9,7.92,improving,0,91.3,86.6,127,36.2,,98.0,Eligible,0,0.102
+STU-2428,24IT728,IT,4,87.3,8.39,8.1,improving,0,89.3,84.8,84,24.2,,88.7,Not Eligible,0,0.168
+STU-7419,24ME319,Mechanical,3,84.0,5.94,6.34,declining,0,58.3,79.2,65,96.6,,83.1,Not Eligible,0,0.293
+STU-3468,25IT868,IT,1,89.6,8.11,7.84,improving,0,76.8,91.5,23,11.5,,93.8,Not Eligible,0,0.078
+STU-5554,22EE254,EEE,8,86.1,7.28,7.08,improving,0,71.3,77.0,168,42.2,,73.6,Not Eligible,0,0.114
+STU-3341,23IT741,IT,6,87.3,8.28,8.72,declining,0,80.7,79.9,127,44.9,Completed,74.3,Eligible,0,0.218
+STU-1953,23CS253,CSE,5,84.5,6.97,6.73,improving,2,62.4,75.7,99,78.9,,67.3,In Process,0,0.487
+STU-0743,23CS843,CSE,6,82.8,8.3,8.48,declining,0,68.2,89.3,124,39.3,Completed,78.1,Eligible,0,0.091
+STU-5700,22EE400,EEE,8,79.4,7.69,7.4,improving,0,84.8,77.2,164,65.1,Ongoing,95.2,Placed,0,0.148
+STU-0227,22CS327,CSE,8,69.4,7.07,7.47,declining,0,70.1,72.6,166,53.5,,82.8,Placed,0,0.23
+STU-6242,24EE942,EEE,3,87.7,8.01,7.84,improving,0,75.7,83.6,63,78.1,,74.2,Not Eligible,0,0.048
+STU-0575,22CS675,CSE,7,70.3,7.54,6.96,improving,0,72.1,62.0,147,75.1,Completed,64.2,Placed,0,0.102
+STU-4541,23EC141,ECE,5,86.0,8.0,8.42,declining,0,82.5,86.8,106,54.3,,89.0,Eligible,0,0.129
+STU-0806,23CS906,CSE,6,92.3,8.75,8.85,stable,0,86.5,82.9,124,41.7,Completed,82.9,Eligible,0,0.118
+STU-2727,22IT127,IT,7,74.9,8.17,7.64,improving,0,87.9,81.0,149,68.5,Completed,85.6,Placed,0,0.085
+STU-7542,25ME442,Mechanical,1,73.2,7.99,7.82,improving,0,79.7,79.4,21,47.9,,62.8,Not Eligible,0,0.062
+STU-6660,24ME460,Mechanical,4,91.1,7.17,6.42,improving,0,73.0,84.8,80,44.7,,78.2,Not Eligible,0,0.052
+STU-2842,23IT242,IT,5,74.2,6.83,6.26,improving,1,74.4,78.2,101,59.8,,68.1,In Process,0,0.188
+STU-1011,25CS211,CSE,2,78.5,8.84,9.44,declining,0,84.2,76.5,38,45.0,,62.9,Not Eligible,0,0.217
+STU-8274,25CI274,Civil,2,86.6,7.2,6.65,improving,1,68.2,86.6,36,60.4,,63.8,Not Eligible,0,0.096
+STU-7863,24CI763,Civil,4,94.3,6.96,7.08,stable,0,71.8,92.4,84,74.8,,71.8,Not Eligible,0,0.118
+STU-4159,23EC659,ECE,5,85.9,6.86,6.33,improving,0,75.7,80.2,105,74.2,Completed,88.0,Eligible,0,0.079
+STU-0624,24CS724,CSE,4,66.4,8.51,7.98,improving,0,80.1,71.2,86,78.8,,83.1,Not Eligible,0,0.092
+STU-4617,25EC217,ECE,1,72.3,8.92,8.63,improving,0,95.1,81.9,23,91.5,,86.6,Not Eligible,0,0.055
+STU-6182,25EE882,EEE,1,75.1,9.88,9.56,improving,0,96.9,72.7,23,82.3,,89.4,Not Eligible,0,0.05
+STU-8158,24CI158,Civil,4,71.5,5.88,5.96,stable,0,63.7,76.9,80,45.3,Ongoing,67.3,Not Eligible,0,0.215
+STU-4314,25EC814,ECE,1,86.5,8.14,8.47,declining,0,87.6,92.1,23,58.2,Ongoing,89.0,Not Eligible,0,0.124
+STU-3818,25EC318,ECE,1,76.0,6.34,6.3,stable,2,64.9,82.3,18,52.1,,57.6,Not Eligible,0,0.376
+STU-4346,23EC846,ECE,6,91.7,8.32,8.65,declining,0,83.0,91.5,124,69.7,Ongoing,77.5,Eligible,0,0.158
+STU-4978,23EC578,ECE,5,77.2,7.67,7.52,improving,0,84.7,90.4,101,68.9,Completed,96.5,Eligible,0,0.213
+STU-0246,22CS346,CSE,8,90.9,7.84,7.9,stable,0,72.3,80.6,169,10.1,,79.5,Placed,0,0.216
+STU-6835,24ME635,Mechanical,3,72.2,7.09,7.17,stable,0,71.3,65.9,61,19.6,,51.3,Not Eligible,0,0.187
+STU-8024,25CI924,Civil,1,67.3,6.06,5.42,improving,1,64.5,71.4,18,49.4,,39.1,Not Eligible,0,0.447
+STU-8345,25CI345,Civil,2,80.4,7.89,7.76,stable,0,84.1,76.8,38,77.8,,98.0,Not Eligible,0,0.159
+STU-0122,22CS222,CSE,8,89.1,8.09,7.69,improving,0,76.0,95.6,169,73.4,Completed,93.3,Placed,0,0.099
+STU-5981,24EE681,EEE,3,86.1,7.32,6.87,improving,0,72.2,84.8,65,35.8,,47.5,Not Eligible,0,0.064
+STU-3446,24IT846,IT,3,80.3,8.52,8.2,improving,0,87.9,84.3,65,21.9,Ongoing,98.0,Not Eligible,0,0.228
+STU-3192,23IT592,IT,6,79.4,7.59,7.61,stable,0,73.0,75.9,128,74.2,Completed,55.9,Eligible,0,0.199
+STU-4213,25EC713,ECE,2,72.8,6.93,6.75,improving,3,66.4,71.6,28,55.9,,69.4,Not Eligible,1,0.577
+STU-6742,25ME542,Mechanical,1,59.6,6.94,7.33,declining,0,67.0,74.9,22,10.0,,70.4,Not Eligible,1,0.772
+STU-5382,22EE982,EEE,8,68.4,8.65,8.92,declining,0,91.7,68.5,168,73.1,,82.1,Placed,0,0.175
+STU-3537,22EC937,ECE,7,84.6,7.09,7.38,declining,0,71.3,81.5,143,93.3,,58.1,Placed,0,0.147
+STU-5160,22EC760,ECE,8,76.2,8.98,8.79,improving,0,91.5,82.9,164,38.7,Completed,97.4,Placed,0,0.07
+STU-0736,22CS836,CSE,7,92.4,7.33,7.52,declining,0,76.1,94.7,149,81.3,,69.2,Placed,0,0.079
+STU-2015,23CS315,CSE,5,93.6,9.0,9.45,declining,0,85.6,75.7,103,42.1,,80.9,Eligible,0,0.135
+STU-3765,23EC265,ECE,6,78.4,8.21,7.97,improving,0,79.6,85.7,126,56.9,Completed,74.4,Eligible,0,0.09
+STU-5299,23EE899,EEE,5,80.6,7.45,6.82,improving,0,74.9,70.3,106,89.8,,78.7,Eligible,0,0.097
+STU-5326,24EE926,EEE,3,68.9,6.53,6.82,declining,0,65.2,62.8,59,77.9,,51.8,Not Eligible,0,0.34
+STU-5174,24EC774,ECE,3,92.8,6.39,6.34,stable,0,62.0,98.2,63,56.3,,58.3,Not Eligible,0,0.124
+STU-0919,22CS119,CSE,7,85.3,9.95,9.9,stable,0,99.0,72.9,145,52.2,Completed,93.9,Placed,0,0.157
+STU-0405,24CS505,CSE,3,86.6,8.84,9.13,declining,0,89.9,82.2,59,66.9,,70.0,Not Eligible,0,0.37
+STU-2299,22IT599,IT,8,69.6,7.68,7.96,declining,0,76.5,69.1,166,56.2,,79.2,Placed,0,0.262
+STU-0010,23CS110,CSE,6,88.8,8.1,7.77,improving,0,80.4,87.4,126,33.1,Ongoing,72.0,Eligible,0,0.058
+STU-3582,23EC982,ECE,5,82.6,8.22,8.24,stable,0,83.0,81.7,103,85.7,Completed,71.0,Eligible,0,0.032
+STU-0129,25CS229,CSE,1,82.4,8.19,8.09,stable,0,78.8,82.5,23,56.1,,86.7,Not Eligible,0,0.163
+STU-1643,23CS843,CSE,5,87.4,7.14,7.3,declining,2,66.9,89.1,97,62.7,,80.5,In Process,0,0.446
+STU-3685,24EC185,ECE,3,74.6,7.69,7.34,improving,0,81.8,74.7,63,58.4,,67.9,Not Eligible,0,0.123
+STU-6448,24ME248,Mechanical,3,74.0,7.71,8.3,declining,0,78.3,76.5,65,80.2,,60.4,Not Eligible,0,0.254
+STU-8081,22CI981,Civil,7,81.0,6.31,5.78,improving,0,67.3,76.1,147,73.3,Completed,60.4,Placed,0,0.129
+STU-7516,25ME416,Mechanical,2,70.9,5.84,5.97,stable,0,54.9,65.1,40,54.8,,57.2,Not Eligible,1,0.543
+STU-3496,24IT896,IT,4,73.0,8.78,9.31,declining,0,82.8,77.8,80,79.5,,92.9,Not Eligible,0,0.151
+STU-6095,24EE795,EEE,4,92.3,7.71,7.53,improving,0,82.8,81.0,86,56.9,,52.5,Not Eligible,0,0.073
+STU-2192,25IT492,IT,1,89.1,6.26,6.48,declining,0,66.4,91.2,23,83.2,,46.2,Not Eligible,0,0.105
+STU-0341,24CS441,CSE,4,84.1,8.1,7.74,improving,0,87.4,74.3,82,68.7,,76.2,Not Eligible,0,0.108
+STU-2031,25CS331,CSE,2,83.7,9.95,9.55,improving,0,99.0,79.0,40,80.8,,98.0,Not Eligible,0,0.125
+STU-7326,23ME226,Mechanical,6,88.0,7.34,7.12,improving,0,85.2,82.8,124,60.1,,53.2,Eligible,0,0.141
+STU-6644,23ME444,Mechanical,6,76.3,7.51,7.13,improving,0,70.0,74.1,128,85.1,Completed,73.2,Eligible,0,0.159
+STU-4850,24EC450,ECE,3,77.0,7.89,7.73,improving,0,70.3,83.9,59,71.1,,72.4,Not Eligible,0,0.081
+STU-7416,24ME316,Mechanical,3,73.8,8.97,8.6,improving,0,90.1,69.3,61,87.5,Ongoing,94.0,Not Eligible,0,0.076
+STU-4570,22EC170,ECE,8,87.0,9.6,9.03,improving,0,99.0,80.8,169,32.0,Ongoing,91.8,Placed,0,0.066
+STU-0590,25CS690,CSE,2,81.3,8.21,8.07,stable,0,86.2,74.9,44,98.0,,64.2,Not Eligible,0,0.053
+STU-4670,22EC270,ECE,8,82.2,7.92,7.28,improving,0,78.4,72.3,164,51.2,Completed,60.0,Placed,0,0.1
+STU-4155,22EC655,ECE,7,80.6,7.3,7.09,improving,0,67.6,85.6,148,18.7,,68.2,In Process,0,0.175
+STU-3220,23IT620,IT,5,84.5,8.04,8.09,stable,0,78.0,70.9,105,98.0,Completed,58.6,Eligible,0,0.105
+STU-7231,23ME131,Mechanical,6,94.8,6.67,6.72,stable,0,57.1,97.0,128,50.0,,75.7,Eligible,0,0.211
+STU-7809,23CI709,Civil,6,79.7,8.2,8.57,declining,0,80.9,78.4,124,46.0,,73.7,Eligible,0,0.181
+STU-3221,23IT621,IT,6,94.6,7.41,7.23,improving,0,77.3,85.7,127,43.0,,90.9,Eligible,0,0.153
+STU-4884,23EC484,ECE,6,65.0,8.16,8.56,declining,0,80.7,70.0,128,40.0,Completed,70.7,Eligible,0,0.462
+STU-4621,22EC221,ECE,7,75.6,7.92,7.86,stable,1,73.3,78.5,143,67.4,Completed,74.5,In Process,0,0.078
+STU-8065,23CI965,Civil,6,83.0,6.71,6.22,improving,0,68.4,78.5,128,43.3,Completed,57.2,Eligible,0,0.07
+STU-0717,22CS817,CSE,7,79.8,8.26,8.48,declining,0,83.7,77.8,149,98.0,Completed,79.0,Placed,0,0.091
+STU-4457,23EC957,ECE,6,80.9,8.04,7.59,improving,0,79.9,76.2,128,79.7,Completed,79.2,Eligible,0,0.174
+STU-7518,25ME418,Mechanical,1,66.6,8.08,7.89,improving,0,75.6,69.1,18,55.0,,67.8,Not Eligible,0,0.133
+STU-5568,25EE268,EEE,1,80.1,6.71,6.61,stable,0,70.8,62.3,19,53.9,,75.9,Not Eligible,0,0.095
+STU-7198,23ME998,Mechanical,6,74.5,7.67,7.35,improving,1,83.9,62.0,123,46.7,Completed,64.0,In Process,0,0.215
+STU-4247,23EC747,ECE,6,79.2,8.16,8.3,stable,0,79.1,79.4,127,63.7,,83.2,Eligible,0,0.104
+STU-4940,25EC540,ECE,1,77.7,8.1,8.41,declining,0,79.8,68.5,23,53.9,,55.1,Not Eligible,0,0.109
+STU-1978,24CS278,CSE,4,77.7,8.75,8.52,improving,0,86.0,87.5,80,90.9,,92.4,Not Eligible,0,0.055
+STU-7117,22ME917,Mechanical,7,90.3,7.13,7.73,declining,0,65.8,91.3,145,27.4,,79.0,In Process,0,0.227
+STU-3679,25EC179,ECE,2,76.3,9.28,9.44,declining,0,90.5,74.7,42,80.6,,86.6,Not Eligible,0,0.055
+STU-7913,25CI813,Civil,2,85.1,6.19,6.27,stable,0,67.7,84.3,42,57.8,,59.8,Not Eligible,0,0.163
+STU-2501,24IT801,IT,3,83.5,8.35,7.8,improving,0,90.7,83.9,63,70.2,,82.7,Not Eligible,0,0.09
+STU-7768,25CI668,Civil,1,68.9,5.74,5.78,stable,1,51.8,73.4,19,75.5,Ongoing,64.5,Not Eligible,1,0.518
+STU-4937,25EC537,ECE,2,81.1,6.77,6.58,improving,0,75.8,79.2,38,68.0,,69.5,Not Eligible,0,0.083
+STU-2383,23IT683,IT,5,84.4,8.93,8.47,improving,0,87.1,88.1,107,89.0,,66.1,Eligible,0,0.104
+STU-7428,23ME328,Mechanical,5,81.7,8.15,8.16,stable,0,77.7,77.2,106,89.4,,75.3,Eligible,0,0.097
+STU-5990,24EE690,EEE,4,87.1,7.01,7.33,declining,0,77.1,82.5,80,51.3,,58.6,Not Eligible,0,0.126
+STU-4908,22EC508,ECE,8,82.2,6.72,6.83,stable,0,64.4,80.7,166,90.9,Completed,66.5,Placed,0,0.16
+STU-2894,23IT294,IT,6,90.5,7.54,7.29,improving,0,79.3,92.6,127,51.2,Completed,81.2,Eligible,0,0.09
+STU-0718,22CS818,CSE,8,76.9,8.55,8.39,improving,0,80.3,80.0,170,34.0,Completed,82.1,Placed,0,0.071
+STU-3603,24EC103,ECE,4,84.4,7.1,7.26,declining,1,71.9,88.7,78,85.5,,61.0,Not Eligible,0,0.152
+STU-1096,25CS296,CSE,2,74.6,9.46,9.6,stable,0,95.1,64.8,38,14.3,,95.2,Not Eligible,0,0.133
+STU-5278,23EE878,EEE,5,82.2,6.92,6.97,stable,0,62.7,86.8,106,59.1,,59.6,Eligible,0,0.117
+STU-2881,22IT281,IT,8,84.0,7.28,7.55,declining,0,79.1,84.4,169,98.0,Completed,91.9,Not Eligible,0,0.111
+STU-8170,23CI170,Civil,5,77.4,7.25,6.9,improving,1,75.2,74.6,102,83.9,,81.2,In Process,0,0.21
+STU-4090,24EC590,ECE,3,94.8,6.51,6.06,improving,0,67.2,95.5,61,56.3,,48.4,Not Eligible,0,0.185
+STU-0120,23CS220,CSE,5,83.8,7.0,6.43,improving,0,72.9,81.2,107,66.9,,59.0,Eligible,0,0.102
+STU-6768,24ME568,Mechanical,4,71.4,8.13,8.38,declining,0,85.6,75.7,80,65.1,,98.0,Not Eligible,0,0.06
+STU-4009,22EC509,ECE,8,84.1,5.28,4.58,improving,3,48.0,85.1,154,75.3,,70.4,Placed,1,0.942
+STU-6620,22ME420,Mechanical,8,78.5,6.93,6.62,improving,0,77.9,73.2,164,61.6,,57.3,In Process,0,0.154
+STU-4867,23EC467,ECE,5,79.8,7.42,7.41,stable,0,77.2,79.7,101,69.5,Completed,46.3,Eligible,0,0.063
+STU-2612,25IT912,IT,1,82.6,7.09,7.41,declining,0,71.5,74.6,18,98.0,,76.0,Not Eligible,0,0.083
+STU-0517,24CS617,CSE,3,88.7,7.85,8.19,declining,0,88.3,93.7,65,64.4,,68.4,Not Eligible,0,0.16
+STU-6833,22ME633,Mechanical,7,77.8,7.72,8.28,declining,0,73.2,79.0,149,52.2,Completed,53.5,Placed,0,0.165
+STU-1851,24CS151,CSE,3,79.6,8.39,8.32,stable,0,80.9,75.1,65,38.7,,94.0,Not Eligible,0,0.145
+STU-2135,23CS435,CSE,6,76.7,8.62,8.25,improving,0,91.1,75.7,124,39.8,Completed,64.7,Eligible,0,0.054
+STU-6163,25EE863,EEE,1,89.8,6.76,6.79,stable,0,67.6,92.4,22,36.2,,61.9,Not Eligible,0,0.125
+STU-6627,25ME427,Mechanical,2,86.5,7.77,7.57,improving,0,80.5,81.7,38,88.0,,73.7,Not Eligible,0,0.111
+STU-1847,25CS147,CSE,1,61.4,8.16,8.08,stable,0,82.4,59.1,19,70.1,,50.9,Not Eligible,0,0.479
+STU-1497,23CS697,CSE,5,72.3,5.65,5.45,improving,0,64.7,74.1,105,54.3,,42.5,In Process,0,0.28
+STU-6201,25EE901,EEE,2,78.8,9.57,9.55,stable,0,99.0,86.0,42,98.0,,81.0,Not Eligible,0,0.134
+STU-1276,25CS476,CSE,1,82.8,7.73,7.83,stable,0,79.0,84.6,18,55.5,,82.2,Not Eligible,0,0.105
+STU-1613,23CS813,CSE,5,82.9,8.32,8.02,improving,0,86.7,86.3,103,98.0,Completed,77.0,Eligible,0,0.064
+STU-7393,22ME293,Mechanical,8,81.5,6.93,7.0,stable,0,78.3,88.4,170,39.0,Completed,85.8,In Process,0,0.12
+STU-4848,24EC448,ECE,3,82.2,7.55,7.46,stable,0,66.2,75.5,61,50.5,,68.8,Not Eligible,0,0.093
+STU-4609,23EC209,ECE,5,93.0,8.14,8.38,declining,0,89.8,83.1,103,50.1,,91.5,Eligible,0,0.11
+STU-1839,22CS139,CSE,8,78.2,8.55,8.23,improving,0,90.8,79.7,164,50.2,Completed,90.9,Placed,0,0.092
+STU-2571,23IT871,IT,6,80.2,8.8,8.08,improving,0,82.0,75.6,126,81.9,,85.2,Eligible,0,0.061
+STU-0944,22CS144,CSE,7,90.4,7.7,8.23,declining,0,79.5,87.3,145,93.7,,78.4,Placed,0,0.263
+STU-4260,24EC760,ECE,3,89.0,7.61,7.32,improving,0,76.6,85.8,61,45.4,,78.4,Not Eligible,0,0.066
+STU-3628,25EC128,ECE,2,79.6,7.99,8.59,declining,0,79.5,81.4,38,93.1,Ongoing,75.2,Not Eligible,0,0.391
+STU-3731,25EC231,ECE,1,77.9,7.56,7.15,improving,0,76.2,73.8,21,71.8,,81.8,Not Eligible,0,0.057
+STU-7902,23CI802,Civil,6,82.7,7.5,7.81,declining,2,74.0,79.4,118,73.2,,65.9,In Process,1,0.533
+STU-2450,22IT750,IT,7,86.3,7.72,7.4,improving,0,83.4,92.5,147,89.7,Completed,62.6,Placed,0,0.065
+STU-2659,22IT959,IT,8,77.8,7.28,6.46,improving,0,73.9,69.3,170,87.6,,92.8,Not Eligible,0,0.125
+STU-1057,22CS257,CSE,7,89.0,8.54,8.17,improving,0,85.8,92.5,149,45.5,Ongoing,67.2,Placed,0,0.074
+STU-2584,22IT884,IT,7,79.2,7.43,7.25,improving,0,71.4,76.0,143,78.2,,60.0,In Process,0,0.152
+STU-0307,24CS407,CSE,4,95.7,8.56,8.06,improving,0,90.2,85.0,82,37.5,,75.8,Not Eligible,0,0.084
+STU-4416,24EC916,ECE,3,85.0,7.75,7.45,improving,0,84.2,87.6,61,37.7,,66.5,Not Eligible,0,0.089
+STU-2968,25IT368,IT,2,75.9,6.99,6.34,improving,0,68.5,76.2,40,51.9,,66.8,Not Eligible,0,0.11
+STU-6522,24ME322,Mechanical,3,75.4,5.72,6.02,declining,2,56.0,70.0,53,51.3,,66.6,Not Eligible,1,0.663
+STU-1565,22CS765,CSE,7,84.2,7.23,6.58,improving,0,64.9,83.5,145,67.1,,72.3,Not Eligible,0,0.099
+STU-5434,22EE134,EEE,8,76.8,8.77,9.01,declining,0,91.4,75.4,168,71.1,,98.0,Placed,0,0.143
+STU-5108,24EC708,ECE,4,93.0,8.49,8.63,stable,0,76.2,88.7,82,72.9,,79.1,Not Eligible,0,0.11
+STU-1735,25CS935,CSE,2,95.2,6.78,6.48,improving,0,54.3,89.5,44,34.1,,64.6,Not Eligible,0,0.172
+STU-7290,22ME190,Mechanical,8,88.9,7.28,7.13,improving,0,81.5,88.1,164,83.2,,78.3,In Process,0,0.061
+STU-5757,23EE457,EEE,6,85.9,6.73,6.55,improving,0,63.0,84.3,122,63.8,,52.2,Eligible,0,0.095
+STU-4887,23EC487,ECE,5,90.5,8.6,8.86,declining,0,80.9,75.3,103,84.8,Completed,83.4,Eligible,0,0.154
+STU-0685,22CS785,CSE,8,74.8,8.71,9.51,declining,0,88.5,78.0,166,26.0,,92.8,Placed,0,0.231
+STU-7785,23CI685,Civil,5,89.2,7.86,8.03,declining,0,75.4,86.7,101,63.5,Completed,68.3,Eligible,0,0.054
+STU-4786,23EC386,ECE,6,99.0,8.23,8.14,stable,0,77.2,95.4,124,25.7,Completed,80.9,Eligible,0,0.08
+STU-0537,22CS637,CSE,7,90.8,9.84,9.76,stable,0,97.6,89.1,143,80.5,Completed,88.0,Placed,0,0.09
+STU-1868,25CS168,CSE,2,72.5,9.5,9.4,stable,0,99.0,66.5,44,67.3,,96.5,Not Eligible,0,0.116
+STU-1359,24CS559,CSE,3,77.5,7.62,7.54,stable,0,84.7,80.6,59,54.5,Ongoing,60.5,Not Eligible,0,0.113
+STU-8035,24CI935,Civil,3,84.5,6.91,6.74,improving,4,76.6,72.4,45,28.7,,72.7,Not Eligible,1,0.814
+STU-5575,25EE275,EEE,1,86.8,6.46,6.33,stable,0,62.8,84.8,21,47.7,,76.4,Not Eligible,0,0.145
+STU-0992,23CS192,CSE,6,79.3,6.93,7.28,declining,0,67.8,82.1,122,42.5,Completed,59.7,Eligible,0,0.172
+STU-5591,23EE291,EEE,5,73.8,7.81,7.61,improving,0,77.3,85.8,105,53.7,,68.0,Eligible,0,0.14
+STU-4695,24EC295,ECE,4,82.2,7.08,6.76,improving,0,69.4,77.3,86,61.7,,61.8,Not Eligible,0,0.071
+STU-0791,25CS891,CSE,2,93.0,8.37,8.61,declining,0,88.8,95.5,42,54.2,,91.4,Not Eligible,0,0.108
+STU-0482,23CS582,CSE,6,76.7,9.44,8.88,improving,0,93.1,65.6,126,59.6,Completed,98.0,Eligible,0,0.08
+STU-6998,25ME798,Mechanical,1,74.1,7.47,6.67,improving,0,71.4,87.8,21,68.3,,56.7,Not Eligible,0,0.177
+STU-5197,25EC797,ECE,1,83.0,7.25,6.98,improving,0,74.5,77.9,18,44.5,,74.6,Not Eligible,0,0.134
+STU-0260,25CS360,CSE,1,86.3,7.66,7.67,stable,0,74.7,90.0,21,40.0,,94.0,Not Eligible,0,0.067
+STU-1020,25CS220,CSE,1,82.6,6.45,7.03,declining,1,64.7,72.7,19,48.3,,42.0,Not Eligible,0,0.422
+STU-8168,24CI168,Civil,3,83.8,7.36,8.26,declining,1,80.2,76.4,57,86.2,Ongoing,55.6,Not Eligible,1,0.705
+STU-0896,25CS996,CSE,2,86.6,6.52,6.74,declining,0,70.4,82.2,43,98.0,,68.0,Not Eligible,0,0.146
+STU-4569,24EC169,ECE,3,82.8,8.21,7.44,improving,0,84.1,78.3,59,76.4,,73.9,Not Eligible,0,0.062
+STU-1198,22CS398,CSE,8,89.2,8.31,8.23,stable,0,92.0,89.2,169,75.8,Completed,71.1,Placed,0,0.115
+STU-3178,22IT578,IT,8,83.2,8.6,8.47,stable,0,79.7,92.0,169,43.0,Completed,62.2,In Process,0,0.089
+STU-5752,24EE452,EEE,3,69.7,7.04,6.82,improving,0,66.8,71.6,61,22.6,,48.8,Not Eligible,0,0.151
+STU-8407,25CI407,Civil,1,76.4,7.31,7.76,declining,0,71.6,73.3,19,39.5,,71.2,Not Eligible,0,0.293
+STU-3276,22IT676,IT,8,85.6,7.23,7.25,stable,0,69.8,93.2,164,88.3,,76.4,Not Eligible,0,0.058
+STU-0486,22CS586,CSE,8,72.2,8.16,8.41,declining,0,79.4,70.5,168,35.0,Ongoing,83.8,Placed,0,0.119
+STU-2006,23CS306,CSE,6,82.6,7.5,7.36,stable,2,72.2,84.2,118,40.4,Completed,62.1,In Process,0,0.438
+STU-7544,24ME444,Mechanical,3,76.1,6.46,6.88,declining,0,57.7,64.0,65,29.3,,71.5,Not Eligible,0,0.197
+STU-5538,24EE238,EEE,4,83.4,7.29,7.18,stable,0,76.3,75.3,86,32.9,,73.3,Not Eligible,0,0.153
+STU-8018,22CI918,Civil,7,66.3,7.12,7.36,declining,0,65.4,68.7,148,72.8,Completed,68.9,In Process,0,0.301
+STU-3638,23EC138,ECE,6,82.0,7.89,8.13,declining,0,78.3,76.4,124,79.1,Completed,68.7,Eligible,0,0.169
+STU-6866,25ME666,Mechanical,2,94.7,8.0,7.74,improving,0,79.5,82.6,43,66.3,,77.2,Not Eligible,0,0.141
+STU-8387,25CI387,Civil,2,80.8,7.65,7.93,declining,0,81.3,79.8,38,28.6,,73.3,Not Eligible,0,0.159
+STU-2513,25IT813,IT,1,84.5,8.44,8.57,stable,0,82.7,80.9,22,66.2,,91.0,Not Eligible,0,0.066
+STU-5884,25EE584,EEE,2,65.6,5.85,5.83,stable,0,48.4,67.4,42,80.3,,55.5,Not Eligible,1,0.535
+STU-4142,24EC642,ECE,4,74.5,7.98,8.24,declining,1,82.3,79.7,82,97.1,,76.4,Not Eligible,0,0.21
+STU-2940,24IT340,IT,3,87.4,6.79,6.27,improving,0,68.7,84.5,59,62.1,,56.2,Not Eligible,0,0.128
+STU-4787,23EC387,ECE,5,61.0,6.58,6.23,improving,0,66.0,72.0,106,68.4,Completed,98.0,Eligible,0,0.283
+STU-2939,25IT339,IT,2,83.8,8.79,8.97,declining,0,88.3,83.7,43,68.2,,92.0,Not Eligible,0,0.102
+STU-2702,23IT102,IT,5,95.2,8.75,8.85,stable,0,85.4,80.4,103,98.0,Completed,78.8,Eligible,0,0.079
+STU-8149,23CI149,Civil,5,77.9,8.29,7.98,improving,0,94.6,74.6,105,98.0,,87.9,Eligible,0,0.134
+STU-6309,22EE109,EEE,7,80.0,6.97,5.83,improving,0,73.8,77.6,147,74.3,,61.4,Not Eligible,0,0.052
+STU-7716,22CI616,Civil,8,89.0,6.62,6.44,improving,0,66.2,90.3,169,78.9,,58.4,Placed,0,0.099
+STU-1621,24CS821,CSE,4,81.5,9.11,8.61,improving,0,92.0,74.9,85,32.2,Ongoing,98.0,Not Eligible,0,0.054
+STU-3723,24EC223,ECE,4,74.4,7.12,6.86,improving,0,78.0,71.2,84,70.0,,62.6,Not Eligible,0,0.155
+STU-1366,25CS566,CSE,2,67.6,7.73,7.87,stable,0,75.0,57.6,44,16.4,Ongoing,55.3,Not Eligible,0,0.316
+STU-6485,22ME285,Mechanical,8,86.1,6.97,6.84,stable,0,68.2,77.6,164,34.6,,74.3,Not Eligible,0,0.077
+STU-4910,23EC510,ECE,5,84.6,8.28,8.07,improving,0,82.6,77.1,107,49.0,Completed,79.6,Eligible,0,0.117
+STU-1367,23CS567,CSE,6,83.8,7.77,7.89,stable,0,86.4,80.7,126,68.9,,70.8,Eligible,0,0.208
+STU-2607,25IT907,IT,2,73.8,7.12,7.59,declining,0,63.8,82.9,43,33.2,,52.0,Not Eligible,0,0.288
+STU-6589,22ME389,Mechanical,7,69.4,7.65,7.52,stable,0,80.5,63.0,149,62.1,Completed,60.9,Placed,0,0.118
+STU-5006,24EC606,ECE,3,83.7,6.35,5.79,improving,0,71.3,89.9,61,26.8,,62.4,Not Eligible,0,0.187
+STU-4524,22EC124,ECE,7,81.6,7.69,8.25,declining,0,82.2,73.7,148,10.2,,66.3,Placed,0,0.438
+STU-7068,23ME868,Mechanical,6,66.3,7.46,7.31,improving,0,78.2,80.0,122,51.0,,63.2,Eligible,0,0.209
+STU-6188,24EE888,EEE,3,72.9,7.55,7.64,stable,0,78.4,76.8,61,83.4,,92.6,Not Eligible,0,0.185
+STU-5397,24EE997,EEE,3,74.4,8.26,8.07,improving,0,92.4,71.8,63,57.5,,71.3,Not Eligible,0,0.067
+STU-5965,25EE665,EEE,2,89.0,7.68,8.09,declining,0,73.1,97.3,40,42.6,,57.5,Not Eligible,0,0.226
+STU-0943,23CS143,CSE,6,73.4,9.14,9.21,stable,0,90.3,73.3,124,49.3,Ongoing,98.0,Eligible,0,0.053
+STU-7020,25ME820,Mechanical,2,96.9,6.67,6.38,improving,0,57.4,85.4,42,51.2,,86.1,Not Eligible,0,0.116
+STU-2128,25CS428,CSE,2,85.3,7.12,6.74,improving,0,71.1,83.5,40,50.1,,59.9,Not Eligible,0,0.055
+STU-8314,22CI314,Civil,7,89.9,7.17,6.72,improving,0,78.0,84.4,145,93.6,,71.4,In Process,0,0.058
+STU-7033,22ME833,Mechanical,7,72.3,8.81,8.48,improving,0,87.7,67.2,149,52.1,Completed,89.2,In Process,0,0.111
+STU-8208,25CI208,Civil,2,79.3,8.05,8.3,declining,0,76.3,84.7,40,11.8,,64.7,Not Eligible,0,0.203
+STU-2784,24IT184,IT,4,97.5,7.79,7.72,stable,0,70.3,80.0,84,41.4,,77.5,Not Eligible,0,0.097
+STU-7613,23CI513,Civil,6,72.1,5.65,5.11,improving,0,62.3,71.3,124,82.2,Completed,41.9,In Process,0,0.429
+STU-2022,23CS322,CSE,5,86.0,7.99,7.2,improving,0,74.9,82.4,103,52.7,Ongoing,86.9,Eligible,0,0.051
+STU-0878,23CS978,CSE,6,75.9,7.34,8.04,declining,0,66.2,86.9,122,54.1,,75.0,Eligible,0,0.265
+STU-2801,24IT201,IT,3,77.5,7.54,7.08,improving,0,75.8,71.9,61,33.2,,76.9,Not Eligible,0,0.081
+STU-3775,23EC275,ECE,5,80.6,8.99,8.73,improving,0,93.5,84.1,101,52.4,Completed,60.0,Eligible,0,0.044
+STU-2256,25IT556,IT,1,75.4,8.4,8.09,improving,0,78.3,79.4,19,75.9,,80.3,Not Eligible,0,0.143
+STU-7643,23CI543,Civil,6,80.7,7.53,7.31,improving,0,70.9,70.1,122,67.9,Completed,68.3,Eligible,0,0.125
+STU-4238,24EC738,ECE,4,84.0,8.28,8.01,improving,0,75.1,77.0,80,42.4,,95.5,Not Eligible,0,0.042
+STU-5480,25EE180,EEE,2,81.0,8.17,7.85,improving,0,76.2,85.1,40,53.8,,91.4,Not Eligible,0,0.138
+STU-3380,25IT780,IT,1,69.1,7.29,6.58,improving,0,76.3,74.7,23,95.0,,68.2,Not Eligible,0,0.118
+STU-0692,24CS792,CSE,4,79.9,7.39,6.84,improving,0,67.3,78.9,80,77.0,,78.6,Not Eligible,0,0.068
+STU-1738,25CS938,CSE,2,86.3,8.06,8.12,stable,0,73.6,77.7,44,77.3,,95.2,Not Eligible,0,0.091
+STU-5715,25EE415,EEE,2,76.5,6.81,6.59,improving,0,62.8,70.0,40,52.7,,66.2,Not Eligible,0,0.121
+STU-8216,24CI216,Civil,4,85.0,6.54,6.76,declining,0,65.9,90.2,86,23.0,Ongoing,51.3,Not Eligible,0,0.16
+STU-6703,22ME503,Mechanical,8,79.3,5.76,5.45,improving,0,60.9,79.0,169,98.0,Ongoing,61.0,Placed,0,0.141
+STU-2982,25IT382,IT,2,84.4,8.47,8.44,stable,0,79.8,74.1,38,70.5,,88.7,Not Eligible,0,0.096
+STU-4765,23EC365,ECE,6,89.5,7.77,7.76,stable,0,76.8,85.6,127,98.0,Completed,69.9,Eligible,0,0.104
+STU-6689,22ME489,Mechanical,8,78.8,6.65,6.89,declining,0,55.3,74.9,170,21.5,,70.4,Placed,0,0.232
+STU-3317,23IT717,IT,6,65.6,7.21,6.7,improving,0,74.9,57.3,126,53.8,,61.7,Eligible,0,0.328
+STU-3913,23EC413,ECE,6,71.4,8.72,7.8,improving,0,87.9,73.2,128,98.0,Completed,91.8,Eligible,0,0.065
+STU-4589,24EC189,ECE,3,75.0,7.42,8.33,declining,0,78.0,72.5,59,73.9,,76.3,Not Eligible,0,0.195
+STU-3249,25IT649,IT,2,88.4,9.95,10.0,stable,0,97.1,92.2,38,69.7,,87.0,Not Eligible,0,0.074
+STU-6603,24ME403,Mechanical,3,76.5,7.65,7.62,stable,0,74.6,80.2,64,25.6,,74.9,Not Eligible,0,0.083
+STU-3006,22IT406,IT,7,87.0,8.51,8.07,improving,0,85.6,88.9,148,54.9,Completed,83.3,Placed,0,0.109
+STU-8317,24CI317,Civil,4,79.3,5.66,5.96,declining,0,47.5,92.2,85,70.0,,57.8,Not Eligible,1,0.514
+STU-2909,23IT309,IT,5,83.0,7.81,7.36,improving,0,82.5,77.5,101,55.7,,73.5,Eligible,0,0.059
+STU-8043,25CI943,Civil,1,66.3,7.09,7.12,stable,0,72.7,63.0,18,43.5,,84.7,Not Eligible,0,0.233
+STU-8282,25CI282,Civil,1,83.1,8.75,8.87,stable,0,82.7,83.9,23,69.1,,87.9,Not Eligible,0,0.134
+STU-7467,22ME367,Mechanical,7,76.3,8.33,7.87,improving,0,69.3,75.4,143,61.7,Ongoing,72.6,Placed,0,0.11
+STU-3666,23EC166,ECE,6,70.7,8.29,8.33,stable,0,86.1,60.5,127,72.9,Completed,83.9,Eligible,0,0.125
+STU-7772,23CI672,Civil,6,63.3,6.91,7.31,declining,0,73.3,55.8,127,71.4,Ongoing,59.7,Eligible,1,0.503
+STU-0140,22CS240,CSE,8,87.8,7.48,7.71,declining,0,64.6,80.4,168,54.1,,83.2,Placed,0,0.029
+STU-4294,25EC794,ECE,1,92.3,8.3,8.41,stable,0,71.8,76.8,22,42.8,,88.8,Not Eligible,0,0.129
+STU-6391,25ME191,Mechanical,1,85.4,7.84,7.23,improving,0,77.4,80.4,19,62.4,,62.0,Not Eligible,0,0.091
+STU-1901,23CS201,CSE,5,81.3,8.66,8.38,improving,0,79.1,76.0,106,82.6,Completed,97.9,Eligible,0,0.101
+STU-2443,23IT743,IT,5,92.8,8.48,8.49,stable,0,90.1,93.2,103,93.6,Completed,94.6,Eligible,0,0.065
+STU-4291,23EC791,ECE,6,84.9,9.13,8.99,stable,0,88.4,77.7,124,43.9,Completed,91.8,Eligible,0,0.088
+STU-3681,25EC181,ECE,2,73.8,6.65,6.89,declining,0,68.5,84.9,44,51.4,,71.5,Not Eligible,0,0.062
+STU-7255,24ME155,Mechanical,4,77.5,6.87,6.43,improving,1,64.5,79.0,76,64.2,,67.4,Not Eligible,0,0.226
+STU-2442,25IT742,IT,2,86.6,9.27,8.81,improving,0,95.3,83.5,43,80.8,,88.0,Not Eligible,0,0.086
+STU-4774,23EC374,ECE,5,79.8,8.02,7.72,improving,0,75.3,79.7,103,50.3,Completed,91.2,Eligible,0,0.08
+STU-2244,22IT544,IT,7,86.9,7.89,8.18,declining,0,74.7,78.0,147,54.2,,74.3,Placed,0,0.108
+STU-2599,24IT899,IT,4,87.0,7.11,6.69,improving,0,61.9,77.7,82,53.6,,86.6,Not Eligible,0,0.102
+STU-5254,24EE854,EEE,3,79.0,8.18,8.1,stable,0,86.7,87.1,63,54.8,,62.1,Not Eligible,0,0.139
+STU-3797,25EC297,ECE,2,89.3,7.27,7.48,declining,0,66.1,94.5,38,98.0,,97.9,Not Eligible,0,0.037
+STU-1419,24CS619,CSE,4,87.6,7.5,7.0,improving,0,83.5,78.1,84,80.5,,76.1,Not Eligible,0,0.1
+STU-2543,25IT843,IT,1,83.6,7.09,7.39,declining,0,73.6,78.9,21,62.9,Ongoing,75.5,Not Eligible,0,0.155
+STU-1237,22CS437,CSE,7,90.6,8.77,8.79,stable,0,80.1,90.1,149,62.6,Completed,80.5,Placed,0,0.091
+STU-2692,23IT992,IT,6,94.5,9.26,9.62,declining,0,85.1,95.9,126,94.1,Completed,86.6,Eligible,0,0.17
+STU-1873,24CS173,CSE,4,70.4,6.56,5.95,improving,0,63.2,55.4,85,61.0,,52.2,Not Eligible,0,0.083
+STU-2762,25IT162,IT,1,99.0,7.92,7.37,improving,0,86.4,96.2,23,67.6,Ongoing,76.7,Not Eligible,0,0.051
+STU-0079,24CS179,CSE,3,78.5,8.8,8.59,improving,0,95.3,74.0,64,75.9,,80.6,Not Eligible,0,0.093
+STU-1482,25CS682,CSE,1,74.2,7.25,7.53,declining,0,60.9,72.2,21,67.1,,82.1,Not Eligible,0,0.099
+STU-7668,24CI568,Civil,4,75.9,7.36,7.22,stable,0,67.5,78.0,86,38.6,Ongoing,66.4,Not Eligible,0,0.065
+STU-3406,25IT806,IT,1,95.0,7.22,6.75,improving,0,68.7,93.2,23,61.0,,74.3,Not Eligible,0,0.076
+STU-8062,25CI962,Civil,1,78.9,7.25,7.53,declining,0,79.3,78.7,21,87.3,,45.5,Not Eligible,0,0.083
+STU-8025,23CI925,Civil,6,70.1,7.12,7.35,declining,0,71.9,64.5,122,58.5,Completed,54.8,Eligible,0,0.159
+STU-0611,25CS711,CSE,1,83.7,6.61,7.12,declining,0,64.1,87.8,21,24.4,,71.9,Not Eligible,0,0.251
+STU-1377,24CS577,CSE,4,81.2,8.51,8.39,stable,0,82.8,79.1,86,80.3,,70.2,Not Eligible,0,0.092
+STU-3435,24IT835,IT,4,81.0,9.58,9.61,stable,0,85.1,85.6,86,33.2,,79.1,Not Eligible,0,0.076
+STU-4692,23EC292,ECE,5,82.0,6.84,6.21,improving,0,66.1,81.5,103,32.3,,82.1,Eligible,0,0.148
